@@ -1,9 +1,9 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from routers.state import router as state_router
-from routers.district import router as district_router
-from routers.tehsil import router as tehsil_router
+from api.routers.state import router as state_router
+from api.routers.district import router as district_router
+from api.routers.tehsil import router as tehsil_router
 
 # -----------------------------
 # CREATE APP FIRST (IMPORTANT)
