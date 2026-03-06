@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Bishnupur_South",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_004566",
+        "issue": "Corruption & Bribery",
+        "location": "Bishnupur South",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_66f0fe",
+        "issue": "Crime & Law and Order",
+        "location": "Bishnupur South",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_66f0fe",
+        "issue": "Crime & Law and Order",
+        "activeDays": 45,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_004566",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Diamond_Harbour",
+    "total_signals": 35,
+    "generated_at": "2026-01-19T19:16:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.6,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.4,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Environmental Degradation"
+      ],
+      "contested_issues": []
+    }
+  }
+}

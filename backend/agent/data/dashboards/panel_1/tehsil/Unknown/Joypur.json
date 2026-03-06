@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Joypur",
+    "district": "Unknown",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 69.9,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-15 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-05",
+        "sentiment": 77.2,
+        "rollingAverage": 77.2
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 51.2,
+        "rollingAverage": 64.2
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 81.3,
+        "rollingAverage": 69.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 5.01,
+        "confidence": 0.2
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.13,
+        "confidence": 0.045
+      },
+      {
+        "emotion": "Trust",
+        "value": 18.63,
+        "confidence": 0.745
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.24,
+        "confidence": 0.009
+      }
+    ]
+  }
+}

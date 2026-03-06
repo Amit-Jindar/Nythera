@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Dakshin_Dinajpur",
+    "name": "Balurghat",
+    "total_signals": 12,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_d22795",
+        "issue": "Healthcare Access & Services",
+        "location": "Balurghat",
+        "severity": 9.5,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_179d4a",
+        "issue": "Education System Issues",
+        "location": "Balurghat",
+        "severity": 6.0,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_072171",
+        "issue": "Crime & Law and Order",
+        "location": "Balurghat",
+        "severity": 9.9,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_331fc8",
+        "issue": "Corruption & Bribery",
+        "location": "Balurghat",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_072171",
+        "issue": "Crime & Law and Order",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_331fc8",
+        "issue": "Corruption & Bribery",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_d22795",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_179d4a",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

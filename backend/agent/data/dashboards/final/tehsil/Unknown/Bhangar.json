@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Bhangar",
+    "total_signals": 3,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 79.8,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-04 07:49 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-25",
+        "sentiment": 84.8,
+        "rollingAverage": 84.8
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 74.8,
+        "rollingAverage": 79.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 8.62,
+        "confidence": 0.345
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.58,
+        "confidence": 0.023
+      },
+      {
+        "emotion": "Trust",
+        "value": 15.69,
+        "confidence": 0.628
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.11,
+        "confidence": 0.004
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_cc6d75",
+        "issue": "Crime & Law and Order",
+        "location": "Bhangar",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_cc6d75",
+        "issue": "Crime & Law and Order",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 88.5,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 88.5,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 1.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [],
+      "noise_issues": [],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

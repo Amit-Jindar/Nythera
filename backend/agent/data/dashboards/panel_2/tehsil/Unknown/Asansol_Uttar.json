@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Asansol_Uttar",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_cf1355",
+        "issue": "Corruption & Bribery",
+        "location": "Asansol Uttar",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_452a2f",
+        "issue": "Healthcare Access & Services",
+        "location": "Asansol Uttar",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_cf1355",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_452a2f",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

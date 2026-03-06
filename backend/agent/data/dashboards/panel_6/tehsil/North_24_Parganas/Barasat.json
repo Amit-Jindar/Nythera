@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Barasat",
+    "total_signals": 245,
+    "generated_at": "2026-01-19T19:16:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.75,
+      "medium_credibility_ratio": 0.12,
+      "low_credibility_ratio": 0.12,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Traffic & Road Safety"
+      ],
+      "noise_issues": [
+        "Road & Infrastructure Issues"
+      ],
+      "contested_issues": [
+        "Women Safety & Crimes"
+      ]
+    }
+  }
+}

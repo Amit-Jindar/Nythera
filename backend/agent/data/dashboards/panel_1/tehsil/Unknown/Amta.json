@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Amta",
+    "district": "Unknown",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 75.6,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-09 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-07",
+        "sentiment": 65.2,
+        "rollingAverage": 65.2
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 73.6,
+        "rollingAverage": 69.4
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 88.0,
+        "rollingAverage": 75.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.39,
+        "confidence": 0.016
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.71,
+        "confidence": 0.308
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.61,
+        "confidence": 0.664
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.29,
+        "confidence": 0.012
+      }
+    ]
+  }
+}

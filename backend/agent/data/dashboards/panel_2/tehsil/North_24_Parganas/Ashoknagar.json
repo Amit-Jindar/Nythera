@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Ashoknagar",
+    "total_signals": 45,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_b986b8",
+        "issue": "Healthcare Access & Services",
+        "location": "Ashoknagar",
+        "severity": 9.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_bcf03b",
+        "issue": "Public Transport Issues",
+        "location": "Ashoknagar",
+        "severity": 7.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e93773",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Ashoknagar",
+        "severity": 6.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1e01a8",
+        "issue": "Corruption & Bribery",
+        "location": "Ashoknagar",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b5c096",
+        "issue": "Environmental Degradation",
+        "location": "Ashoknagar",
+        "severity": 5.9,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_686692",
+        "issue": "Crime & Law and Order",
+        "location": "Ashoknagar",
+        "severity": 9.9,
+        "volume": 32,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d15efb",
+        "issue": "Sanitation & Waste Management",
+        "location": "Ashoknagar",
+        "severity": 7.8,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d15efb",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_686692",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_1e01a8",
+        "issue": "Corruption & Bribery",
+        "activeDays": 3,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_bcf03b",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_e93773",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_b986b8",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_b5c096",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Purba_Medinipur",
+    "district": "Unknown",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 80.1,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-22 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-27",
+        "sentiment": 81.3,
+        "rollingAverage": 81.3
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 75.6,
+        "rollingAverage": 78.4
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 83.4,
+        "rollingAverage": 80.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 9.44,
+        "confidence": 0.378
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.42,
+        "confidence": 0.137
+      },
+      {
+        "emotion": "Trust",
+        "value": 11.77,
+        "confidence": 0.471
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.37,
+        "confidence": 0.015
+      }
+    ]
+  }
+}

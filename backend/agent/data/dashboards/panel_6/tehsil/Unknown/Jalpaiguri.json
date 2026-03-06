@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Jalpaiguri",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:16:46+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.2,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.6,
+      "verified_issues": [
+        "Education System Issues"
+      ],
+      "noise_issues": [
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

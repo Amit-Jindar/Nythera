@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Jangipur",
+    "district": "Unknown",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 72.27,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-27 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-10",
+        "sentiment": 63.1,
+        "rollingAverage": 63.1
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 80.4,
+        "rollingAverage": 71.8
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 73.3,
+        "rollingAverage": 72.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 6.19,
+        "confidence": 0.248
+      },
+      {
+        "emotion": "Fear",
+        "value": 5.06,
+        "confidence": 0.202
+      },
+      {
+        "emotion": "Trust",
+        "value": 13.48,
+        "confidence": 0.539
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.27,
+        "confidence": 0.011
+      }
+    ]
+  }
+}

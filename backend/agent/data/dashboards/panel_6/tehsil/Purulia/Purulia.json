@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purulia",
+    "name": "Purulia",
+    "total_signals": 64,
+    "generated_at": "2026-01-19T19:16:47+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.57,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.43,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Environmental Degradation",
+        "Healthcare Access & Services",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": []
+    }
+  }
+}

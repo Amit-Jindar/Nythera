@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Durgapur_Paschim",
+    "total_signals": 83,
+    "generated_at": "2026-01-19T19:09:28+00:00Z"
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Women Security Cell + Police + Education Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_34ade4",
+        "issue": "Women Safety & Crimes",
+        "department": "Women Security Cell",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  }
+}

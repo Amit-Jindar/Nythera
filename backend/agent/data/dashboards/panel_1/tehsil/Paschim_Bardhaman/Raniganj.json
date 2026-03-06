@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Raniganj",
+    "district": "Paschim_Bardhaman",
+    "total_signals": 15,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 46.77,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-30 09:29 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-26",
+        "sentiment": 46.3,
+        "rollingAverage": 46.3
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 43.9,
+        "rollingAverage": 45.1
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 37.9,
+        "rollingAverage": 42.7
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 50.3,
+        "rollingAverage": 44.6
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 35.7,
+        "rollingAverage": 42.8
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 56.7,
+        "rollingAverage": 45.1
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 55.1,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 40.1,
+        "rollingAverage": 45.7
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 54.9,
+        "rollingAverage": 47.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.56,
+        "confidence": 0.023
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.71,
+        "confidence": 0.068
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.6,
+        "confidence": 0.904
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.13,
+        "confidence": 0.005
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Malda",
+    "name": "Gazole",
+    "total_signals": 77,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_24a0f0",
+        "issue": "Crime & Law and Order",
+        "location": "Gazole",
+        "severity": 9.9,
+        "volume": 64,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_0b0f93",
+        "issue": "Education System Issues",
+        "location": "Gazole",
+        "severity": 6.0,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f34a4b",
+        "issue": "Corruption & Bribery",
+        "location": "Gazole",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e3526b",
+        "issue": "Women Safety & Crimes",
+        "location": "Gazole",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d463f3",
+        "issue": "Sanitation & Waste Management",
+        "location": "Gazole",
+        "severity": 7.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_0bec96",
+        "issue": "Healthcare Access & Services",
+        "location": "Gazole",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_24a0f0",
+        "issue": "Crime & Law and Order",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f34a4b",
+        "issue": "Corruption & Bribery",
+        "activeDays": 38,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_0bec96",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 22,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_e3526b",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 15,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_d463f3",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 12,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_0b0f93",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

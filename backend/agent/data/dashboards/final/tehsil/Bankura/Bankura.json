@@ -1,0 +1,544 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Bankura",
+    "name": "Bankura",
+    "total_signals": 60,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 50.2,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-07 16:47 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-03-19",
+        "sentiment": 67.5,
+        "rollingAverage": 67.5
+      },
+      {
+        "date": "2025-03-20",
+        "sentiment": 51.1,
+        "rollingAverage": 59.3
+      },
+      {
+        "date": "2025-07-30",
+        "sentiment": 58.2,
+        "rollingAverage": 58.9
+      },
+      {
+        "date": "2025-08-04",
+        "sentiment": 55.2,
+        "rollingAverage": 58.0
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 38.2,
+        "rollingAverage": 54.0
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 36.1,
+        "rollingAverage": 51.1
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 56.9,
+        "rollingAverage": 51.9
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 44.6,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 78.9,
+        "rollingAverage": 52.6
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 37.8,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 47.8,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-11-10",
+        "sentiment": 51.2,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 89.0,
+        "rollingAverage": 58.0
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 46.0,
+        "rollingAverage": 56.5
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 67.0,
+        "rollingAverage": 59.7
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 43.9,
+        "rollingAverage": 54.7
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 47.7,
+        "rollingAverage": 56.1
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 41.6,
+        "rollingAverage": 55.2
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 66.1,
+        "rollingAverage": 57.3
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 63.5,
+        "rollingAverage": 53.7
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 37.8,
+        "rollingAverage": 52.5
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 40.4,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 48.0,
+        "rollingAverage": 49.3
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 45.3,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 44.9,
+        "rollingAverage": 49.4
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 63.4,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 36.4,
+        "rollingAverage": 45.2
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 39.0,
+        "rollingAverage": 45.3
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 53.6,
+        "rollingAverage": 47.2
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 57.0,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 40.6,
+        "rollingAverage": 47.8
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 47.9,
+        "rollingAverage": 48.3
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 40.1,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 35.0,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 39.2,
+        "rollingAverage": 44.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.29,
+        "confidence": 0.052
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.73,
+        "confidence": 0.069
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.93,
+        "confidence": 0.877
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_9580c2",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Bankura",
+        "severity": 6.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_49f259",
+        "issue": "Traffic & Road Safety",
+        "location": "Bankura",
+        "severity": 7.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_49b106",
+        "issue": "Crime & Law and Order",
+        "location": "Bankura",
+        "severity": 9.9,
+        "volume": 33,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_82efdf",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bankura",
+        "severity": 7.8,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fa2d75",
+        "issue": "Corruption & Bribery",
+        "location": "Bankura",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f9c808",
+        "issue": "Environmental Degradation",
+        "location": "Bankura",
+        "severity": 6.2,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5e6c3d",
+        "issue": "Education System Issues",
+        "location": "Bankura",
+        "severity": 6.0,
+        "volume": 10,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_5e6c3d",
+        "issue": "Education System Issues",
+        "activeDays": 285,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_49b106",
+        "issue": "Crime & Law and Order",
+        "activeDays": 160,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_82efdf",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_f9c808",
+        "issue": "Environmental Degradation",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_fa2d75",
+        "issue": "Corruption & Bribery",
+        "activeDays": 54,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_49f259",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_9580c2",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 2,
+      "zone": "Police + Municipal Corporation + Anti Corruption Bureau (ACB)",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.07
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_bff5b5",
+        "issue": "Farmer & Agriculture Issues",
+        "department": "Agriculture Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 38,
+      "pressure": 38,
+      "capacity": 62,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 8,
+      "pressure": 8,
+      "capacity": 92,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 7,
+      "pressure": 7,
+      "capacity": 93,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_309201",
+      "department": "Environment Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_309201",
+        "department": "Environment Department",
+        "trustScore": 95.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 93.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 92.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 88.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 82.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 81.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 26.1,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.43,
+      "medium_credibility_ratio": 0.29,
+      "low_credibility_ratio": 0.29,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Environmental Degradation",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": [
+        "Corruption & Bribery",
+        "Farmer & Agriculture Issues"
+      ]
+    }
+  }
+}

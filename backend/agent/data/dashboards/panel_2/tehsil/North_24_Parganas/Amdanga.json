@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Amdanga",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_25236b",
+        "issue": "Sanitation & Waste Management",
+        "location": "Amdanga",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_577e69",
+        "issue": "Crime & Law and Order",
+        "location": "Amdanga",
+        "severity": 9.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_577e69",
+        "issue": "Crime & Law and Order",
+        "activeDays": 36,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_25236b",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 27,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Raghunathganj",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_56d1ff",
+        "issue": "Crime & Law and Order",
+        "location": "Raghunathganj",
+        "severity": 9.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_56d1ff",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      }
+    ]
+  }
+}

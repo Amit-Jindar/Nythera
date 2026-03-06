@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Hooghly",
+    "name": "Khanakul",
+    "total_signals": 14,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_21c5a2",
+        "issue": "Corruption & Bribery",
+        "location": "Khanakul",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_476640",
+        "issue": "Sanitation & Waste Management",
+        "location": "Khanakul",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_56ae0f",
+        "issue": "Crime & Law and Order",
+        "location": "Khanakul",
+        "severity": 10.0,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_93849a",
+        "issue": "Education System Issues",
+        "location": "Khanakul",
+        "severity": 5.9,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_56ae0f",
+        "issue": "Crime & Law and Order",
+        "activeDays": 62,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_93849a",
+        "issue": "Education System Issues",
+        "activeDays": 15,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_21c5a2",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_476640",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      }
+    ]
+  }
+}

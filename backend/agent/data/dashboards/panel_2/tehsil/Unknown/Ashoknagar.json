@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Ashoknagar",
+    "total_signals": 19,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_e93773",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Ashoknagar",
+        "severity": 7.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_269778",
+        "issue": "Education System Issues",
+        "location": "Ashoknagar",
+        "severity": 6.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b986b8",
+        "issue": "Healthcare Access & Services",
+        "location": "Ashoknagar",
+        "severity": 9.8,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_686692",
+        "issue": "Crime & Law and Order",
+        "location": "Ashoknagar",
+        "severity": 10.0,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_686692",
+        "issue": "Crime & Law and Order",
+        "activeDays": 68,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b986b8",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 19,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_269778",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_e93773",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

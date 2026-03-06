@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Hooghly",
+    "name": "Tarakeswar",
+    "total_signals": 131,
+    "enriched_signals": 8,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:37.417115+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 45.33,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-30 08:20 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-06",
+        "sentiment": 37.9,
+        "rollingAverage": 37.9
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 45.7,
+        "rollingAverage": 41.8
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 52.4,
+        "rollingAverage": 45.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.63,
+        "confidence": 0.025
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.05,
+        "confidence": 0.042
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.28,
+        "confidence": 0.931
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_657d26",
+        "issue": "Healthcare Access & Services",
+        "location": "Tarakeswar",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_5ca7fb",
+        "issue": "Education System Issues",
+        "location": "Tarakeswar",
+        "severity": 6.0,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_17bee7",
+        "issue": "Crime & Law and Order",
+        "location": "Tarakeswar",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_91804b",
+        "issue": "Sanitation & Waste Management",
+        "location": "Tarakeswar",
+        "severity": 7.8,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_91804b",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 22,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_5ca7fb",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_657d26",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_17bee7",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 95.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 95.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 93.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 92.2,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 93.7,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.25,
+      "low_credibility_ratio": 0.75,
+      "verified_issues": [],
+      "noise_issues": [
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": [
+        "Sanitation & Waste Management"
+      ]
+    }
+  }
+}

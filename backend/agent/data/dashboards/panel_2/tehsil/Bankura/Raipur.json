@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Bankura",
+    "name": "Raipur",
+    "total_signals": 86,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_18c9d1",
+        "issue": "Corruption & Bribery",
+        "location": "Raipur",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_08f739",
+        "issue": "Healthcare Access & Services",
+        "location": "Raipur",
+        "severity": 9.2,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_7ba4a3",
+        "issue": "Women Safety & Crimes",
+        "location": "Raipur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ef1716",
+        "issue": "Public Transport Issues",
+        "location": "Raipur",
+        "severity": 7.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_636b7c",
+        "issue": "Crime & Law and Order",
+        "location": "Raipur",
+        "severity": 9.9,
+        "volume": 55,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_0692d4",
+        "issue": "Sanitation & Waste Management",
+        "location": "Raipur",
+        "severity": 7.8,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5f107f",
+        "issue": "Education System Issues",
+        "location": "Raipur",
+        "severity": 5.8,
+        "volume": 6,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_636b7c",
+        "issue": "Crime & Law and Order",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_5f107f",
+        "issue": "Education System Issues",
+        "activeDays": 63,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_0692d4",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 63,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_18c9d1",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_08f739",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_7ba4a3",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_ef1716",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      }
+    ]
+  }
+}

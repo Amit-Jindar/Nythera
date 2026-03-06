@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Baghmundi",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:11:27+00:00Z"
+  },
+  "PANEL_4": [
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ]
+}

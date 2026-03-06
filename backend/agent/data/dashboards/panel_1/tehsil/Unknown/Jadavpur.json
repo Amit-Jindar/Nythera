@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Jadavpur",
+    "district": "Unknown",
+    "total_signals": 12,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 61.27,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-05 21:04 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-04",
+        "sentiment": 56.2,
+        "rollingAverage": 56.2
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 52.8,
+        "rollingAverage": 54.5
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 78.8,
+        "rollingAverage": 62.6
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 57.9,
+        "rollingAverage": 61.4
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 62.0,
+        "rollingAverage": 61.5
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 68.0,
+        "rollingAverage": 62.6
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 56.4,
+        "rollingAverage": 61.7
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 63.2,
+        "rollingAverage": 62.7
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 65.2,
+        "rollingAverage": 64.5
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 52.2,
+        "rollingAverage": 60.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.02,
+        "confidence": 0.041
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.5,
+        "confidence": 0.1
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.26,
+        "confidence": 0.85
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.22,
+        "confidence": 0.009
+      }
+    ]
+  }
+}

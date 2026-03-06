@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim_Medinipur",
+    "name": "Ghatal",
+    "total_signals": 61,
+    "generated_at": "2026-01-19T19:16:47+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.4,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.4,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Sanitation & Waste Management"
+      ]
+    }
+  }
+}

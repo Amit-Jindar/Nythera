@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Jhargram",
+    "total_signals": 11,
+    "generated_at": "2026-01-19T18:35:11.883764+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f361ce",
+        "issue": "Education System Issues",
+        "location": "Binpur",
+        "severity": 6.1,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_1cd3fd",
+        "issue": "Sanitation & Waste Management",
+        "location": "Binpur",
+        "severity": 7.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_9a4b4d",
+        "issue": "Crime & Law and Order",
+        "location": "Binpur",
+        "severity": 9.9,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_9a4b4d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_1cd3fd",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_f361ce",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

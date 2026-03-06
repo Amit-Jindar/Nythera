@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Tufanganj",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 79.7,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-10-14 01:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-13",
+        "sentiment": 72.5,
+        "rollingAverage": 72.5
+      },
+      {
+        "date": "2025-10-14",
+        "sentiment": 86.9,
+        "rollingAverage": 79.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 11.54,
+        "confidence": 0.462
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.67,
+        "confidence": 0.347
+      },
+      {
+        "emotion": "Trust",
+        "value": 4.68,
+        "confidence": 0.187
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.1,
+        "confidence": 0.004
+      }
+    ]
+  }
+}

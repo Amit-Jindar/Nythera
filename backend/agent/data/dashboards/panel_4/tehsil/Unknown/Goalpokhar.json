@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Goalpokhar",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:11:27+00:00Z"
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim_Bardhaman",
+    "name": "Durgapur_Paschim",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_e98cf0",
+        "issue": "Women Safety & Crimes",
+        "location": "Durgapur Paschim",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_e98cf0",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

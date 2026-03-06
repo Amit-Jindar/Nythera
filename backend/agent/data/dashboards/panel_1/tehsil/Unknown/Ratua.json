@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Ratua",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 68.4,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-06 21:02 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-30",
+        "sentiment": 67.5,
+        "rollingAverage": 67.5
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 69.3,
+        "rollingAverage": 68.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 6.5,
+        "confidence": 0.26
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.57,
+        "confidence": 0.023
+      },
+      {
+        "emotion": "Trust",
+        "value": 17.59,
+        "confidence": 0.704
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.34,
+        "confidence": 0.014
+      }
+    ]
+  }
+}

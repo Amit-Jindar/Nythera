@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Chopra",
+    "district": "Unknown",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 60.1,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-23 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-11",
+        "sentiment": 52.5,
+        "rollingAverage": 52.5
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 68.8,
+        "rollingAverage": 60.6
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 55.5,
+        "rollingAverage": 58.9
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 63.6,
+        "rollingAverage": 60.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.2,
+        "confidence": 0.008
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.33,
+        "confidence": 0.013
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.86,
+        "confidence": 0.874
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 2.61,
+        "confidence": 0.104
+      }
+    ]
+  }
+}

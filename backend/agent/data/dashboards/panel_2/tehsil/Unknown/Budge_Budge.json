@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Budge_Budge",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_ad98e3",
+        "issue": "Healthcare Access & Services",
+        "location": "Budge Budge",
+        "severity": 9.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_928a0c",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Budge Budge",
+        "severity": 7.5,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_349807",
+        "issue": "Crime & Law and Order",
+        "location": "Budge Budge",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_349807",
+        "issue": "Crime & Law and Order",
+        "activeDays": 3,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_ad98e3",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 2,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_928a0c",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

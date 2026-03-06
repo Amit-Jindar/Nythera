@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Bhagabangola",
+    "total_signals": 432,
+    "enriched_signals": 23,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:42.830842+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 46.81,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-03 20:47 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-21",
+        "sentiment": 62.3,
+        "rollingAverage": 62.3
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 47.4,
+        "rollingAverage": 54.8
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 57.5,
+        "rollingAverage": 55.7
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 52.7,
+        "rollingAverage": 55.0
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 37.7,
+        "rollingAverage": 51.5
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 35.9,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 43.8,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 37.2,
+        "rollingAverage": 44.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.73,
+        "confidence": 0.029
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.64,
+        "confidence": 0.106
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.57,
+        "confidence": 0.863
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_26752d",
+        "issue": "Education System Issues",
+        "location": "Bhagabangola",
+        "severity": 6.0,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_57fb94",
+        "issue": "Crime & Law and Order",
+        "location": "Bhagabangola",
+        "severity": 9.9,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_74a1c8",
+        "issue": "Healthcare Access & Services",
+        "location": "Bhagabangola",
+        "severity": 9.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1d793e",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bhagabangola",
+        "severity": 7.8,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1ebe4e",
+        "issue": "Corruption & Bribery",
+        "location": "Bhagabangola",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_57fb94",
+        "issue": "Crime & Law and Order",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_1ebe4e",
+        "issue": "Corruption & Bribery",
+        "activeDays": 9,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_1d793e",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 6,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_74a1c8",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_26752d",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.07
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 21,
+      "pressure": 21,
+      "capacity": 79,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 95.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 95.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 92.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 91.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 33.6,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 50.3,
+      "trend": "Stable",
+      "change": 0.0,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.2,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.6,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Education System Issues",
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": [
+        "Sanitation & Waste Management"
+      ]
+    }
+  }
+}

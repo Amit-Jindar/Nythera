@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Sonarpur_Dakshin",
+    "district": "South_24_Parganas",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 41.55,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-10-30 11:15 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-28",
+        "sentiment": 44.1,
+        "rollingAverage": 44.1
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 39.0,
+        "rollingAverage": 41.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.13,
+        "confidence": 0.005
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.31,
+        "confidence": 0.013
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.51,
+        "confidence": 0.98
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

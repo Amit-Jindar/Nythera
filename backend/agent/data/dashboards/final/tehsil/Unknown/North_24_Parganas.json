@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "North_24_Parganas",
+    "total_signals": 7,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 76.01,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-03 06:38 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-18",
+        "sentiment": 50.2,
+        "rollingAverage": 50.2
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 61.6,
+        "rollingAverage": 55.9
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 89.4,
+        "rollingAverage": 67.1
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 85.1,
+        "rollingAverage": 71.6
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 87.5,
+        "rollingAverage": 74.8
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 73.2,
+        "rollingAverage": 74.5
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 85.1,
+        "rollingAverage": 76.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.67,
+        "confidence": 0.067
+      },
+      {
+        "emotion": "Fear",
+        "value": 9.85,
+        "confidence": 0.394
+      },
+      {
+        "emotion": "Trust",
+        "value": 13.07,
+        "confidence": 0.523
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.4,
+        "confidence": 0.016
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_07b6dd",
+        "issue": "Healthcare Access & Services",
+        "location": "North 24 Parganas",
+        "severity": 9.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3d6e58",
+        "issue": "Crime & Law and Order",
+        "location": "North 24 Parganas",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8f22a6",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "North 24 Parganas",
+        "severity": 7.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3d6e58",
+        "issue": "Crime & Law and Order",
+        "activeDays": 77,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_8f22a6",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 42,
+        "persistenceStatus": "stuck",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_07b6dd",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 96.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 93.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 80.6,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 86.6,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.33,
+      "low_credibility_ratio": 0.67,
+      "verified_issues": [],
+      "noise_issues": [
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

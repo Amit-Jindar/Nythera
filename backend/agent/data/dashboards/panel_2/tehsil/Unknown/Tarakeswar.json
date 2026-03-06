@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Tarakeswar",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_795642",
+        "issue": "Women Safety & Crimes",
+        "location": "Tarakeswar",
+        "severity": 10.0,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_657d26",
+        "issue": "Healthcare Access & Services",
+        "location": "Tarakeswar",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_17bee7",
+        "issue": "Crime & Law and Order",
+        "location": "Tarakeswar",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_17bee7",
+        "issue": "Crime & Law and Order",
+        "activeDays": 3,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_657d26",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_795642",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

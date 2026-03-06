@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "West_Bengal_(Unknown)",
+    "total_signals": 42,
+    "generated_at": "2026-01-19T18:45:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.67,
+      "medium_credibility_ratio": 0.17,
+      "low_credibility_ratio": 0.17,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Environmental Degradation"
+      ],
+      "contested_issues": [
+        "Healthcare Access & Services"
+      ]
+    }
+  }
+}

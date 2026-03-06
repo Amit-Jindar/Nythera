@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Nandakumar",
+    "total_signals": 15,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_60ae24",
+        "issue": "Corruption & Bribery",
+        "location": "Nandakumar",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_dadabd",
+        "issue": "Crime & Law and Order",
+        "location": "Nandakumar",
+        "severity": 10.0,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_f28335",
+        "issue": "Education System Issues",
+        "location": "Nandakumar",
+        "severity": 6.6,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_dadabd",
+        "issue": "Crime & Law and Order",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f28335",
+        "issue": "Education System Issues",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_60ae24",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

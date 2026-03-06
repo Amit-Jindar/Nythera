@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Budge_Budge",
+    "total_signals": 6,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 78.58,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-10 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-30",
+        "sentiment": 92.7,
+        "rollingAverage": 92.7
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 80.8,
+        "rollingAverage": 86.8
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 76.2,
+        "rollingAverage": 83.2
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 65.0,
+        "rollingAverage": 78.7
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 78.2,
+        "rollingAverage": 78.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 7.46,
+        "confidence": 0.298
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.79,
+        "confidence": 0.032
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.4,
+        "confidence": 0.656
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.35,
+        "confidence": 0.014
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_ad98e3",
+        "issue": "Healthcare Access & Services",
+        "location": "Budge Budge",
+        "severity": 9.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_928a0c",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Budge Budge",
+        "severity": 7.5,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_349807",
+        "issue": "Crime & Law and Order",
+        "location": "Budge Budge",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_349807",
+        "issue": "Crime & Law and Order",
+        "activeDays": 3,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_ad98e3",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 2,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_928a0c",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Health Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 97.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 90.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 88.5,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 90.6,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.33,
+      "low_credibility_ratio": 0.67,
+      "verified_issues": [],
+      "noise_issues": [
+        "Crime & Law and Order",
+        "Farmer & Agriculture Issues"
+      ],
+      "contested_issues": [
+        "Healthcare Access & Services"
+      ]
+    }
+  }
+}

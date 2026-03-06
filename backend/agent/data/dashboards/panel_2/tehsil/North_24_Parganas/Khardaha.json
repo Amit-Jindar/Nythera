@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Khardaha",
+    "total_signals": 13,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_1bde9d",
+        "issue": "Healthcare Access & Services",
+        "location": "Khardaha",
+        "severity": 9.3,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8aeed5",
+        "issue": "Crime & Law and Order",
+        "location": "Khardaha",
+        "severity": 9.9,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_8aeed5",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_1bde9d",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 8,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

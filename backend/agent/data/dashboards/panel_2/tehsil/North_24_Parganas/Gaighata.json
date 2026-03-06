@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Gaighata",
+    "total_signals": 104,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_b12579",
+        "issue": "Women Safety & Crimes",
+        "location": "Gaighata",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_6b682b",
+        "issue": "Education System Issues",
+        "location": "Gaighata",
+        "severity": 6.0,
+        "volume": 22,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a5d521",
+        "issue": "Crime & Law and Order",
+        "location": "Gaighata",
+        "severity": 9.9,
+        "volume": 61,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_53c96b",
+        "issue": "Healthcare Access & Services",
+        "location": "Gaighata",
+        "severity": 9.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1c9180",
+        "issue": "Sanitation & Waste Management",
+        "location": "Gaighata",
+        "severity": 7.9,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9c687a",
+        "issue": "Corruption & Bribery",
+        "location": "Gaighata",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_a5d521",
+        "issue": "Crime & Law and Order",
+        "activeDays": 62,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_9c687a",
+        "issue": "Corruption & Bribery",
+        "activeDays": 55,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_1c9180",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 43,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_6b682b",
+        "issue": "Education System Issues",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_b12579",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_53c96b",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Kalimpong",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 59.9,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-10-28 01:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-28",
+        "sentiment": 59.9,
+        "rollingAverage": 59.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.1,
+        "confidence": 0.004
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.13,
+        "confidence": 0.005
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.66,
+        "confidence": 0.986
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.12,
+        "confidence": 0.005
+      }
+    ]
+  }
+}

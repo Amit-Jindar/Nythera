@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Baharampur",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_021c58",
+        "issue": "Corruption & Bribery",
+        "location": "Baharampur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5a5250",
+        "issue": "Education System Issues",
+        "location": "Baharampur",
+        "severity": 6.1,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d5135d",
+        "issue": "Crime & Law and Order",
+        "location": "Baharampur",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_4c654d",
+        "issue": "Women Safety & Crimes",
+        "location": "Baharampur",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_4c654d",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 51,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_d5135d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 20,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_5a5250",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_021c58",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Moyna",
+    "total_signals": 5,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 71.43,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-10 21:48 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-04",
+        "sentiment": 69.6,
+        "rollingAverage": 69.6
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 80.4,
+        "rollingAverage": 75.0
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 64.3,
+        "rollingAverage": 71.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.45,
+        "confidence": 0.058
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.55,
+        "confidence": 0.302
+      },
+      {
+        "emotion": "Trust",
+        "value": 15.36,
+        "confidence": 0.614
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.64,
+        "confidence": 0.026
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4ae574",
+        "issue": "Crime & Law and Order",
+        "location": "Moyna",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "stagnant"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_4ae574",
+        "issue": "Crime & Law and Order",
+        "activeDays": 37,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.08
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 7,
+      "pressure": 7,
+      "capacity": 93,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 76.4,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 76.4,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 1.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [],
+      "noise_issues": [],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

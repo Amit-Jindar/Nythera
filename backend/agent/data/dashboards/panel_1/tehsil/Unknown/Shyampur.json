@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Shyampur",
+    "district": "Unknown",
+    "total_signals": 10,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 66.77,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-10 19:04 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-18",
+        "sentiment": 68.5,
+        "rollingAverage": 68.5
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 82.1,
+        "rollingAverage": 75.3
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 55.7,
+        "rollingAverage": 68.8
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 37.4,
+        "rollingAverage": 60.9
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 79.7,
+        "rollingAverage": 64.7
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 77.2,
+        "rollingAverage": 66.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.83,
+        "confidence": 0.153
+      },
+      {
+        "emotion": "Fear",
+        "value": 10.54,
+        "confidence": 0.422
+      },
+      {
+        "emotion": "Trust",
+        "value": 10.32,
+        "confidence": 0.413
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.3,
+        "confidence": 0.012
+      }
+    ]
+  }
+}

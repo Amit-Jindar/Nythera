@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Khardaha",
+    "district": "North_24_Parganas",
+    "total_signals": 13,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 45.56,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-10 12:07 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-13",
+        "sentiment": 44.7,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2025-10-14",
+        "sentiment": 65.7,
+        "rollingAverage": 55.2
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 35.8,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-10-19",
+        "sentiment": 36.0,
+        "rollingAverage": 45.5
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 44.6,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 58.5,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 41.2,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 38.0,
+        "rollingAverage": 45.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.97,
+        "confidence": 0.039
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.16,
+        "confidence": 0.086
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.82,
+        "confidence": 0.873
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

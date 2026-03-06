@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Unknown",
+    "total_signals": 1337,
+    "generated_at": "2026-01-19T18:32:02.613180+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 71.1,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-11 02:15 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-13",
+        "sentiment": 72.5,
+        "rollingAverage": 72.5
+      },
+      {
+        "date": "2025-10-14",
+        "sentiment": 68.3,
+        "rollingAverage": 70.4
+      },
+      {
+        "date": "2025-10-15",
+        "sentiment": 65.9,
+        "rollingAverage": 68.9
+      },
+      {
+        "date": "2025-10-16",
+        "sentiment": 69.1,
+        "rollingAverage": 69.0
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 72.7,
+        "rollingAverage": 69.7
+      },
+      {
+        "date": "2025-10-18",
+        "sentiment": 74.8,
+        "rollingAverage": 70.5
+      },
+      {
+        "date": "2025-10-19",
+        "sentiment": 71.2,
+        "rollingAverage": 70.6
+      },
+      {
+        "date": "2025-10-20",
+        "sentiment": 79.8,
+        "rollingAverage": 71.7
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 72.6,
+        "rollingAverage": 72.3
+      },
+      {
+        "date": "2025-10-22",
+        "sentiment": 72.7,
+        "rollingAverage": 73.3
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 77.9,
+        "rollingAverage": 74.5
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 71.9,
+        "rollingAverage": 74.4
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 77.9,
+        "rollingAverage": 74.9
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 78.0,
+        "rollingAverage": 75.8
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 70.2,
+        "rollingAverage": 74.5
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 71.1,
+        "rollingAverage": 74.2
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 72.7,
+        "rollingAverage": 74.2
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 75.8,
+        "rollingAverage": 73.9
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 68.5,
+        "rollingAverage": 73.5
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 80.1,
+        "rollingAverage": 73.8
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 70.3,
+        "rollingAverage": 72.7
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 74.3,
+        "rollingAverage": 73.3
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 74.1,
+        "rollingAverage": 73.7
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 75.2,
+        "rollingAverage": 74.0
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 75.5,
+        "rollingAverage": 74.0
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 72.4,
+        "rollingAverage": 74.6
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 69.3,
+        "rollingAverage": 73.0
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 76.6,
+        "rollingAverage": 73.9
+      },
+      {
+        "date": "2025-11-10",
+        "sentiment": 68.2,
+        "rollingAverage": 73.0
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 70.2,
+        "rollingAverage": 72.5
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 56.4,
+        "rollingAverage": 69.8
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 75.5,
+        "rollingAverage": 69.8
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 68.9,
+        "rollingAverage": 69.3
+      },
+      {
+        "date": "2025-11-15",
+        "sentiment": 59.7,
+        "rollingAverage": 67.9
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 66.0,
+        "rollingAverage": 66.4
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 67.6,
+        "rollingAverage": 66.3
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 68.6,
+        "rollingAverage": 66.1
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 77.3,
+        "rollingAverage": 69.1
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 71.0,
+        "rollingAverage": 68.4
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 70.8,
+        "rollingAverage": 68.7
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 74.4,
+        "rollingAverage": 70.8
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 64.3,
+        "rollingAverage": 70.6
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 74.2,
+        "rollingAverage": 71.5
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 76.7,
+        "rollingAverage": 72.7
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 73.7,
+        "rollingAverage": 72.2
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 68.1,
+        "rollingAverage": 71.7
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 65.0,
+        "rollingAverage": 70.9
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 74.2,
+        "rollingAverage": 70.9
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 87.7,
+        "rollingAverage": 74.2
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 72.4,
+        "rollingAverage": 74.0
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 59.7,
+        "rollingAverage": 71.5
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 70.5,
+        "rollingAverage": 71.1
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 63.8,
+        "rollingAverage": 70.5
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 62.2,
+        "rollingAverage": 70.1
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 59.1,
+        "rollingAverage": 67.9
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 59.8,
+        "rollingAverage": 63.9
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 66.3,
+        "rollingAverage": 63.1
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 63.4,
+        "rollingAverage": 63.6
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 79.2,
+        "rollingAverage": 64.8
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 77.4,
+        "rollingAverage": 66.8
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 71.6,
+        "rollingAverage": 68.1
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 74.3,
+        "rollingAverage": 70.3
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 70.4,
+        "rollingAverage": 71.8
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 74.8,
+        "rollingAverage": 73.0
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 70.1,
+        "rollingAverage": 74.0
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 65.4,
+        "rollingAverage": 72.0
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 68.2,
+        "rollingAverage": 70.7
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 64.1,
+        "rollingAverage": 69.6
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 71.2,
+        "rollingAverage": 69.2
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 75.4,
+        "rollingAverage": 69.9
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 69.9,
+        "rollingAverage": 69.2
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 72.6,
+        "rollingAverage": 69.5
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 67.6,
+        "rollingAverage": 69.9
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 67.8,
+        "rollingAverage": 69.8
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 72.1,
+        "rollingAverage": 70.9
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 72.5,
+        "rollingAverage": 71.1
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 70.8,
+        "rollingAverage": 70.5
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 73.9,
+        "rollingAverage": 71.0
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 71.6,
+        "rollingAverage": 70.9
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 65.8,
+        "rollingAverage": 70.6
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 59.6,
+        "rollingAverage": 69.5
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 74.6,
+        "rollingAverage": 69.8
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 76.4,
+        "rollingAverage": 70.4
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 72.9,
+        "rollingAverage": 70.7
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 76.3,
+        "rollingAverage": 71.0
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 72.0,
+        "rollingAverage": 71.1
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 70.5,
+        "rollingAverage": 71.8
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 71.7,
+        "rollingAverage": 73.5
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 75.2,
+        "rollingAverage": 73.6
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 74.1,
+        "rollingAverage": 73.2
+      },
+      {
+        "date": "2026-01-11",
+        "sentiment": 72.8,
+        "rollingAverage": 73.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.4,
+        "confidence": 0.136
+      },
+      {
+        "emotion": "Fear",
+        "value": 6.08,
+        "confidence": 0.243
+      },
+      {
+        "emotion": "Trust",
+        "value": 15.01,
+        "confidence": 0.6
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.52,
+        "confidence": 0.021
+      }
+    ]
+  }
+}

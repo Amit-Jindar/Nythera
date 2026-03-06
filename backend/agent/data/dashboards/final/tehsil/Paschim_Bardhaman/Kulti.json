@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim Bardhaman",
+    "name": "Kulti",
+    "total_signals": 150,
+    "enriched_signals": 16,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.230392+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 44.88,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-02 12:42 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-19",
+        "sentiment": 47.6,
+        "rollingAverage": 47.6
+      },
+      {
+        "date": "2025-10-22",
+        "sentiment": 52.9,
+        "rollingAverage": 50.2
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 38.3,
+        "rollingAverage": 46.3
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 40.0,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 53.6,
+        "rollingAverage": 46.5
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 38.8,
+        "rollingAverage": 45.2
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 43.2,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 44.3,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 57.1,
+        "rollingAverage": 45.0
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 46.4,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 36.9,
+        "rollingAverage": 45.8
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 39.5,
+        "rollingAverage": 43.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.57,
+        "confidence": 0.023
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.68,
+        "confidence": 0.067
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.72,
+        "confidence": 0.909
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_0eac88",
+        "issue": "Sanitation & Waste Management",
+        "location": "Kulti",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_03ef3e",
+        "issue": "Traffic & Road Safety",
+        "location": "Kulti",
+        "severity": 7.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d51b00",
+        "issue": "Crime & Law and Order",
+        "location": "Kulti",
+        "severity": 9.8,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f633fb",
+        "issue": "Education System Issues",
+        "location": "Kulti",
+        "severity": 5.9,
+        "volume": 8,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d51b00",
+        "issue": "Crime & Law and Order",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f633fb",
+        "issue": "Education System Issues",
+        "activeDays": 68,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_0eac88",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_03ef3e",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police + Education Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 8,
+      "pressure": 8,
+      "capacity": 92,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 97.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 97.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 84.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 79.3,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 84.2,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.5,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Education System Issues"
+      ],
+      "noise_issues": [
+        "Sanitation & Waste Management",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": []
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Barabani",
+    "district": "Paschim_Bardhaman",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.03,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-19 12:03 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-27",
+        "sentiment": 48.2,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 51.0,
+        "rollingAverage": 49.6
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 44.9,
+        "rollingAverage": 48.0
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 40.1,
+        "rollingAverage": 46.0
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 76.8,
+        "rollingAverage": 52.2
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 40.5,
+        "rollingAverage": 50.2
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 42.8,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 50.8,
+        "rollingAverage": 49.6
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 47.0,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 42.2,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 55.0,
+        "rollingAverage": 50.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.67,
+        "confidence": 0.027
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.89,
+        "confidence": 0.076
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.34,
+        "confidence": 0.894
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.09,
+        "confidence": 0.004
+      }
+    ]
+  }
+}

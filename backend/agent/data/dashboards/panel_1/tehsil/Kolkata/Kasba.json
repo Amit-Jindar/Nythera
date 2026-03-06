@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Kasba",
+    "district": "Kolkata",
+    "total_signals": 140,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 44.41,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-07 11:32 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-12",
+        "sentiment": 50.7,
+        "rollingAverage": 50.7
+      },
+      {
+        "date": "2025-10-13",
+        "sentiment": 37.6,
+        "rollingAverage": 44.2
+      },
+      {
+        "date": "2025-10-16",
+        "sentiment": 48.9,
+        "rollingAverage": 45.7
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 46.9,
+        "rollingAverage": 46.0
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 48.0,
+        "rollingAverage": 46.4
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 51.1,
+        "rollingAverage": 47.2
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 40.2,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 38.4,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 49.9,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 42.5,
+        "rollingAverage": 45.3
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 38.0,
+        "rollingAverage": 44.0
+      },
+      {
+        "date": "2025-11-10",
+        "sentiment": 72.1,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 42.1,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 39.0,
+        "rollingAverage": 46.0
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 45.3,
+        "rollingAverage": 47.0
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 39.0,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 62.1,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 43.5,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 48.0,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 40.9,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 44.6,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 47.2,
+        "rollingAverage": 46.5
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 44.6,
+        "rollingAverage": 47.3
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 43.6,
+        "rollingAverage": 44.6
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 34.6,
+        "rollingAverage": 43.4
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 44.1,
+        "rollingAverage": 42.8
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 38.4,
+        "rollingAverage": 42.4
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 38.9,
+        "rollingAverage": 41.6
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 41.5,
+        "rollingAverage": 40.8
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 35.9,
+        "rollingAverage": 39.6
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 36.6,
+        "rollingAverage": 38.6
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 46.9,
+        "rollingAverage": 40.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.48,
+        "confidence": 0.059
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.9,
+        "confidence": 0.076
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.55,
+        "confidence": 0.862
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.08,
+        "confidence": 0.003
+      }
+    ]
+  }
+}

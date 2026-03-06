@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Jalpaiguri",
+    "name": "Jalpaiguri",
+    "total_signals": 228,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_e3c9a6",
+        "issue": "Crime & Law and Order",
+        "location": "Jalpaiguri",
+        "severity": 9.9,
+        "volume": 125,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f2d9dd",
+        "issue": "Women Safety & Crimes",
+        "location": "Jalpaiguri",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d2df4a",
+        "issue": "Traffic & Road Safety",
+        "location": "Jalpaiguri",
+        "severity": 7.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a69ac7",
+        "issue": "Education System Issues",
+        "location": "Jalpaiguri",
+        "severity": 5.9,
+        "volume": 50,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d2ad17",
+        "issue": "Corruption & Bribery",
+        "location": "Jalpaiguri",
+        "severity": 10.0,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6ad883",
+        "issue": "Sanitation & Waste Management",
+        "location": "Jalpaiguri",
+        "severity": 7.9,
+        "volume": 19,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_98553f",
+        "issue": "Healthcare Access & Services",
+        "location": "Jalpaiguri",
+        "severity": 9.3,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_a69ac7",
+        "issue": "Education System Issues",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_e3c9a6",
+        "issue": "Crime & Law and Order",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_6ad883",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_98553f",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_d2ad17",
+        "issue": "Corruption & Bribery",
+        "activeDays": 49,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_ca2d07",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 35,
+        "persistenceStatus": "stuck",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_d2df4a",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_f2d9dd",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

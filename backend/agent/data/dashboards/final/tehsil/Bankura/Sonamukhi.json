@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Bankura",
+    "name": "Sonamukhi",
+    "total_signals": 10,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 44.63,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-03 16:12 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-20",
+        "sentiment": 43.4,
+        "rollingAverage": 43.4
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 35.4,
+        "rollingAverage": 39.4
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 60.5,
+        "rollingAverage": 46.4
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 59.2,
+        "rollingAverage": 49.6
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 39.1,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 48.9,
+        "rollingAverage": 47.8
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 36.0,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 38.4,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 37.2,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 48.2,
+        "rollingAverage": 43.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.45,
+        "confidence": 0.018
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.31,
+        "confidence": 0.052
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.18,
+        "confidence": 0.927
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.06,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_51bc37",
+        "issue": "Corruption & Bribery",
+        "location": "Sonamukhi",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_dc1779",
+        "issue": "Crime & Law and Order",
+        "location": "Sonamukhi",
+        "severity": 9.8,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_dc1779",
+        "issue": "Crime & Law and Order",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_51bc37",
+        "issue": "Corruption & Bribery",
+        "activeDays": 6,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 11,
+      "pressure": 11,
+      "capacity": 89,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 93.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 71.2,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 75.6,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.5,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery"
+      ],
+      "contested_issues": []
+    }
+  }
+}

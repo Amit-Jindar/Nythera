@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Chakulia",
+    "total_signals": 5,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_b0611b",
+        "issue": "Education System Issues",
+        "location": "Chakulia",
+        "severity": 6.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8b8d30",
+        "issue": "Crime & Law and Order",
+        "location": "Chakulia",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_8b8d30",
+        "issue": "Crime & Law and Order",
+        "activeDays": 69,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b0611b",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

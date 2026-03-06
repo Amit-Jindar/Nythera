@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Jangipur",
+    "total_signals": 33,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_9c53eb",
+        "issue": "Corruption & Bribery",
+        "location": "Jangipur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e56135",
+        "issue": "Education System Issues",
+        "location": "Jangipur",
+        "severity": 6.3,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fcf3b5",
+        "issue": "Crime & Law and Order",
+        "location": "Jangipur",
+        "severity": 9.9,
+        "volume": 28,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d534fa",
+        "issue": "Sanitation & Waste Management",
+        "location": "Jangipur",
+        "severity": 7.7,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_fcf3b5",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_d534fa",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 29,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_9c53eb",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_e56135",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

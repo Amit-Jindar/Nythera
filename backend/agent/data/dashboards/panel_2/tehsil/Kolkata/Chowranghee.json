@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Chowranghee",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_263caf",
+        "issue": "Women Safety & Crimes",
+        "location": "Chowranghee",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_80a872",
+        "issue": "Crime & Law and Order",
+        "location": "Chowranghee",
+        "severity": 9.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_263caf",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_80a872",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      }
+    ]
+  }
+}

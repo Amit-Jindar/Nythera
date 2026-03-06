@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Sundarbans",
+    "district": "Unknown",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 70.42,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-02 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-23",
+        "sentiment": 76.2,
+        "rollingAverage": 76.2
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 49.6,
+        "rollingAverage": 62.9
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 77.5,
+        "rollingAverage": 67.8
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 82.8,
+        "rollingAverage": 71.5
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 66.0,
+        "rollingAverage": 70.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.4,
+        "confidence": 0.016
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.58,
+        "confidence": 0.103
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.65,
+        "confidence": 0.866
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.37,
+        "confidence": 0.015
+      }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North 24 Parganas",
+    "name": "Panihati",
+    "total_signals": 417,
+    "enriched_signals": 66,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.446448+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 47.39,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-02 09:47 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-26",
+        "sentiment": 57.7,
+        "rollingAverage": 57.7
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 43.7,
+        "rollingAverage": 50.7
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 44.2,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 46.9,
+        "rollingAverage": 48.1
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 48.8,
+        "rollingAverage": 48.3
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 44.1,
+        "rollingAverage": 47.6
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 39.1,
+        "rollingAverage": 46.4
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 43.4,
+        "rollingAverage": 44.3
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 54.1,
+        "rollingAverage": 45.8
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 49.2,
+        "rollingAverage": 46.5
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 41.7,
+        "rollingAverage": 45.8
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 65.0,
+        "rollingAverage": 48.1
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 60.2,
+        "rollingAverage": 50.4
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 36.4,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 36.4,
+        "rollingAverage": 49.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.82,
+        "confidence": 0.033
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.83,
+        "confidence": 0.073
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.31,
+        "confidence": 0.892
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_17f57f",
+        "issue": "Education System Issues",
+        "location": "Panihati",
+        "severity": 5.8,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_871c6e",
+        "issue": "Sanitation & Waste Management",
+        "location": "Panihati",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6752c6",
+        "issue": "Healthcare Access & Services",
+        "location": "Panihati",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_108b53",
+        "issue": "Crime & Law and Order",
+        "location": "Panihati",
+        "severity": 9.9,
+        "volume": 56,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e35f5c",
+        "issue": "Environmental Degradation",
+        "location": "Panihati",
+        "severity": 5.8,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_108b53",
+        "issue": "Crime & Law and Order",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_871c6e",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 3,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_17f57f",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_6752c6",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_e35f5c",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police + Municipal Corporation + Education Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 54,
+      "pressure": 54,
+      "capacity": 46,
+      "status": "medium"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_309201",
+      "department": "Environment Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_309201",
+        "department": "Environment Department",
+        "trustScore": 98.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 97.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 94.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 87.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 1.4,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.4,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.4,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Environmental Degradation",
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": [
+        "Education System Issues"
+      ]
+    }
+  }
+}

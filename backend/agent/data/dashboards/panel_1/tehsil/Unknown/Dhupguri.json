@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Dhupguri",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 48.1,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-05 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-05",
+        "sentiment": 48.1,
+        "rollingAverage": 48.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.32,
+        "confidence": 0.013
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.65,
+        "confidence": 0.026
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.79,
+        "confidence": 0.952
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.24,
+        "confidence": 0.01
+      }
+    ]
+  }
+}

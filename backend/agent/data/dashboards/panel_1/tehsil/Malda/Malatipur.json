@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Malatipur",
+    "district": "Malda",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:29+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 44.8,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-31 12:50 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-31",
+        "sentiment": 44.8,
+        "rollingAverage": 44.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.74,
+        "confidence": 0.03
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.95,
+        "confidence": 0.118
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.25,
+        "confidence": 0.85
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

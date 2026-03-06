@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Ranaghat",
+    "total_signals": 2,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 62.95,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-25 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-20",
+        "sentiment": 81.1,
+        "rollingAverage": 81.1
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 44.8,
+        "rollingAverage": 62.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.3,
+        "confidence": 0.052
+      },
+      {
+        "emotion": "Fear",
+        "value": 9.45,
+        "confidence": 0.378
+      },
+      {
+        "emotion": "Trust",
+        "value": 14.03,
+        "confidence": 0.561
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.22,
+        "confidence": 0.009
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_563646",
+        "issue": "Crime & Law and Order",
+        "location": "Ranaghat",
+        "severity": 9.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fe5be5",
+        "issue": "Traffic & Road Safety",
+        "location": "Ranaghat",
+        "severity": 8.1,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_fe5be5",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_563646",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "General",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 96.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 96.0,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 96.2,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 1.0,
+      "verified_issues": [],
+      "noise_issues": [
+        "Crime & Law and Order",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": []
+    }
+  }
+}

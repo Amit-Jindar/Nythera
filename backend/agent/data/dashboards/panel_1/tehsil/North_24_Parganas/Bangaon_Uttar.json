@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Bangaon_Uttar",
+    "district": "North_24_Parganas",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 50.9,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-02 09:20 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-02",
+        "sentiment": 50.9,
+        "rollingAverage": 50.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.86,
+        "confidence": 0.034
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.0,
+        "confidence": 0.12
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.11,
+        "confidence": 0.844
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

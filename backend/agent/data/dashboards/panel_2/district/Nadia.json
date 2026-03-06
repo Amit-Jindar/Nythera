@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Nadia",
+    "total_signals": 1288,
+    "generated_at": "2026-01-19T18:35:09.521597+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_5e541b",
+        "issue": "Sanitation & Waste Management",
+        "location": "Hanskhali",
+        "severity": 7.8,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_4645da",
+        "issue": "Education System Issues",
+        "location": "Tehatta",
+        "severity": 6.1,
+        "volume": 33,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_278787",
+        "issue": "Crime & Law and Order",
+        "location": "Kalyani",
+        "severity": 9.9,
+        "volume": 375,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_579841",
+        "issue": "Education System Issues",
+        "location": "Chakdaha",
+        "severity": 6.0,
+        "volume": 45,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d80e34",
+        "issue": "Crime & Law and Order",
+        "location": "Santipur",
+        "severity": 9.9,
+        "volume": 156,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_58bd7a",
+        "issue": "Crime & Law and Order",
+        "location": "Chakdaha",
+        "severity": 9.9,
+        "volume": 85,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_4fafd3",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Haringhata",
+        "severity": 6.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_278787",
+        "issue": "Crime & Law and Order",
+        "activeDays": 162,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_d80e34",
+        "issue": "Crime & Law and Order",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_4ac3df",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_e2c17b",
+        "issue": "Corruption & Bribery",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_cd0080",
+        "issue": "Corruption & Bribery",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_5934bd",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_d45a1b",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_abc726",
+        "issue": "Education System Issues",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_746bf0",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 77,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_75f06f",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 74,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_370061",
+        "issue": "Crime & Law and Order",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_29f79f",
+        "issue": "Education System Issues",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

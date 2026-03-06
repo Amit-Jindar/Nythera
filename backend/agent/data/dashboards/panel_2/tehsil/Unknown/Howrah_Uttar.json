@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Howrah_Uttar",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_e65139",
+        "issue": "Traffic & Road Safety",
+        "location": "Howrah Uttar",
+        "severity": 8.1,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_c13710",
+        "issue": "Healthcare Access & Services",
+        "location": "Howrah Uttar",
+        "severity": 9.6,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_e65139",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_c13710",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

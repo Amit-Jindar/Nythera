@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Raina",
+    "district": "Unknown",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 55.23,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-23 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-07",
+        "sentiment": 57.9,
+        "rollingAverage": 57.9
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 59.9,
+        "rollingAverage": 58.9
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 47.9,
+        "rollingAverage": 55.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.52,
+        "confidence": 0.101
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.28,
+        "confidence": 0.131
+      },
+      {
+        "emotion": "Trust",
+        "value": 19.06,
+        "confidence": 0.762
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.14,
+        "confidence": 0.006
+      }
+    ]
+  }
+}

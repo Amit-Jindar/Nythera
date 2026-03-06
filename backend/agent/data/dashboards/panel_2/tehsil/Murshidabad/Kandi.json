@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Kandi",
+    "total_signals": 3257,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_762fde",
+        "issue": "Crime & Law and Order",
+        "location": "Kandi",
+        "severity": 9.9,
+        "volume": 2157,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_d1b3c5",
+        "issue": "Sanitation & Waste Management",
+        "location": "Kandi",
+        "severity": 7.8,
+        "volume": 237,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3c4c5c",
+        "issue": "Corruption & Bribery",
+        "location": "Kandi",
+        "severity": 10.0,
+        "volume": 355,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_347bb6",
+        "issue": "Healthcare Access & Services",
+        "location": "Kandi",
+        "severity": 9.4,
+        "volume": 90,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_777467",
+        "issue": "Water Supply Disruption",
+        "location": "Kandi",
+        "severity": 9.1,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8b85a9",
+        "issue": "Education System Issues",
+        "location": "Kandi",
+        "severity": 6.0,
+        "volume": 295,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_07a5c6",
+        "issue": "Women Safety & Crimes",
+        "location": "Kandi",
+        "severity": 10.0,
+        "volume": 43,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_8b85a9",
+        "issue": "Education System Issues",
+        "activeDays": 347,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_762fde",
+        "issue": "Crime & Law and Order",
+        "activeDays": 317,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_3c4c5c",
+        "issue": "Corruption & Bribery",
+        "activeDays": 314,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_d1b3c5",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_347bb6",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_07a5c6",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_87ceaa",
+        "issue": "Environmental Degradation",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_27810b",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_e5c85e",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_c665fb",
+        "issue": "Public Transport Issues",
+        "activeDays": 52,
+        "persistenceStatus": "chronic",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_404a65",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 32,
+        "persistenceStatus": "stuck",
+        "department": "General Administration"
+      },
+      {
+        "id": "p_f9e6c5",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 6,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      }
+    ]
+  }
+}

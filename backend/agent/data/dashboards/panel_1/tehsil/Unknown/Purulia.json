@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Purulia",
+    "district": "Unknown",
+    "total_signals": 12,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 71.54,
+      "zone": "Stable",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-11 01:57 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-24",
+        "sentiment": 72.7,
+        "rollingAverage": 72.7
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 60.0,
+        "rollingAverage": 66.3
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 54.8,
+        "rollingAverage": 62.5
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 44.3,
+        "rollingAverage": 58.0
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 86.7,
+        "rollingAverage": 63.7
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 86.1,
+        "rollingAverage": 67.4
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 81.5,
+        "rollingAverage": 69.4
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 86.1,
+        "rollingAverage": 71.4
+      },
+      {
+        "date": "2026-01-11",
+        "sentiment": 71.7,
+        "rollingAverage": 73.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.92,
+        "confidence": 0.077
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.86,
+        "confidence": 0.354
+      },
+      {
+        "emotion": "Trust",
+        "value": 13.96,
+        "confidence": 0.559
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.25,
+        "confidence": 0.01
+      }
+    ]
+  }
+}

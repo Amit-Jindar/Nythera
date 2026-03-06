@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Goalpokhar",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_cb1edf",
+        "issue": "Women Safety & Crimes",
+        "location": "Goalpokhar",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_aea9ed",
+        "issue": "Crime & Law and Order",
+        "location": "Goalpokhar",
+        "severity": 9.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_aea9ed",
+        "issue": "Crime & Law and Order",
+        "activeDays": 35,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_cb1edf",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

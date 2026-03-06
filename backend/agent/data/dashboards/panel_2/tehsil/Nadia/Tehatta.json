@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Tehatta",
+    "total_signals": 48,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4645da",
+        "issue": "Education System Issues",
+        "location": "Tehatta",
+        "severity": 6.1,
+        "volume": 33,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_f55f20",
+        "issue": "Women Safety & Crimes",
+        "location": "Tehatta",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_feb3bd",
+        "issue": "Crime & Law and Order",
+        "location": "Tehatta",
+        "severity": 9.8,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6af99f",
+        "issue": "Sanitation & Waste Management",
+        "location": "Tehatta",
+        "severity": 7.7,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_feb3bd",
+        "issue": "Crime & Law and Order",
+        "activeDays": 62,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_6af99f",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 36,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_4645da",
+        "issue": "Education System Issues",
+        "activeDays": 3,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_f55f20",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Barrackpore",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_a9b407",
+        "issue": "Crime & Law and Order",
+        "location": "Barrackpore",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_a9b407",
+        "issue": "Crime & Law and Order",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Hooghly",
+    "name": "Serampore",
+    "total_signals": 131,
+    "generated_at": "2026-01-19T19:09:25+00:00Z"
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Municipal Corporation + Anti Corruption Bureau (ACB)",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      },
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  }
+}

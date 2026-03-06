@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Jhargram",
+    "district": "Unknown",
+    "total_signals": 8,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 65.9,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-28 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-16",
+        "sentiment": 65.1,
+        "rollingAverage": 65.1
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 82.1,
+        "rollingAverage": 73.6
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 51.3,
+        "rollingAverage": 66.2
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 57.7,
+        "rollingAverage": 64.0
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 54.4,
+        "rollingAverage": 62.1
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 84.5,
+        "rollingAverage": 65.8
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 66.2,
+        "rollingAverage": 65.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.75,
+        "confidence": 0.15
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.06,
+        "confidence": 0.123
+      },
+      {
+        "emotion": "Trust",
+        "value": 17.85,
+        "confidence": 0.714
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.33,
+        "confidence": 0.013
+      }
+    ]
+  }
+}

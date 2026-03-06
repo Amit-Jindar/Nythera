@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Alipurduar",
+    "total_signals": 179,
+    "generated_at": "2026-01-19T18:41:54+00:00Z"
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 19,
+      "pressure": 19,
+      "capacity": 81,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 12,
+      "pressure": 12,
+      "capacity": 88,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    }
+  ]
+}

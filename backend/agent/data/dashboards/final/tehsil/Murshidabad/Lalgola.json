@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Lalgola",
+    "total_signals": 77,
+    "enriched_signals": 10,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:42.755107+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 40.76,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-03 16:49 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-11",
+        "sentiment": 44.1,
+        "rollingAverage": 44.1
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 40.2,
+        "rollingAverage": 42.2
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 40.0,
+        "rollingAverage": 41.4
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 42.0,
+        "rollingAverage": 41.6
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 47.2,
+        "rollingAverage": 42.7
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 34.7,
+        "rollingAverage": 41.4
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 37.1,
+        "rollingAverage": 40.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.43,
+        "confidence": 0.017
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.49,
+        "confidence": 0.059
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.05,
+        "confidence": 0.922
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_62799d",
+        "issue": "Corruption & Bribery",
+        "location": "Lalgola",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_88922f",
+        "issue": "Water Supply Disruption",
+        "location": "Lalgola",
+        "severity": 8.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_63d01a",
+        "issue": "Crime & Law and Order",
+        "location": "Lalgola",
+        "severity": 9.8,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_552efe",
+        "issue": "Sanitation & Waste Management",
+        "location": "Lalgola",
+        "severity": 7.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_63d01a",
+        "issue": "Crime & Law and Order",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_552efe",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 35,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_62799d",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_88922f",
+        "issue": "Water Supply Disruption",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Health Engineering / Water Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 7,
+      "pressure": 7,
+      "capacity": 93,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_48bde8",
+      "department": "Public Health Engineering / Water Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_48bde8",
+        "department": "Public Health Engineering / Water Department",
+        "trustScore": 96.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 96.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 95.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 79.4,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 86.1,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.25,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.75,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Sanitation & Waste Management",
+        "Water Supply Disruption"
+      ],
+      "contested_issues": []
+    }
+  }
+}

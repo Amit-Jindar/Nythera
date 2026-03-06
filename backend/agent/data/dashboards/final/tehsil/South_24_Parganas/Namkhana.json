@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South 24 Parganas",
+    "name": "Namkhana",
+    "total_signals": 426,
+    "enriched_signals": 51,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.201554+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 45.86,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-07 07:28 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-22",
+        "sentiment": 38.0,
+        "rollingAverage": 38.0
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 49.4,
+        "rollingAverage": 43.7
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 51.5,
+        "rollingAverage": 46.3
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 50.7,
+        "rollingAverage": 47.4
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 38.7,
+        "rollingAverage": 45.7
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 47.9,
+        "rollingAverage": 46.0
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 44.8,
+        "rollingAverage": 45.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.68,
+        "confidence": 0.027
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.06,
+        "confidence": 0.082
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.23,
+        "confidence": 0.889
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_276999",
+        "issue": "Crime & Law and Order",
+        "location": "Namkhana",
+        "severity": 9.9,
+        "volume": 45,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_170696",
+        "issue": "Corruption & Bribery",
+        "location": "Namkhana",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d588ac",
+        "issue": "Traffic & Road Safety",
+        "location": "Namkhana",
+        "severity": 7.6,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9272c6",
+        "issue": "Education System Issues",
+        "location": "Namkhana",
+        "severity": 5.9,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a9fe49",
+        "issue": "Sanitation & Waste Management",
+        "location": "Namkhana",
+        "severity": 7.8,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_a9fe49",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 45,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_276999",
+        "issue": "Crime & Law and Order",
+        "activeDays": 20,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_170696",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_d588ac",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_9272c6",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.09
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 46,
+      "pressure": 46,
+      "capacity": 54,
+      "status": "medium"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 97.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 97.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 96.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 92.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 0,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.2,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.6,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Education System Issues",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": [
+        "Sanitation & Waste Management"
+      ]
+    }
+  }
+}

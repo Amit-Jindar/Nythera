@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Daspur",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 47.0,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-02 01:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-02",
+        "sentiment": 47.0,
+        "rollingAverage": 47.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.2,
+        "confidence": 0.008
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.21,
+        "confidence": 0.009
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.47,
+        "confidence": 0.979
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.12,
+        "confidence": 0.005
+      }
+    ]
+  }
+}

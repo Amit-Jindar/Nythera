@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Kakdwip",
+    "district": "Unknown",
+    "total_signals": 14,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 73.94,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-17 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-22",
+        "sentiment": 63.6,
+        "rollingAverage": 63.6
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 78.8,
+        "rollingAverage": 71.2
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 85.4,
+        "rollingAverage": 75.9
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 87.7,
+        "rollingAverage": 78.9
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 64.2,
+        "rollingAverage": 75.9
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 54.1,
+        "rollingAverage": 72.3
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 83.8,
+        "rollingAverage": 73.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.1,
+        "confidence": 0.124
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.37,
+        "confidence": 0.335
+      },
+      {
+        "emotion": "Trust",
+        "value": 13.13,
+        "confidence": 0.525
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.4,
+        "confidence": 0.016
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim_Medinipur",
+    "name": "Pingla",
+    "total_signals": 15662,
+    "generated_at": "2026-01-19T19:11:27+00:00Z"
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 30,
+      "pressure": 30,
+      "capacity": 70,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 23,
+      "pressure": 23,
+      "capacity": 77,
+      "status": "nominal"
+    },
+    {
+      "id": "d_309201",
+      "department": "Environment Department",
+      "overloadScore": 15,
+      "pressure": 15,
+      "capacity": 85,
+      "status": "nominal"
+    },
+    {
+      "id": "d_8623ca",
+      "department": "Transport Department",
+      "overloadScore": 12,
+      "pressure": 12,
+      "capacity": 88,
+      "status": "nominal"
+    },
+    {
+      "id": "d_0ce2a8",
+      "department": "Public Works Department (PWD)",
+      "overloadScore": 11,
+      "pressure": 11,
+      "capacity": 89,
+      "status": "nominal"
+    },
+    {
+      "id": "d_063650",
+      "department": "General Administration",
+      "overloadScore": 8,
+      "pressure": 8,
+      "capacity": 92,
+      "status": "nominal"
+    },
+    {
+      "id": "d_48bde8",
+      "department": "Public Health Engineering / Water Department",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_7fbc43",
+      "department": "Electricity Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ]
+}

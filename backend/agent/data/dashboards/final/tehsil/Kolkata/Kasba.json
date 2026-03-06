@@ -1,0 +1,489 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Kasba",
+    "total_signals": 1237,
+    "enriched_signals": 140,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:26:50.384570+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 44.41,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-07 11:32 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-12",
+        "sentiment": 50.7,
+        "rollingAverage": 50.7
+      },
+      {
+        "date": "2025-10-13",
+        "sentiment": 37.6,
+        "rollingAverage": 44.2
+      },
+      {
+        "date": "2025-10-16",
+        "sentiment": 48.9,
+        "rollingAverage": 45.7
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 46.9,
+        "rollingAverage": 46.0
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 48.0,
+        "rollingAverage": 46.4
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 51.1,
+        "rollingAverage": 47.2
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 40.2,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 38.4,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 49.9,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 42.5,
+        "rollingAverage": 45.3
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 38.0,
+        "rollingAverage": 44.0
+      },
+      {
+        "date": "2025-11-10",
+        "sentiment": 72.1,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 42.1,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 39.0,
+        "rollingAverage": 46.0
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 45.3,
+        "rollingAverage": 47.0
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 39.0,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 62.1,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 43.5,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 48.0,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 40.9,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 44.6,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 47.2,
+        "rollingAverage": 46.5
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 44.6,
+        "rollingAverage": 47.3
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 43.6,
+        "rollingAverage": 44.6
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 34.6,
+        "rollingAverage": 43.4
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 44.1,
+        "rollingAverage": 42.8
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 38.4,
+        "rollingAverage": 42.4
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 38.9,
+        "rollingAverage": 41.6
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 41.5,
+        "rollingAverage": 40.8
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 35.9,
+        "rollingAverage": 39.6
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 36.6,
+        "rollingAverage": 38.6
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 46.9,
+        "rollingAverage": 40.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.48,
+        "confidence": 0.059
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.9,
+        "confidence": 0.076
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.55,
+        "confidence": 0.862
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.08,
+        "confidence": 0.003
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_301627",
+        "issue": "Crime & Law and Order",
+        "location": "Kasba",
+        "severity": 9.9,
+        "volume": 90,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_44f606",
+        "issue": "Corruption & Bribery",
+        "location": "Kasba",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_08d8f3",
+        "issue": "Sanitation & Waste Management",
+        "location": "Kasba",
+        "severity": 7.8,
+        "volume": 30,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6a8690",
+        "issue": "Women Safety & Crimes",
+        "location": "Kasba",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_905857",
+        "issue": "Healthcare Access & Services",
+        "location": "Kasba",
+        "severity": 9.5,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2f5276",
+        "issue": "Education System Issues",
+        "location": "Kasba",
+        "severity": 6.0,
+        "volume": 10,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_301627",
+        "issue": "Crime & Law and Order",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_08d8f3",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_2f5276",
+        "issue": "Education System Issues",
+        "activeDays": 76,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_905857",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 57,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_6a8690",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_44f606",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 2,
+      "zone": "Police + Municipal Corporation + Health Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.08
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      },
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 82,
+      "pressure": 82,
+      "capacity": 18,
+      "status": "critical"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 25,
+      "pressure": 25,
+      "capacity": 75,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 8,
+      "pressure": 8,
+      "capacity": 92,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 7,
+      "pressure": 7,
+      "capacity": 93,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 96.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 93.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 80.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 76.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 29.5,
+        "trend": "Declining",
+        "change": -6
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 5.4,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.67,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.33,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": []
+    }
+  }
+}

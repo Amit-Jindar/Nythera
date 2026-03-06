@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Cooch_Behar",
+    "total_signals": 255,
+    "generated_at": "2026-01-19T18:35:10.856714+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f53ccd",
+        "issue": "Education System Issues",
+        "location": "Dinhata",
+        "severity": 6.2,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_f2b024",
+        "issue": "Education System Issues",
+        "location": "Mathabhanga",
+        "severity": 6.0,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_6bfb6d",
+        "issue": "Crime & Law and Order",
+        "location": "Mathabhanga",
+        "severity": 9.9,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f7213d",
+        "issue": "Corruption & Bribery",
+        "location": "Natabari",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3486de",
+        "issue": "Corruption & Bribery",
+        "location": "Sitalkuchi",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b96774",
+        "issue": "Healthcare Access & Services",
+        "location": "Tufanganj",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_0bd102",
+        "issue": "Healthcare Access & Services",
+        "location": "Mekliganj",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_a5dced",
+        "issue": "Crime & Law and Order",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_c2b0bb",
+        "issue": "Crime & Law and Order",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_815aaa",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_61544a",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_b7edeb",
+        "issue": "Corruption & Bribery",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_79e99e",
+        "issue": "Crime & Law and Order",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_056660",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_e64aea",
+        "issue": "Corruption & Bribery",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_887e83",
+        "issue": "Education System Issues",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_935294",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 60,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_532027",
+        "issue": "Education System Issues",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_6fded1",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 56,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

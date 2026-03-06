@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Purba_Medinipur",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_2faa1c",
+        "issue": "Women Safety & Crimes",
+        "location": "Purba Medinipur",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_961ac0",
+        "issue": "Crime & Law and Order",
+        "location": "Purba Medinipur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1e75e7",
+        "issue": "Education System Issues",
+        "location": "Purba Medinipur",
+        "severity": 6.6,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_961ac0",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_1e75e7",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_2faa1c",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

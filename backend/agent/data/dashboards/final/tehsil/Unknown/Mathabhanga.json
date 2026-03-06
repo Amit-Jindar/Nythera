@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Mathabhanga",
+    "total_signals": 4,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 68.72,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-10 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-05",
+        "sentiment": 78.3,
+        "rollingAverage": 78.3
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 65.1,
+        "rollingAverage": 71.7
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 50.2,
+        "rollingAverage": 64.5
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 81.3,
+        "rollingAverage": 68.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.07,
+        "confidence": 0.123
+      },
+      {
+        "emotion": "Fear",
+        "value": 10.63,
+        "confidence": 0.425
+      },
+      {
+        "emotion": "Trust",
+        "value": 11.06,
+        "confidence": 0.442
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.24,
+        "confidence": 0.009
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_294ded",
+        "issue": "Traffic & Road Safety",
+        "location": "Mathabhanga",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6bfb6d",
+        "issue": "Crime & Law and Order",
+        "location": "Mathabhanga",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_6bfb6d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 35,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_294ded",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 97.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 86.8,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 89.3,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.5,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [],
+      "noise_issues": [
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

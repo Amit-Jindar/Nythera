@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Tapan",
+    "total_signals": 11,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 68.29,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-09 07:32 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-16",
+        "sentiment": 63.5,
+        "rollingAverage": 63.5
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 59.3,
+        "rollingAverage": 61.4
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 54.2,
+        "rollingAverage": 59.0
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 69.6,
+        "rollingAverage": 61.6
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 82.1,
+        "rollingAverage": 65.7
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 77.8,
+        "rollingAverage": 67.8
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 63.2,
+        "rollingAverage": 67.1
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 76.6,
+        "rollingAverage": 69.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.27,
+        "confidence": 0.091
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.68,
+        "confidence": 0.187
+      },
+      {
+        "emotion": "Trust",
+        "value": 17.87,
+        "confidence": 0.715
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.18,
+        "confidence": 0.007
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4365df",
+        "issue": "Healthcare Access & Services",
+        "location": "Tapan",
+        "severity": 9.7,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3b5ef8",
+        "issue": "Crime & Law and Order",
+        "location": "Tapan",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_22f4ff",
+        "issue": "Education System Issues",
+        "location": "Tapan",
+        "severity": 6.3,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3b5ef8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_4365df",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_22f4ff",
+        "issue": "Education System Issues",
+        "activeDays": 21,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police + Health Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      },
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 96.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 88.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 74.5,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 83.5,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.33,
+      "medium_credibility_ratio": 0.33,
+      "low_credibility_ratio": 0.33,
+      "verified_issues": [
+        "Healthcare Access & Services"
+      ],
+      "noise_issues": [
+        "Education System Issues"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Patharpratima",
+    "district": "South_24_Parganas",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 47.15,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-20 13:19 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-19",
+        "sentiment": 39.1,
+        "rollingAverage": 39.1
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 55.2,
+        "rollingAverage": 47.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.52,
+        "confidence": 0.021
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.71,
+        "confidence": 0.068
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.73,
+        "confidence": 0.909
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

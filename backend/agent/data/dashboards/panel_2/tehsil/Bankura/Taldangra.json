@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Bankura",
+    "name": "Taldangra",
+    "total_signals": 9,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f93203",
+        "issue": "Sanitation & Waste Management",
+        "location": "Taldangra",
+        "severity": 7.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6c2bfa",
+        "issue": "Crime & Law and Order",
+        "location": "Taldangra",
+        "severity": 9.9,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_6c2bfa",
+        "issue": "Crime & Law and Order",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f93203",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      }
+    ]
+  }
+}

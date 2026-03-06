@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Chanchal",
+    "district": "Malda",
+    "total_signals": 46,
+    "generated_at": "2026-01-19T19:05:29+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 45.24,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-06 04:21 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-08",
+        "sentiment": 40.3,
+        "rollingAverage": 40.3
+      },
+      {
+        "date": "2025-10-13",
+        "sentiment": 51.0,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2025-10-18",
+        "sentiment": 44.1,
+        "rollingAverage": 45.1
+      },
+      {
+        "date": "2025-10-19",
+        "sentiment": 44.6,
+        "rollingAverage": 45.0
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 39.9,
+        "rollingAverage": 44.0
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 40.7,
+        "rollingAverage": 43.4
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 50.1,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 46.3,
+        "rollingAverage": 45.2
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 44.4,
+        "rollingAverage": 44.3
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 48.1,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 48.1,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 57.5,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 44.2,
+        "rollingAverage": 48.4
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 41.9,
+        "rollingAverage": 47.2
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 41.9,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 47.7,
+        "rollingAverage": 47.1
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 42.1,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 41.4,
+        "rollingAverage": 45.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.32,
+        "confidence": 0.053
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.93,
+        "confidence": 0.077
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.68,
+        "confidence": 0.867
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.07,
+        "confidence": 0.003
+      }
+    ]
+  }
+}

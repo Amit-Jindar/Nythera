@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Paschim_Bardhaman",
+    "district": "Unknown",
+    "total_signals": 13,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 69.29,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-24 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-13",
+        "sentiment": 64.0,
+        "rollingAverage": 64.0
+      },
+      {
+        "date": "2025-10-14",
+        "sentiment": 67.2,
+        "rollingAverage": 65.6
+      },
+      {
+        "date": "2025-10-15",
+        "sentiment": 49.5,
+        "rollingAverage": 60.2
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 74.8,
+        "rollingAverage": 63.9
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 80.0,
+        "rollingAverage": 67.1
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 78.4,
+        "rollingAverage": 69.0
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 78.7,
+        "rollingAverage": 70.4
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 61.7,
+        "rollingAverage": 70.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 6.13,
+        "confidence": 0.245
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.13,
+        "confidence": 0.085
+      },
+      {
+        "emotion": "Trust",
+        "value": 15.64,
+        "confidence": 0.625
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 1.1,
+        "confidence": 0.044
+      }
+    ]
+  }
+}

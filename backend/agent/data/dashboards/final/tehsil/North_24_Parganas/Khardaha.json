@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North 24 Parganas",
+    "name": "Khardaha",
+    "total_signals": 162,
+    "enriched_signals": 13,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.563088+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 45.56,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-10 12:07 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-13",
+        "sentiment": 44.7,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2025-10-14",
+        "sentiment": 65.7,
+        "rollingAverage": 55.2
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 35.8,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-10-19",
+        "sentiment": 36.0,
+        "rollingAverage": 45.5
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 44.6,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 58.5,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 41.2,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 38.0,
+        "rollingAverage": 45.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.97,
+        "confidence": 0.039
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.16,
+        "confidence": 0.086
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.82,
+        "confidence": 0.873
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_1bde9d",
+        "issue": "Healthcare Access & Services",
+        "location": "Khardaha",
+        "severity": 9.3,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8aeed5",
+        "issue": "Crime & Law and Order",
+        "location": "Khardaha",
+        "severity": 9.9,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_8aeed5",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_1bde9d",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 8,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police + Health Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 11,
+      "pressure": 11,
+      "capacity": 89,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 91.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 62.9,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 69.4,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.5,
+      "medium_credibility_ratio": 0.5,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [],
+      "contested_issues": [
+        "Healthcare Access & Services"
+      ]
+    }
+  }
+}

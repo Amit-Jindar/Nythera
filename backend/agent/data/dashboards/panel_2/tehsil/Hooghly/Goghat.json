@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Hooghly",
+    "name": "Goghat",
+    "total_signals": 23,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_c69fa6",
+        "issue": "Crime & Law and Order",
+        "location": "Goghat",
+        "severity": 9.9,
+        "volume": 16,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_b46220",
+        "issue": "Healthcare Access & Services",
+        "location": "Goghat",
+        "severity": 9.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a36088",
+        "issue": "Sanitation & Waste Management",
+        "location": "Goghat",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e24043",
+        "issue": "Education System Issues",
+        "location": "Goghat",
+        "severity": 6.0,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_a36088",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 6,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_c69fa6",
+        "issue": "Crime & Law and Order",
+        "activeDays": 3,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_b46220",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_e24043",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

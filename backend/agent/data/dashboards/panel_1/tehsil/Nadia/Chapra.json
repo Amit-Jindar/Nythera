@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Chapra",
+    "district": "Nadia",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 55.63,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-01 04:18 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-14",
+        "sentiment": 94.0,
+        "rollingAverage": 94.0
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 37.4,
+        "rollingAverage": 65.7
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 35.5,
+        "rollingAverage": 55.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.42,
+        "confidence": 0.097
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.97,
+        "confidence": 0.039
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.12,
+        "confidence": 0.845
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.49,
+        "confidence": 0.02
+      }
+    ]
+  }
+}

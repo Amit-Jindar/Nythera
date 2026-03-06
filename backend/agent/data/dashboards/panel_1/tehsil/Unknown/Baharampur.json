@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Baharampur",
+    "district": "Unknown",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 70.12,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-19 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-29",
+        "sentiment": 87.6,
+        "rollingAverage": 87.6
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 74.1,
+        "rollingAverage": 80.8
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 48.4,
+        "rollingAverage": 70.0
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 53.2,
+        "rollingAverage": 65.8
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 78.8,
+        "rollingAverage": 68.4
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 78.6,
+        "rollingAverage": 70.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.09,
+        "confidence": 0.124
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.75,
+        "confidence": 0.19
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.18,
+        "confidence": 0.647
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.98,
+        "confidence": 0.039
+      }
+    ]
+  }
+}

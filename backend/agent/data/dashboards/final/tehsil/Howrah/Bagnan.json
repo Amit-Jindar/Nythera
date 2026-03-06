@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Howrah",
+    "name": "Bagnan",
+    "total_signals": 18,
+    "enriched_signals": 3,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:36.877251+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 42.7,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-04 16:42 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-09",
+        "sentiment": 34.3,
+        "rollingAverage": 34.3
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 45.1,
+        "rollingAverage": 39.7
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 48.7,
+        "rollingAverage": 42.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.15,
+        "confidence": 0.006
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.15,
+        "confidence": 0.006
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.65,
+        "confidence": 0.986
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_af969b",
+        "issue": "Crime & Law and Order",
+        "location": "Bagnan",
+        "severity": 9.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_493b14",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bagnan",
+        "severity": 7.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b80891",
+        "issue": "Education System Issues",
+        "location": "Bagnan",
+        "severity": 6.0,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_af969b",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_b80891",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_493b14",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "General",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 98.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 97.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 97.0,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 97.7,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 1.0,
+      "verified_issues": [],
+      "noise_issues": [
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management"
+      ],
+      "contested_issues": []
+    }
+  }
+}

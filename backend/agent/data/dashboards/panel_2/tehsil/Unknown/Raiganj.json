@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Raiganj",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_07143a",
+        "issue": "Women Safety & Crimes",
+        "location": "Raiganj",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_757e42",
+        "issue": "Healthcare Access & Services",
+        "location": "Raiganj",
+        "severity": 9.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_284b19",
+        "issue": "Crime & Law and Order",
+        "location": "Raiganj",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_284b19",
+        "issue": "Crime & Law and Order",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_757e42",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 16,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_07143a",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

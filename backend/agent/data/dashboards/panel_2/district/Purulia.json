@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Purulia",
+    "total_signals": 1225,
+    "generated_at": "2026-01-19T18:35:10.208460+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_5aece7",
+        "issue": "Crime & Law and Order",
+        "location": "Para",
+        "severity": 9.9,
+        "volume": 761,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_e72d1d",
+        "issue": "Corruption & Bribery",
+        "location": "Baghmundi",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_9c9ae1",
+        "issue": "Sanitation & Waste Management",
+        "location": "Para",
+        "severity": 7.8,
+        "volume": 150,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_da4e3b",
+        "issue": "Women Safety & Crimes",
+        "location": "Purulia",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f30272",
+        "issue": "Healthcare Access & Services",
+        "location": "Bandwan",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_11cb44",
+        "issue": "Corruption & Bribery",
+        "location": "Para",
+        "severity": 10.0,
+        "volume": 75,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_be7200",
+        "issue": "Sanitation & Waste Management",
+        "location": "Joypur",
+        "severity": 7.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_5aece7",
+        "issue": "Crime & Law and Order",
+        "activeDays": 246,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_9c9ae1",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_11cb44",
+        "issue": "Corruption & Bribery",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_14563a",
+        "issue": "Crime & Law and Order",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_9e76d5",
+        "issue": "Education System Issues",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_ce0371",
+        "issue": "Education System Issues",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_bb89d4",
+        "issue": "Crime & Law and Order",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_9eecd6",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_b1f706",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 77,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_f9ed4d",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_08f2d1",
+        "issue": "Environmental Degradation",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_a5421b",
+        "issue": "Crime & Law and Order",
+        "activeDays": 57,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  }
+}

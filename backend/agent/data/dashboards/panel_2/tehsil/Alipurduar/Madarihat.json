@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Alipurduar",
+    "name": "Madarihat",
+    "total_signals": 78,
+    "generated_at": "2026-01-19T19:07:17+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_55144a",
+        "issue": "Sanitation & Waste Management",
+        "location": "Madarihat",
+        "severity": 7.9,
+        "volume": 12,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_c95e21",
+        "issue": "Education System Issues",
+        "location": "Madarihat",
+        "severity": 6.0,
+        "volume": 10,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_4508d1",
+        "issue": "Corruption & Bribery",
+        "location": "Madarihat",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5da77f",
+        "issue": "Crime & Law and Order",
+        "location": "Madarihat",
+        "severity": 9.9,
+        "volume": 53,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e98142",
+        "issue": "Women Safety & Crimes",
+        "location": "Madarihat",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_5da77f",
+        "issue": "Crime & Law and Order",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_e98142",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 39,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_c95e21",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_55144a",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_4508d1",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

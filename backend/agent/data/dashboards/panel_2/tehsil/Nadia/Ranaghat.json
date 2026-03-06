@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Ranaghat",
+    "total_signals": 83,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_70afac",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Ranaghat",
+        "severity": 7.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_563646",
+        "issue": "Crime & Law and Order",
+        "location": "Ranaghat",
+        "severity": 9.9,
+        "volume": 38,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e8dca8",
+        "issue": "Education System Issues",
+        "location": "Ranaghat",
+        "severity": 5.9,
+        "volume": 18,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_97d4b7",
+        "issue": "Sanitation & Waste Management",
+        "location": "Ranaghat",
+        "severity": 7.7,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_746bf0",
+        "issue": "Women Safety & Crimes",
+        "location": "Ranaghat",
+        "severity": 10.0,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c314ea",
+        "issue": "Corruption & Bribery",
+        "location": "Ranaghat",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c63bfe",
+        "issue": "Healthcare Access & Services",
+        "location": "Ranaghat",
+        "severity": 9.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_746bf0",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 77,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_c63bfe",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_e8dca8",
+        "issue": "Education System Issues",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_563646",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_97d4b7",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 57,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_c314ea",
+        "issue": "Corruption & Bribery",
+        "activeDays": 48,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_70afac",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

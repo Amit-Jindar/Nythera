@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Champdani",
+    "total_signals": 0,
+    "generated_at": "2026-01-19T19:09:27+00:00Z"
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "General",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [],
+    "UNREST_TRIGGERS": []
+  }
+}

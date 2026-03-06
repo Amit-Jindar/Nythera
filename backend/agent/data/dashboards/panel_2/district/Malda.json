@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Malda",
+    "total_signals": 2939,
+    "generated_at": "2026-01-19T18:35:10.313092+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_fd6b3b",
+        "issue": "Crime & Law and Order",
+        "location": "Ratua",
+        "severity": 9.9,
+        "volume": 1937,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a71e98",
+        "issue": "Crime & Law and Order",
+        "location": "Baishnabnagar",
+        "severity": 9.8,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_709150",
+        "issue": "Sanitation & Waste Management",
+        "location": "Mothabari",
+        "severity": 7.8,
+        "volume": 12,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_a7ff8e",
+        "issue": "Crime & Law and Order",
+        "location": "English Bazar",
+        "severity": 9.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_6170d6",
+        "issue": "Healthcare Access & Services",
+        "location": "Mothabari",
+        "severity": 9.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_f3cd8f",
+        "issue": "Corruption & Bribery",
+        "location": "Ratua",
+        "severity": 10.0,
+        "volume": 165,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_c83a54",
+        "issue": "Education System Issues",
+        "location": "Mothabari",
+        "severity": 6.0,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_6fe2f8",
+        "issue": "Education System Issues",
+        "activeDays": 316,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_fd6b3b",
+        "issue": "Crime & Law and Order",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f3cd8f",
+        "issue": "Corruption & Bribery",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_a2d1ff",
+        "issue": "Crime & Law and Order",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_ce45f0",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_2f8b74",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_fcc901",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_24a0f0",
+        "issue": "Crime & Law and Order",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_22f9ad",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_32759f",
+        "issue": "Crime & Law and Order",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_d7a69e",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_3155c5",
+        "issue": "Corruption & Bribery",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

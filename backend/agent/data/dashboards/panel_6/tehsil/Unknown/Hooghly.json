@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Hooghly",
+    "total_signals": 36,
+    "generated_at": "2026-01-19T19:16:46+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.4,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.4,
+      "verified_issues": [
+        "Education System Issues",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Environmental Degradation"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

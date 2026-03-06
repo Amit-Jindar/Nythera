@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Samserganj",
+    "total_signals": 52,
+    "generated_at": "2026-01-19T19:11:25+00:00Z"
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 58,
+      "pressure": 58,
+      "capacity": 42,
+      "status": "medium"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ]
+}

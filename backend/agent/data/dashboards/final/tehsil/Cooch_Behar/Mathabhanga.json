@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Cooch Behar",
+    "name": "Mathabhanga",
+    "total_signals": 388,
+    "enriched_signals": 15,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:27.702704+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.22,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-14 04:00 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-31",
+        "sentiment": 46.6,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 38.2,
+        "rollingAverage": 42.4
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 60.6,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 56.0,
+        "rollingAverage": 50.4
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 44.4,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 49.5,
+        "rollingAverage": 49.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.51,
+        "confidence": 0.02
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.75,
+        "confidence": 0.07
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.71,
+        "confidence": 0.908
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f2b024",
+        "issue": "Education System Issues",
+        "location": "Mathabhanga",
+        "severity": 6.0,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_6bfb6d",
+        "issue": "Crime & Law and Order",
+        "location": "Mathabhanga",
+        "severity": 9.9,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_090c59",
+        "issue": "Sanitation & Waste Management",
+        "location": "Mathabhanga",
+        "severity": 8.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_6bfb6d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 7,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_090c59",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 7,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_f2b024",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 9,
+      "pressure": 9,
+      "capacity": 91,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 95.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 88.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 72.3,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 80.9,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.67,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.33,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Education System Issues"
+      ],
+      "contested_issues": []
+    }
+  }
+}

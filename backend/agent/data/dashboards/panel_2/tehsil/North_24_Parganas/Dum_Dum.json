@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Dum_Dum",
+    "total_signals": 272,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_d5b8b2",
+        "issue": "Crime & Law and Order",
+        "location": "Dum Dum",
+        "severity": 9.9,
+        "volume": 182,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_655270",
+        "issue": "Traffic & Road Safety",
+        "location": "Dum Dum",
+        "severity": 7.4,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_ace2fe",
+        "issue": "Women Safety & Crimes",
+        "location": "Dum Dum",
+        "severity": 10.0,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_df21f1",
+        "issue": "Sanitation & Waste Management",
+        "location": "Dum Dum",
+        "severity": 7.8,
+        "volume": 40,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_177c1d",
+        "issue": "Healthcare Access & Services",
+        "location": "Dum Dum",
+        "severity": 9.3,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d03778",
+        "issue": "Corruption & Bribery",
+        "location": "Dum Dum",
+        "severity": 10.0,
+        "volume": 16,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6aec1b",
+        "issue": "Education System Issues",
+        "location": "Dum Dum",
+        "severity": 5.9,
+        "volume": 8,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d03778",
+        "issue": "Corruption & Bribery",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_d5b8b2",
+        "issue": "Crime & Law and Order",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_fb920a",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_df21f1",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_6aec1b",
+        "issue": "Education System Issues",
+        "activeDays": 61,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_177c1d",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 38,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_ace2fe",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 14,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_655270",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

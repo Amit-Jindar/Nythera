@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba_Medinipur",
+    "name": "Tamluk",
+    "total_signals": 19,
+    "generated_at": "2026-01-19T19:09:25+00:00Z"
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police + Women Security Cell",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_34ade4",
+        "issue": "Women Safety & Crimes",
+        "department": "Women Security Cell",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  }
+}

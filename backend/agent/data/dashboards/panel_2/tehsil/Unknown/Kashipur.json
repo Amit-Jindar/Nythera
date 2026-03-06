@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Kashipur",
+    "total_signals": 37,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_3a7878",
+        "issue": "Traffic & Road Safety",
+        "location": "Kashipur",
+        "severity": 7.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_32c90c",
+        "issue": "Environmental Degradation",
+        "location": "Kashipur",
+        "severity": 6.1,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fc0fef",
+        "issue": "Healthcare Access & Services",
+        "location": "Kashipur",
+        "severity": 9.8,
+        "volume": 25,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_52bbe3",
+        "issue": "Crime & Law and Order",
+        "location": "Kashipur",
+        "severity": 10.0,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_fc0fef",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_52bbe3",
+        "issue": "Crime & Law and Order",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_32c90c",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_3a7878",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

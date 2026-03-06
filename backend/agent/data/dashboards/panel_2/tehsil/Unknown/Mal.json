@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Mal",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_c9ec4e",
+        "issue": "Healthcare Access & Services",
+        "location": "Mal",
+        "severity": 9.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2800e8",
+        "issue": "Crime & Law and Order",
+        "location": "Mal",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_0739a9",
+        "issue": "Education System Issues",
+        "location": "Mal",
+        "severity": 6.4,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_0739a9",
+        "issue": "Education System Issues",
+        "activeDays": 40,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_2800e8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 40,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_c9ec4e",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

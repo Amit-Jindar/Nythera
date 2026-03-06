@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Jalpaiguri",
+    "name": "Mal",
+    "total_signals": 23,
+    "generated_at": "2026-01-19T19:07:17+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_848b94",
+        "issue": "Sanitation & Waste Management",
+        "location": "Mal",
+        "severity": 7.7,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_d68151",
+        "issue": "Women Safety & Crimes",
+        "location": "Mal",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_dd53ad",
+        "issue": "Corruption & Bribery",
+        "location": "Mal",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ef5bda",
+        "issue": "Traffic & Road Safety",
+        "location": "Mal",
+        "severity": 7.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2800e8",
+        "issue": "Crime & Law and Order",
+        "location": "Mal",
+        "severity": 9.9,
+        "volume": 12,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_0739a9",
+        "issue": "Education System Issues",
+        "location": "Mal",
+        "severity": 6.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_2800e8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_0739a9",
+        "issue": "Education System Issues",
+        "activeDays": 28,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_dd53ad",
+        "issue": "Corruption & Bribery",
+        "activeDays": 3,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_ef5bda",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_848b94",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_d68151",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

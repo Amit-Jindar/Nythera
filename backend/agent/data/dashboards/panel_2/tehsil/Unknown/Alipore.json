@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Alipore",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_365049",
+        "issue": "Crime & Law and Order",
+        "location": "Alipore",
+        "severity": 10.0,
+        "volume": 12,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_81f850",
+        "issue": "Healthcare Access & Services",
+        "location": "Alipore",
+        "severity": 9.8,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_365049",
+        "issue": "Crime & Law and Order",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_81f850",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 42,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

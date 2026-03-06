@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim Medinipur",
+    "name": "Salboni",
+    "total_signals": 96,
+    "enriched_signals": 7,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:15:43.707081+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 38.34,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-13 15:52 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-08",
+        "sentiment": 40.5,
+        "rollingAverage": 40.5
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 35.3,
+        "rollingAverage": 37.9
+      },
+      {
+        "date": "2025-11-10",
+        "sentiment": 35.6,
+        "rollingAverage": 37.1
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 39.8,
+        "rollingAverage": 37.8
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 40.5,
+        "rollingAverage": 38.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.31,
+        "confidence": 0.093
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.44,
+        "confidence": 0.018
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.21,
+        "confidence": 0.888
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4a4611",
+        "issue": "Sanitation & Waste Management",
+        "location": "Salboni",
+        "severity": 7.7,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_936bb0",
+        "issue": "Corruption & Bribery",
+        "location": "Salboni",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9b2c6e",
+        "issue": "Crime & Law and Order",
+        "location": "Salboni",
+        "severity": 9.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_4a4611",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_936bb0",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_9b2c6e",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 96.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 94.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 89.3,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 91.1,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.33,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.67,
+      "verified_issues": [
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order"
+      ],
+      "contested_issues": []
+    }
+  }
+}

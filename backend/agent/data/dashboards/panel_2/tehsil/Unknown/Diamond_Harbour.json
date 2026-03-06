@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Diamond_Harbour",
+    "total_signals": 9,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_0a888d",
+        "issue": "Women Safety & Crimes",
+        "location": "Diamond Harbour",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_97861e",
+        "issue": "Healthcare Access & Services",
+        "location": "Diamond Harbour",
+        "severity": 9.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_78c333",
+        "issue": "Environmental Degradation",
+        "location": "Diamond Harbour",
+        "severity": 6.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b650eb",
+        "issue": "Crime & Law and Order",
+        "location": "Diamond Harbour",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_19bc54",
+        "issue": "Education System Issues",
+        "location": "Diamond Harbour",
+        "severity": 6.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_b650eb",
+        "issue": "Crime & Law and Order",
+        "activeDays": 54,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_19bc54",
+        "issue": "Education System Issues",
+        "activeDays": 20,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_97861e",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_78c333",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_0a888d",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

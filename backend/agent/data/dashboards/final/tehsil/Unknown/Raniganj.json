@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Raniganj",
+    "total_signals": 10,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 71.86,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-30 03:17 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-13",
+        "sentiment": 58.7,
+        "rollingAverage": 58.7
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 73.2,
+        "rollingAverage": 66.0
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 69.1,
+        "rollingAverage": 67.0
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 88.2,
+        "rollingAverage": 72.3
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 76.8,
+        "rollingAverage": 73.2
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 66.8,
+        "rollingAverage": 72.1
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 70.2,
+        "rollingAverage": 71.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 4.52,
+        "confidence": 0.181
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.62,
+        "confidence": 0.145
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.56,
+        "confidence": 0.663
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.3,
+        "confidence": 0.012
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_05c184",
+        "issue": "Healthcare Access & Services",
+        "location": "Raniganj",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_92f269",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Raniganj",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b372ff",
+        "issue": "Education System Issues",
+        "location": "Raniganj",
+        "severity": 6.2,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_531748",
+        "issue": "Crime & Law and Order",
+        "location": "Raniganj",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_531748",
+        "issue": "Crime & Law and Order",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_92f269",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_05c184",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_b372ff",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 10,
+      "pressure": 10,
+      "capacity": 90,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 98.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 96.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 96.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 62.7,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 73.0,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.25,
+      "low_credibility_ratio": 0.75,
+      "verified_issues": [],
+      "noise_issues": [
+        "Education System Issues",
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

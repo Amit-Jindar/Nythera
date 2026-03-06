@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Mathurapur",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_c4d5c5",
+        "issue": "Sanitation & Waste Management",
+        "location": "Mathurapur",
+        "severity": 7.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c0110f",
+        "issue": "Crime & Law and Order",
+        "location": "Mathurapur",
+        "severity": 9.9,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_c0110f",
+        "issue": "Crime & Law and Order",
+        "activeDays": 32,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_c4d5c5",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      }
+    ]
+  }
+}

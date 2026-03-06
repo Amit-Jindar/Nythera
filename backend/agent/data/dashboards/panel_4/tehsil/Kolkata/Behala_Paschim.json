@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Behala_Paschim",
+    "total_signals": 10,
+    "generated_at": "2026-01-19T19:11:27+00:00Z"
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 7,
+      "pressure": 7,
+      "capacity": 93,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    }
+  ]
+}

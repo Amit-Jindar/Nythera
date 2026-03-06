@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Murshidabad",
+    "district": "Unknown",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 71.96,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-04 17:22 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-07",
+        "sentiment": 45.1,
+        "rollingAverage": 45.1
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 82.9,
+        "rollingAverage": 64.0
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 85.4,
+        "rollingAverage": 71.1
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 78.4,
+        "rollingAverage": 73.0
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 68.0,
+        "rollingAverage": 72.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 4.63,
+        "confidence": 0.185
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.47,
+        "confidence": 0.299
+      },
+      {
+        "emotion": "Trust",
+        "value": 12.74,
+        "confidence": 0.509
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.16,
+        "confidence": 0.006
+      }
+    ]
+  }
+}

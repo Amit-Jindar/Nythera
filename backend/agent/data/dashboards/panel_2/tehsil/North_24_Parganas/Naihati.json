@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Naihati",
+    "total_signals": 240,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_dc3c94",
+        "issue": "Crime & Law and Order",
+        "location": "Naihati",
+        "severity": 9.9,
+        "volume": 131,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_aae118",
+        "issue": "Environmental Degradation",
+        "location": "Naihati",
+        "severity": 5.8,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_4d66ba",
+        "issue": "Sanitation & Waste Management",
+        "location": "Naihati",
+        "severity": 7.8,
+        "volume": 53,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2097db",
+        "issue": "Women Safety & Crimes",
+        "location": "Naihati",
+        "severity": 10.0,
+        "volume": 17,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ce7956",
+        "issue": "Traffic & Road Safety",
+        "location": "Naihati",
+        "severity": 7.7,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f8f993",
+        "issue": "Corruption & Bribery",
+        "location": "Naihati",
+        "severity": 10.0,
+        "volume": 14,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d6a59a",
+        "issue": "Healthcare Access & Services",
+        "location": "Naihati",
+        "severity": 9.3,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_dc3c94",
+        "issue": "Crime & Law and Order",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f8f993",
+        "issue": "Corruption & Bribery",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_4d66ba",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_d6a59a",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 76,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_2097db",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_1fd33a",
+        "issue": "Education System Issues",
+        "activeDays": 52,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_ed7bb1",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 28,
+        "persistenceStatus": "stuck",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_ce7956",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 14,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_aae118",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

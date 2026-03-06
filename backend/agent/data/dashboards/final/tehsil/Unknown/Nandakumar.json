@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Nandakumar",
+    "total_signals": 15,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 76.43,
+      "zone": "Stable",
+      "trend": "deteriorating",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-10 10:45 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-22",
+        "sentiment": 65.1,
+        "rollingAverage": 65.1
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 78.1,
+        "rollingAverage": 71.6
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 85.8,
+        "rollingAverage": 76.3
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 82.5,
+        "rollingAverage": 77.9
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 83.8,
+        "rollingAverage": 79.1
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 80.9,
+        "rollingAverage": 79.4
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 75.6,
+        "rollingAverage": 78.8
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 87.3,
+        "rollingAverage": 82.0
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 79.9,
+        "rollingAverage": 82.3
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 45.3,
+        "rollingAverage": 76.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 4.56,
+        "confidence": 0.182
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.39,
+        "confidence": 0.176
+      },
+      {
+        "emotion": "Trust",
+        "value": 15.72,
+        "confidence": 0.629
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.33,
+        "confidence": 0.013
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_60ae24",
+        "issue": "Corruption & Bribery",
+        "location": "Nandakumar",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_dadabd",
+        "issue": "Crime & Law and Order",
+        "location": "Nandakumar",
+        "severity": 10.0,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_f28335",
+        "issue": "Education System Issues",
+        "location": "Nandakumar",
+        "severity": 6.6,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_dadabd",
+        "issue": "Crime & Law and Order",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f28335",
+        "issue": "Education System Issues",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_60ae24",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.08
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 13,
+      "pressure": 13,
+      "capacity": 87,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 96.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 92.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 48.7,
+        "trend": "Stable",
+        "change": 0
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 60.5,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.33,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.67,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Education System Issues"
+      ],
+      "contested_issues": []
+    }
+  }
+}

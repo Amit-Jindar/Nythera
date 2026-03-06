@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Hooghly",
+    "name": "Chanditala",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_2f23b0",
+        "issue": "Crime & Law and Order",
+        "location": "Chanditala",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_2f23b0",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      }
+    ]
+  }
+}

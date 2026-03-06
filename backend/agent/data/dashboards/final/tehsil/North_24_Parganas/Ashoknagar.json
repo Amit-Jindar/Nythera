@@ -1,0 +1,425 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North 24 Parganas",
+    "name": "Ashoknagar",
+    "total_signals": 431,
+    "enriched_signals": 45,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.767562+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 44.29,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-09 09:54 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-31",
+        "sentiment": 42.8,
+        "rollingAverage": 42.8
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 42.2,
+        "rollingAverage": 42.5
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 47.4,
+        "rollingAverage": 44.1
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 48.9,
+        "rollingAverage": 45.3
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 47.7,
+        "rollingAverage": 45.8
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 38.0,
+        "rollingAverage": 44.5
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 38.6,
+        "rollingAverage": 43.7
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 42.0,
+        "rollingAverage": 43.5
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 38.9,
+        "rollingAverage": 43.1
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 40.9,
+        "rollingAverage": 42.1
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 61.4,
+        "rollingAverage": 43.9
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 54.4,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 36.6,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 53.3,
+        "rollingAverage": 46.8
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 37.1,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 38.4,
+        "rollingAverage": 46.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.63,
+        "confidence": 0.065
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.45,
+        "confidence": 0.058
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.87,
+        "confidence": 0.875
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_b986b8",
+        "issue": "Healthcare Access & Services",
+        "location": "Ashoknagar",
+        "severity": 9.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_bcf03b",
+        "issue": "Public Transport Issues",
+        "location": "Ashoknagar",
+        "severity": 7.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e93773",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Ashoknagar",
+        "severity": 6.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1e01a8",
+        "issue": "Corruption & Bribery",
+        "location": "Ashoknagar",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b5c096",
+        "issue": "Environmental Degradation",
+        "location": "Ashoknagar",
+        "severity": 5.9,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_686692",
+        "issue": "Crime & Law and Order",
+        "location": "Ashoknagar",
+        "severity": 9.9,
+        "volume": 32,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d15efb",
+        "issue": "Sanitation & Waste Management",
+        "location": "Ashoknagar",
+        "severity": 7.8,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d15efb",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_686692",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_1e01a8",
+        "issue": "Corruption & Bribery",
+        "activeDays": 3,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_bcf03b",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_e93773",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_b986b8",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_b5c096",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Municipal Corporation + Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 36,
+      "pressure": 36,
+      "capacity": 64,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 7,
+      "pressure": 7,
+      "capacity": 93,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_8623ca",
+      "department": "Transport Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_309201",
+      "department": "Environment Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_309201",
+        "department": "Environment Department",
+        "trustScore": 98.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 97.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_8623ca",
+        "department": "Transport Department",
+        "trustScore": 97.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 96.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 88.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 81.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 12.8,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.29,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.71,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Environmental Degradation",
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Public Transport Issues"
+      ],
+      "contested_issues": []
+    }
+  }
+}

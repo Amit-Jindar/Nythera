@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Haroa",
+    "total_signals": 147,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_00f4bc",
+        "issue": "Traffic & Road Safety",
+        "location": "Haroa",
+        "severity": 7.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9e0a69",
+        "issue": "Crime & Law and Order",
+        "location": "Haroa",
+        "severity": 9.9,
+        "volume": 83,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d4e2c3",
+        "issue": "Corruption & Bribery",
+        "location": "Haroa",
+        "severity": 10.0,
+        "volume": 20,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f2071c",
+        "issue": "Education System Issues",
+        "location": "Haroa",
+        "severity": 5.9,
+        "volume": 21,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2dfead",
+        "issue": "Sanitation & Waste Management",
+        "location": "Haroa",
+        "severity": 7.8,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_96005f",
+        "issue": "Women Safety & Crimes",
+        "location": "Haroa",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_603928",
+        "issue": "Healthcare Access & Services",
+        "location": "Haroa",
+        "severity": 9.6,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_9e0a69",
+        "issue": "Crime & Law and Order",
+        "activeDays": 252,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_603928",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 120,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_d4e2c3",
+        "issue": "Corruption & Bribery",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_f2071c",
+        "issue": "Education System Issues",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_2dfead",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 69,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_96005f",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 33,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_00f4bc",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

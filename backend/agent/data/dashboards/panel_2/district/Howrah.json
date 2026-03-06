@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Howrah",
+    "total_signals": 36059,
+    "generated_at": "2026-01-19T18:35:11.711465+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_a315ed",
+        "issue": "Crime & Law and Order",
+        "location": "Bally",
+        "severity": 9.9,
+        "volume": 28060,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_7cd997",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bally",
+        "severity": 7.8,
+        "volume": 2594,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_1b31cb",
+        "issue": "Corruption & Bribery",
+        "location": "Bally",
+        "severity": 10.0,
+        "volume": 1491,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_931c8d",
+        "issue": "Healthcare Access & Services",
+        "location": "Bally",
+        "severity": 9.4,
+        "volume": 699,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_b17ac9",
+        "issue": "Women Safety & Crimes",
+        "location": "Bally",
+        "severity": 10.0,
+        "volume": 548,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2acf47",
+        "issue": "Education System Issues",
+        "location": "Bally",
+        "severity": 6.0,
+        "volume": 1795,
+        "status": "resolving",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_3eac10",
+        "issue": "Sanitation & Waste Management",
+        "location": "Uluberia",
+        "severity": 7.9,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "emerging"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_a315ed",
+        "issue": "Crime & Law and Order",
+        "activeDays": 278,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_483159",
+        "issue": "Corruption & Bribery",
+        "activeDays": 212,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_2acf47",
+        "issue": "Education System Issues",
+        "activeDays": 187,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_1b31cb",
+        "issue": "Corruption & Bribery",
+        "activeDays": 94,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_931c8d",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 94,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_7cd997",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_813a43",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_b17ac9",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_5d3400",
+        "issue": "Crime & Law and Order",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_8e07fc",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_9650bb",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_cc7c0c",
+        "issue": "Environmental Degradation",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

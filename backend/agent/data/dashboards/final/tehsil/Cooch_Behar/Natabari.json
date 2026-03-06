@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Cooch Behar",
+    "name": "Natabari",
+    "total_signals": 196,
+    "enriched_signals": 12,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:27.693542+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 46.25,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-19 17:02 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-12",
+        "sentiment": 46.8,
+        "rollingAverage": 46.8
+      },
+      {
+        "date": "2025-10-15",
+        "sentiment": 51.5,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 46.8,
+        "rollingAverage": 48.4
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 38.3,
+        "rollingAverage": 45.8
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 44.8,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 49.3,
+        "rollingAverage": 46.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.67,
+        "confidence": 0.027
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.06,
+        "confidence": 0.162
+      },
+      {
+        "emotion": "Trust",
+        "value": 20.24,
+        "confidence": 0.809
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f7213d",
+        "issue": "Corruption & Bribery",
+        "location": "Natabari",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_198ddc",
+        "issue": "Sanitation & Waste Management",
+        "location": "Natabari",
+        "severity": 8.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d903f5",
+        "issue": "Crime & Law and Order",
+        "location": "Natabari",
+        "severity": 9.9,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_887e83",
+        "issue": "Education System Issues",
+        "location": "Natabari",
+        "severity": 5.9,
+        "volume": 6,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_887e83",
+        "issue": "Education System Issues",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_d903f5",
+        "issue": "Crime & Law and Order",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_198ddc",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_f7213d",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Education Department + Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 97.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 96.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 89.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 84.5,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 89.0,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.25,
+      "medium_credibility_ratio": 0.25,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [
+        "Education System Issues"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Sanitation & Waste Management"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

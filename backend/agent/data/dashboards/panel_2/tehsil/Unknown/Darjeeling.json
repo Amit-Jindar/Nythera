@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Darjeeling",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_b10ecf",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Darjeeling",
+        "severity": 7.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_c186b2",
+        "issue": "Women Safety & Crimes",
+        "location": "Darjeeling",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3858f2",
+        "issue": "Crime & Law and Order",
+        "location": "Darjeeling",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_60e38f",
+        "issue": "Education System Issues",
+        "location": "Darjeeling",
+        "severity": 6.2,
+        "volume": 6,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8a0a08",
+        "issue": "Healthcare Access & Services",
+        "location": "Darjeeling",
+        "severity": 9.7,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_8a0a08",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_60e38f",
+        "issue": "Education System Issues",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_3858f2",
+        "issue": "Crime & Law and Order",
+        "activeDays": 36,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_b10ecf",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_c186b2",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

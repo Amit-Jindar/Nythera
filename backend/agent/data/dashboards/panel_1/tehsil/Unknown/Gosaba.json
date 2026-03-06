@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Gosaba",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 73.9,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-03 03:24 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-24",
+        "sentiment": 64.0,
+        "rollingAverage": 64.0
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 83.8,
+        "rollingAverage": 73.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 5.8,
+        "confidence": 0.232
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.27,
+        "confidence": 0.091
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.4,
+        "confidence": 0.656
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.53,
+        "confidence": 0.021
+      }
+    ]
+  }
+}

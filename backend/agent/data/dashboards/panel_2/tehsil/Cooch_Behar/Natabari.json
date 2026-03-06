@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Cooch_Behar",
+    "name": "Natabari",
+    "total_signals": 12,
+    "generated_at": "2026-01-19T19:07:13+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f7213d",
+        "issue": "Corruption & Bribery",
+        "location": "Natabari",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_198ddc",
+        "issue": "Sanitation & Waste Management",
+        "location": "Natabari",
+        "severity": 8.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d903f5",
+        "issue": "Crime & Law and Order",
+        "location": "Natabari",
+        "severity": 9.9,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_887e83",
+        "issue": "Education System Issues",
+        "location": "Natabari",
+        "severity": 5.9,
+        "volume": 6,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_887e83",
+        "issue": "Education System Issues",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_d903f5",
+        "issue": "Crime & Law and Order",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_198ddc",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_f7213d",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

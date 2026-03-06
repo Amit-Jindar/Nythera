@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Jadavpur",
+    "total_signals": 112,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_1a3896",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Jadavpur",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_70f67d",
+        "issue": "Traffic & Road Safety",
+        "location": "Jadavpur",
+        "severity": 7.6,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_342fd0",
+        "issue": "Crime & Law and Order",
+        "location": "Jadavpur",
+        "severity": 9.9,
+        "volume": 42,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_728141",
+        "issue": "Education System Issues",
+        "location": "Jadavpur",
+        "severity": 6.1,
+        "volume": 35,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_809c30",
+        "issue": "Sanitation & Waste Management",
+        "location": "Jadavpur",
+        "severity": 7.8,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_857e48",
+        "issue": "Corruption & Bribery",
+        "location": "Jadavpur",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8705b6",
+        "issue": "Healthcare Access & Services",
+        "location": "Jadavpur",
+        "severity": 9.3,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_342fd0",
+        "issue": "Crime & Law and Order",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_728141",
+        "issue": "Education System Issues",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_809c30",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 69,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_30cfb9",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_8705b6",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_af02f6",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 56,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_857e48",
+        "issue": "Corruption & Bribery",
+        "activeDays": 51,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_1a3896",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      },
+      {
+        "id": "p_70f67d",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

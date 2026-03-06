@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Rajganj",
+    "total_signals": 17,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 69.34,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-09 02:43 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-05",
+        "sentiment": 70.9,
+        "rollingAverage": 70.9
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 71.6,
+        "rollingAverage": 71.2
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 67.7,
+        "rollingAverage": 70.1
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 55.3,
+        "rollingAverage": 66.4
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 72.0,
+        "rollingAverage": 67.5
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 77.5,
+        "rollingAverage": 69.2
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 80.2,
+        "rollingAverage": 70.7
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 67.1,
+        "rollingAverage": 70.2
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 50.5,
+        "rollingAverage": 67.2
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 77.8,
+        "rollingAverage": 68.6
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 61.4,
+        "rollingAverage": 69.5
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 82.4,
+        "rollingAverage": 71.0
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 50.5,
+        "rollingAverage": 67.1
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 85.9,
+        "rollingAverage": 67.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.86,
+        "confidence": 0.154
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.86,
+        "confidence": 0.315
+      },
+      {
+        "emotion": "Trust",
+        "value": 12.96,
+        "confidence": 0.518
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.32,
+        "confidence": 0.013
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_9c927a",
+        "issue": "Traffic & Road Safety",
+        "location": "Rajganj",
+        "severity": 8.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d1f0da",
+        "issue": "Crime & Law and Order",
+        "location": "Rajganj",
+        "severity": 10.0,
+        "volume": 14,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f07c06",
+        "issue": "Education System Issues",
+        "location": "Rajganj",
+        "severity": 6.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d1f0da",
+        "issue": "Crime & Law and Order",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f07c06",
+        "issue": "Education System Issues",
+        "activeDays": 32,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_9c927a",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.08
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 17,
+      "pressure": 17,
+      "capacity": 83,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 95.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 95.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 37.1,
+        "trend": "Stable",
+        "change": 0
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 44.2,
+      "trend": "Stable",
+      "change": 0.0,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.33,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.67,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": []
+    }
+  }
+}

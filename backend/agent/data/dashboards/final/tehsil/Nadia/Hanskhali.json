@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Hanskhali",
+    "total_signals": 344,
+    "enriched_signals": 44,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:15:03.814840+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 46.35,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-25 00:58 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-11",
+        "sentiment": 41.9,
+        "rollingAverage": 41.9
+      },
+      {
+        "date": "2025-10-16",
+        "sentiment": 48.6,
+        "rollingAverage": 45.2
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 36.0,
+        "rollingAverage": 42.2
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 40.7,
+        "rollingAverage": 41.8
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 40.7,
+        "rollingAverage": 41.6
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 46.8,
+        "rollingAverage": 42.5
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 71.5,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 54.7,
+        "rollingAverage": 48.4
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 49.1,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 41.5,
+        "rollingAverage": 49.3
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 38.4,
+        "rollingAverage": 49.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.44,
+        "confidence": 0.018
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.98,
+        "confidence": 0.079
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.48,
+        "confidence": 0.899
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.1,
+        "confidence": 0.004
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_5e541b",
+        "issue": "Sanitation & Waste Management",
+        "location": "Hanskhali",
+        "severity": 7.8,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_370061",
+        "issue": "Crime & Law and Order",
+        "location": "Hanskhali",
+        "severity": 9.9,
+        "volume": 28,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3a1bbb",
+        "issue": "Women Safety & Crimes",
+        "location": "Hanskhali",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_370061",
+        "issue": "Crime & Law and Order",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_3a1bbb",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_5e541b",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Municipal Corporation + Police + Women Security Cell",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_34ade4",
+        "issue": "Women Safety & Crimes",
+        "department": "Women Security Cell",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 35,
+      "pressure": 35,
+      "capacity": 65,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 13,
+      "pressure": 13,
+      "capacity": 87,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 8,
+      "pressure": 8,
+      "capacity": 92,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 80.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 70.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 14.3,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 1.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [],
+      "contested_issues": []
+    }
+  }
+}

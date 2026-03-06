@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Bankura",
+    "name": "Bishnupur",
+    "total_signals": 45,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 47.54,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-01 15:44 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-07-02",
+        "sentiment": 44.8,
+        "rollingAverage": 44.8
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 37.6,
+        "rollingAverage": 41.2
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 36.6,
+        "rollingAverage": 39.7
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 60.7,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 45.8,
+        "rollingAverage": 45.1
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 57.2,
+        "rollingAverage": 47.1
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 51.0,
+        "rollingAverage": 47.7
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 46.2,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 41.2,
+        "rollingAverage": 48.4
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 48.6,
+        "rollingAverage": 50.1
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 44.1,
+        "rollingAverage": 47.7
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 38.3,
+        "rollingAverage": 46.7
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 77.0,
+        "rollingAverage": 49.5
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 36.4,
+        "rollingAverage": 47.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.01,
+        "confidence": 0.04
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.15,
+        "confidence": 0.086
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.79,
+        "confidence": 0.872
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_73f40f",
+        "issue": "Corruption & Bribery",
+        "location": "Bishnupur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c404bf",
+        "issue": "Education System Issues",
+        "location": "Bishnupur",
+        "severity": 5.9,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ffae16",
+        "issue": "Crime & Law and Order",
+        "location": "Bishnupur",
+        "severity": 9.9,
+        "volume": 32,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c55a3b",
+        "issue": "Healthcare Access & Services",
+        "location": "Bishnupur",
+        "severity": 9.5,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b5c82e",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bishnupur",
+        "severity": 7.7,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_ffae16",
+        "issue": "Crime & Law and Order",
+        "activeDays": 181,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b5c82e",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 64,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_c55a3b",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 33,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_c404bf",
+        "issue": "Education System Issues",
+        "activeDays": 10,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_73f40f",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Health Department + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 41,
+      "pressure": 41,
+      "capacity": 59,
+      "status": "medium"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 7,
+      "pressure": 7,
+      "capacity": 93,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 95.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 94.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 87.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 85.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 13.1,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.4,
+      "medium_credibility_ratio": 0.4,
+      "low_credibility_ratio": 0.2,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery"
+      ],
+      "contested_issues": [
+        "Education System Issues",
+        "Healthcare Access & Services"
+      ]
+    }
+  }
+}

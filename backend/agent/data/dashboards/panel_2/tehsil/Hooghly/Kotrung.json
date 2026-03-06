@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Hooghly",
+    "name": "Kotrung",
+    "total_signals": 2693,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_9529af",
+        "issue": "Crime & Law and Order",
+        "location": "Kotrung",
+        "severity": 9.9,
+        "volume": 1867,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8e5311",
+        "issue": "Sanitation & Waste Management",
+        "location": "Kotrung",
+        "severity": 7.8,
+        "volume": 235,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_eafa6c",
+        "issue": "Corruption & Bribery",
+        "location": "Kotrung",
+        "severity": 10.0,
+        "volume": 141,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_69c77e",
+        "issue": "Healthcare Access & Services",
+        "location": "Kotrung",
+        "severity": 9.4,
+        "volume": 145,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_0a767e",
+        "issue": "Education System Issues",
+        "location": "Kotrung",
+        "severity": 5.9,
+        "volume": 184,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_50848c",
+        "issue": "Women Safety & Crimes",
+        "location": "Kotrung",
+        "severity": 10.0,
+        "volume": 76,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_7902f2",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Kotrung",
+        "severity": 6.9,
+        "volume": 21,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_9529af",
+        "issue": "Crime & Law and Order",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_eafa6c",
+        "issue": "Corruption & Bribery",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_0a767e",
+        "issue": "Education System Issues",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_50848c",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_69c77e",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_8e5311",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 89,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_7902f2",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_6a4d17",
+        "issue": "Environmental Degradation",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_df3520",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_3aaf23",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "General Administration"
+      },
+      {
+        "id": "p_1abded",
+        "issue": "Public Transport Issues",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      }
+    ]
+  }
+}

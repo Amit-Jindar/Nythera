@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Krishnaganj",
+    "total_signals": 20,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_5155b8",
+        "issue": "Women Safety & Crimes",
+        "location": "Krishnaganj",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_73d303",
+        "issue": "Corruption & Bribery",
+        "location": "Krishnaganj",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_23e6ae",
+        "issue": "Healthcare Access & Services",
+        "location": "Krishnaganj",
+        "severity": 9.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b48e04",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Krishnaganj",
+        "severity": 7.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d99163",
+        "issue": "Crime & Law and Order",
+        "location": "Krishnaganj",
+        "severity": 9.9,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_39502b",
+        "issue": "Sanitation & Waste Management",
+        "location": "Krishnaganj",
+        "severity": 7.7,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fffec0",
+        "issue": "Education System Issues",
+        "location": "Krishnaganj",
+        "severity": 6.0,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_39502b",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 34,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_d99163",
+        "issue": "Crime & Law and Order",
+        "activeDays": 29,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_fffec0",
+        "issue": "Education System Issues",
+        "activeDays": 27,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_5155b8",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_b48e04",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_73d303",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_23e6ae",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

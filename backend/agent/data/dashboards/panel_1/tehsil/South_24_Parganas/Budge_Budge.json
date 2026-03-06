@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Budge_Budge",
+    "district": "South_24_Parganas",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 52.32,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-01 19:04 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-10",
+        "sentiment": 49.2,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-10-13",
+        "sentiment": 51.0,
+        "rollingAverage": 50.1
+      },
+      {
+        "date": "2025-10-16",
+        "sentiment": 62.9,
+        "rollingAverage": 54.4
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 47.6,
+        "rollingAverage": 52.7
+      },
+      {
+        "date": "2025-10-18",
+        "sentiment": 51.1,
+        "rollingAverage": 52.4
+      },
+      {
+        "date": "2025-10-20",
+        "sentiment": 51.6,
+        "rollingAverage": 52.2
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 78.4,
+        "rollingAverage": 56.0
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 40.3,
+        "rollingAverage": 54.7
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 36.7,
+        "rollingAverage": 52.7
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 63.1,
+        "rollingAverage": 52.7
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 39.4,
+        "rollingAverage": 51.5
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 39.0,
+        "rollingAverage": 49.8
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 69.8,
+        "rollingAverage": 52.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.66,
+        "confidence": 0.026
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.38,
+        "confidence": 0.095
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.93,
+        "confidence": 0.877
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

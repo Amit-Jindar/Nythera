@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Dhupguri",
+    "district": "Jalpaiguri",
+    "total_signals": 12,
+    "generated_at": "2026-01-19T19:05:29+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 45.61,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-21 11:00 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-28",
+        "sentiment": 45.0,
+        "rollingAverage": 45.0
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 45.9,
+        "rollingAverage": 45.5
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 53.2,
+        "rollingAverage": 48.0
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 57.8,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 40.9,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 45.0,
+        "rollingAverage": 48.0
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 41.5,
+        "rollingAverage": 47.0
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 34.7,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 46.5,
+        "rollingAverage": 45.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.52,
+        "confidence": 0.021
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.32,
+        "confidence": 0.053
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.13,
+        "confidence": 0.925
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

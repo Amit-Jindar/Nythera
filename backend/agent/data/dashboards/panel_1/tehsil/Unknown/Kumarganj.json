@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Kumarganj",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 75.0,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-09 13:36 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2026-01-09",
+        "sentiment": 75.0,
+        "rollingAverage": 75.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.36,
+        "confidence": 0.094
+      },
+      {
+        "emotion": "Fear",
+        "value": 15.82,
+        "confidence": 0.633
+      },
+      {
+        "emotion": "Trust",
+        "value": 5.92,
+        "confidence": 0.237
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.9,
+        "confidence": 0.036
+      }
+    ]
+  }
+}

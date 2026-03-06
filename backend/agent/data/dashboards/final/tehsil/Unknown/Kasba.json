@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Kasba",
+    "total_signals": 27,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 75.22,
+      "zone": "Stable",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-23 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-14",
+        "sentiment": 68.4,
+        "rollingAverage": 68.4
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 68.4,
+        "rollingAverage": 68.4
+      },
+      {
+        "date": "2025-10-19",
+        "sentiment": 86.8,
+        "rollingAverage": 74.5
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 85.1,
+        "rollingAverage": 77.2
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 66.4,
+        "rollingAverage": 75.0
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 52.7,
+        "rollingAverage": 71.3
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 86.3,
+        "rollingAverage": 73.4
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 86.6,
+        "rollingAverage": 76.0
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 68.4,
+        "rollingAverage": 76.0
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 72.0,
+        "rollingAverage": 73.9
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 75.9,
+        "rollingAverage": 72.6
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 80.1,
+        "rollingAverage": 74.6
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 73.6,
+        "rollingAverage": 77.6
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 64.3,
+        "rollingAverage": 74.4
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 84.9,
+        "rollingAverage": 74.2
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 88.6,
+        "rollingAverage": 77.1
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 70.2,
+        "rollingAverage": 76.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.43,
+        "confidence": 0.137
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.32,
+        "confidence": 0.293
+      },
+      {
+        "emotion": "Trust",
+        "value": 13.57,
+        "confidence": 0.543
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.68,
+        "confidence": 0.027
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_44f606",
+        "issue": "Corruption & Bribery",
+        "location": "Kasba",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5f5f21",
+        "issue": "Traffic & Road Safety",
+        "location": "Kasba",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_301627",
+        "issue": "Crime & Law and Order",
+        "location": "Kasba",
+        "severity": 10.0,
+        "volume": 21,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2f5276",
+        "issue": "Education System Issues",
+        "location": "Kasba",
+        "severity": 6.6,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_301627",
+        "issue": "Crime & Law and Order",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_2f5276",
+        "issue": "Education System Issues",
+        "activeDays": 42,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_5f5f21",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_44f606",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police + Education Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 23,
+      "pressure": 23,
+      "capacity": 77,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 97.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 95.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 91.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 4.4,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 12.8,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.5,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Education System Issues"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": []
+    }
+  }
+}

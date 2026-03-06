@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Bankura",
+    "name": "Indus",
+    "total_signals": 238,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_93f2d1",
+        "issue": "Environmental Degradation",
+        "location": "Indus",
+        "severity": 6.7,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_467e9d",
+        "issue": "Crime & Law and Order",
+        "location": "Indus",
+        "severity": 9.9,
+        "volume": 121,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_e37694",
+        "issue": "Traffic & Road Safety",
+        "location": "Indus",
+        "severity": 7.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_841e6b",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Indus",
+        "severity": 6.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e25275",
+        "issue": "Sanitation & Waste Management",
+        "location": "Indus",
+        "severity": 7.8,
+        "volume": 49,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9102cd",
+        "issue": "Healthcare Access & Services",
+        "location": "Indus",
+        "severity": 9.6,
+        "volume": 31,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a09472",
+        "issue": "Corruption & Bribery",
+        "location": "Indus",
+        "severity": 10.0,
+        "volume": 21,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_456afa",
+        "issue": "Education System Issues",
+        "activeDays": 97,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_467e9d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_e25275",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_a09472",
+        "issue": "Corruption & Bribery",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_9102cd",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_1043e9",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_93f2d1",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_e37694",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_841e6b",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

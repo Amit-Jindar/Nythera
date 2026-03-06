@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Raghunathpur",
+    "total_signals": 9,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_31b235",
+        "issue": "Traffic & Road Safety",
+        "location": "Raghunathpur",
+        "severity": 8.1,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f40ed7",
+        "issue": "Crime & Law and Order",
+        "location": "Raghunathpur",
+        "severity": 10.0,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_f40ed7",
+        "issue": "Crime & Law and Order",
+        "activeDays": 41,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_31b235",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

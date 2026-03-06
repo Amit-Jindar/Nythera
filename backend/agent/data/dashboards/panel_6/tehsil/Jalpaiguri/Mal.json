@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Jalpaiguri",
+    "name": "Mal",
+    "total_signals": 23,
+    "generated_at": "2026-01-19T19:16:47+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.17,
+      "medium_credibility_ratio": 0.33,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Traffic & Road Safety",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Corruption & Bribery",
+        "Sanitation & Waste Management"
+      ]
+    }
+  }
+}

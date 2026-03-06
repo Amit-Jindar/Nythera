@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Uttar Dinajpur",
+    "name": "Goalpokhar",
+    "total_signals": 12,
+    "enriched_signals": 2,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:17:19.504654+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 53.8,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-07 03:48 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-20",
+        "sentiment": 43.4,
+        "rollingAverage": 43.4
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 64.2,
+        "rollingAverage": 53.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.38,
+        "confidence": 0.015
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.7,
+        "confidence": 0.068
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.89,
+        "confidence": 0.916
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_aea9ed",
+        "issue": "Crime & Law and Order",
+        "location": "Goalpokhar",
+        "severity": 9.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_aea9ed",
+        "issue": "Crime & Law and Order",
+        "activeDays": 47,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "General",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 92.4,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 92.4,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 1.0,
+      "verified_issues": [],
+      "noise_issues": [
+        "Crime & Law and Order"
+      ],
+      "contested_issues": []
+    }
+  }
+}

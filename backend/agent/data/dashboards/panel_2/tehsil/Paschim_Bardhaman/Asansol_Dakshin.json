@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim_Bardhaman",
+    "name": "Asansol_Dakshin",
+    "total_signals": 8,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_6a8f27",
+        "issue": "Education System Issues",
+        "location": "Asansol Dakshin",
+        "severity": 5.9,
+        "volume": 5,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_2ffeb2",
+        "issue": "Crime & Law and Order",
+        "location": "Asansol Dakshin",
+        "severity": 9.7,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_2ffeb2",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_6a8f27",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

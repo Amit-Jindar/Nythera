@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Cooch_Behar",
+    "name": "Mathabhanga",
+    "total_signals": 15,
+    "generated_at": "2026-01-19T19:11:24+00:00Z"
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 9,
+      "pressure": 9,
+      "capacity": 91,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ]
+}

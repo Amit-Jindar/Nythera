@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Uttar_Dinajpur",
+    "name": "Islampur",
+    "total_signals": 56,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_236f95",
+        "issue": "Healthcare Access & Services",
+        "location": "Islampur",
+        "severity": 9.5,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_2fc3b9",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Islampur",
+        "severity": 8.1,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_bf113d",
+        "issue": "Crime & Law and Order",
+        "location": "Islampur",
+        "severity": 9.9,
+        "volume": 37,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_410b2e",
+        "issue": "Environmental Degradation",
+        "location": "Islampur",
+        "severity": 6.1,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e26920",
+        "issue": "Sanitation & Waste Management",
+        "location": "Islampur",
+        "severity": 7.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_df8327",
+        "issue": "Women Safety & Crimes",
+        "location": "Islampur",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b2b922",
+        "issue": "Education System Issues",
+        "location": "Islampur",
+        "severity": 5.8,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_df8327",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_bf113d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b2b922",
+        "issue": "Education System Issues",
+        "activeDays": 41,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_e26920",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 10,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_236f95",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_2fc3b9",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      },
+      {
+        "id": "p_410b2e",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

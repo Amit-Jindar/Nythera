@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purulia",
+    "name": "Bandwan",
+    "total_signals": 207,
+    "enriched_signals": 15,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:16:44.836307+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 54.04,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-03 08:52 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-11",
+        "sentiment": 40.8,
+        "rollingAverage": 40.8
+      },
+      {
+        "date": "2025-10-12",
+        "sentiment": 90.2,
+        "rollingAverage": 65.5
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 40.4,
+        "rollingAverage": 57.1
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 65.2,
+        "rollingAverage": 59.1
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 52.3,
+        "rollingAverage": 57.8
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 42.4,
+        "rollingAverage": 55.2
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 52.1,
+        "rollingAverage": 54.8
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 49.1,
+        "rollingAverage": 56.0
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 60.1,
+        "rollingAverage": 51.7
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 45.2,
+        "rollingAverage": 52.3
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 46.5,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 48.5,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 42.2,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 81.6,
+        "rollingAverage": 53.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.82,
+        "confidence": 0.033
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.65,
+        "confidence": 0.106
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.48,
+        "confidence": 0.859
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f30272",
+        "issue": "Healthcare Access & Services",
+        "location": "Bandwan",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_616256",
+        "issue": "Education System Issues",
+        "location": "Bandwan",
+        "severity": 5.8,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_59a7aa",
+        "issue": "Corruption & Bribery",
+        "location": "Bandwan",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a5421b",
+        "issue": "Crime & Law and Order",
+        "location": "Bandwan",
+        "severity": 9.9,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3fd900",
+        "issue": "Women Safety & Crimes",
+        "location": "Bandwan",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_a5421b",
+        "issue": "Crime & Law and Order",
+        "activeDays": 57,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_3fd900",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 43,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_59a7aa",
+        "issue": "Corruption & Bribery",
+        "activeDays": 9,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_f30272",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_616256",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 11,
+      "pressure": 11,
+      "capacity": 89,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 98.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 96.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 92.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 90.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 65.0,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 76.5,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.2,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.8,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": []
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Goalpokhar",
+    "district": "Unknown",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 74.13,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-07 13:43 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-21",
+        "sentiment": 90.1,
+        "rollingAverage": 90.1
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 43.1,
+        "rollingAverage": 66.6
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 89.2,
+        "rollingAverage": 74.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 6.27,
+        "confidence": 0.251
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.53,
+        "confidence": 0.181
+      },
+      {
+        "emotion": "Trust",
+        "value": 14.03,
+        "confidence": 0.561
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.17,
+        "confidence": 0.007
+      }
+    ]
+  }
+}

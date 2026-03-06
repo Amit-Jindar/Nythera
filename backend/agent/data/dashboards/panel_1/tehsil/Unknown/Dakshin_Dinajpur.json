@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Dakshin_Dinajpur",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 84.9,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-06 12:44 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2026-01-06",
+        "sentiment": 84.9,
+        "rollingAverage": 84.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.15,
+        "confidence": 0.006
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.8,
+        "confidence": 0.072
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.99,
+        "confidence": 0.92
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.06,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

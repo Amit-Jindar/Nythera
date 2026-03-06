@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Ballygunge",
+    "district": "Unknown",
+    "total_signals": 5,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 65.97,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-24 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-11",
+        "sentiment": 68.7,
+        "rollingAverage": 68.7
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 84.3,
+        "rollingAverage": 76.5
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 60.1,
+        "rollingAverage": 71.0
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 50.8,
+        "rollingAverage": 66.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.6,
+        "confidence": 0.024
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.36,
+        "confidence": 0.014
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.71,
+        "confidence": 0.949
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.32,
+        "confidence": 0.013
+      }
+    ]
+  }
+}

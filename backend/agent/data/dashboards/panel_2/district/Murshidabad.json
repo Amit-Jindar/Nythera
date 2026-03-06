@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Murshidabad",
+    "total_signals": 25392,
+    "generated_at": "2026-01-19T18:35:10.136729+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_79b789",
+        "issue": "Crime & Law and Order",
+        "location": "Suti",
+        "severity": 9.9,
+        "volume": 14455,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_702e54",
+        "issue": "Crime & Law and Order",
+        "location": "Sagardighi",
+        "severity": 9.9,
+        "volume": 17,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_01369d",
+        "issue": "Crime & Law and Order",
+        "location": "Murshidabad",
+        "severity": 9.9,
+        "volume": 1030,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_762fde",
+        "issue": "Crime & Law and Order",
+        "location": "Kandi",
+        "severity": 9.9,
+        "volume": 2157,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_2c77fe",
+        "issue": "Sanitation & Waste Management",
+        "location": "Suti",
+        "severity": 7.8,
+        "volume": 1337,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_4c654d",
+        "issue": "Women Safety & Crimes",
+        "location": "Baharampur",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_327834",
+        "issue": "Sanitation & Waste Management",
+        "location": "Rejinagar",
+        "severity": 7.8,
+        "volume": 12,
+        "status": "active",
+        "lifecycle": "emerging"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_b45e89",
+        "issue": "Corruption & Bribery",
+        "activeDays": 353,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_79b789",
+        "issue": "Crime & Law and Order",
+        "activeDays": 352,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_c1b34d",
+        "issue": "Corruption & Bribery",
+        "activeDays": 352,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_8b85a9",
+        "issue": "Education System Issues",
+        "activeDays": 347,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_c6ef75",
+        "issue": "Crime & Law and Order",
+        "activeDays": 341,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_356bcf",
+        "issue": "Education System Issues",
+        "activeDays": 340,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_1ce77f",
+        "issue": "Education System Issues",
+        "activeDays": 321,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_762fde",
+        "issue": "Crime & Law and Order",
+        "activeDays": 317,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_3c4c5c",
+        "issue": "Corruption & Bribery",
+        "activeDays": 314,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_16a911",
+        "issue": "Environmental Degradation",
+        "activeDays": 307,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_9bf204",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 304,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_9683d0",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 238,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

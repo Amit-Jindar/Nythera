@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Jalpaiguri",
+    "name": "Unknown",
+    "total_signals": 653,
+    "enriched_signals": 10,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:12:11.536904+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 74.83,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-18 09:15 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-01-31",
+        "sentiment": 78.6,
+        "rollingAverage": 78.6
+      },
+      {
+        "date": "2025-02-03",
+        "sentiment": 85.9,
+        "rollingAverage": 82.2
+      },
+      {
+        "date": "2025-07-22",
+        "sentiment": 88.9,
+        "rollingAverage": 84.5
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 49.6,
+        "rollingAverage": 75.8
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 79.8,
+        "rollingAverage": 76.6
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 66.2,
+        "rollingAverage": 74.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.06,
+        "confidence": 0.002
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.14,
+        "confidence": 0.006
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.75,
+        "confidence": 0.99
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_233e86",
+        "issue": "Education System Issues",
+        "location": "Unknown",
+        "severity": 6.0,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_aad5ac",
+        "issue": "Crime & Law and Order",
+        "location": "Unknown",
+        "severity": 10.0,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_aad5ac",
+        "issue": "Crime & Law and Order",
+        "activeDays": 321,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_233e86",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 10,
+      "pressure": 10,
+      "capacity": 90,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 98.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 73.5,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 76.0,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.5,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Education System Issues"
+      ],
+      "contested_issues": []
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Purulia",
+    "total_signals": 1225,
+    "generated_at": "2026-01-19T18:45:44+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.8,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.2,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Environmental Degradation",
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Public Transport Issues",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": []
+    }
+  }
+}

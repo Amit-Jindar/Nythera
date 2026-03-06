@@ -1,0 +1,449 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Bankura",
+    "name": "Raipur",
+    "total_signals": 86,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 43.42,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-09 12:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-21",
+        "sentiment": 40.1,
+        "rollingAverage": 40.1
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 42.6,
+        "rollingAverage": 41.4
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 35.9,
+        "rollingAverage": 39.5
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 38.9,
+        "rollingAverage": 39.4
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 44.7,
+        "rollingAverage": 40.4
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 42.8,
+        "rollingAverage": 40.8
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 43.1,
+        "rollingAverage": 41.2
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 39.8,
+        "rollingAverage": 41.1
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 42.1,
+        "rollingAverage": 41.0
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 54.9,
+        "rollingAverage": 43.8
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 46.7,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 46.9,
+        "rollingAverage": 45.2
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 49.0,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 38.4,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 41.4,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 47.5,
+        "rollingAverage": 46.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.91,
+        "confidence": 0.036
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.8,
+        "confidence": 0.072
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.25,
+        "confidence": 0.89
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_18c9d1",
+        "issue": "Corruption & Bribery",
+        "location": "Raipur",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_08f739",
+        "issue": "Healthcare Access & Services",
+        "location": "Raipur",
+        "severity": 9.2,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_7ba4a3",
+        "issue": "Women Safety & Crimes",
+        "location": "Raipur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ef1716",
+        "issue": "Public Transport Issues",
+        "location": "Raipur",
+        "severity": 7.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_636b7c",
+        "issue": "Crime & Law and Order",
+        "location": "Raipur",
+        "severity": 9.9,
+        "volume": 55,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_0692d4",
+        "issue": "Sanitation & Waste Management",
+        "location": "Raipur",
+        "severity": 7.8,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5f107f",
+        "issue": "Education System Issues",
+        "location": "Raipur",
+        "severity": 5.8,
+        "volume": 6,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_636b7c",
+        "issue": "Crime & Law and Order",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_5f107f",
+        "issue": "Education System Issues",
+        "activeDays": 63,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_0692d4",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 63,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_18c9d1",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_08f739",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_7ba4a3",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_ef1716",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 3,
+      "zone": "Police + Anti Corruption Bureau (ACB) + Health Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.09
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.09
+      },
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.07
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 63,
+      "pressure": 63,
+      "capacity": 37,
+      "status": "high"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 14,
+      "pressure": 14,
+      "capacity": 86,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 11,
+      "pressure": 11,
+      "capacity": 89,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_8623ca",
+      "department": "Transport Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_8623ca",
+        "department": "Transport Department",
+        "trustScore": 97.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 95.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 89.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 87.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 69.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 66.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 14.6,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.57,
+      "medium_credibility_ratio": 0.14,
+      "low_credibility_ratio": 0.29,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Public Transport Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Healthcare Access & Services"
+      ]
+    }
+  }
+}

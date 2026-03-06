@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Nadia",
+    "total_signals": 11,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_1807b7",
+        "issue": "Corruption & Bribery",
+        "location": "Nadia",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1db5fe",
+        "issue": "Crime & Law and Order",
+        "location": "Nadia",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d6efb0",
+        "issue": "Healthcare Access & Services",
+        "location": "Nadia",
+        "severity": 9.7,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d6efb0",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 26,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_1db5fe",
+        "issue": "Crime & Law and Order",
+        "activeDays": 19,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_1807b7",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

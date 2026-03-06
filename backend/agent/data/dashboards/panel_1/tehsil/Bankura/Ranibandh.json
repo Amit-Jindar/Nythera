@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Ranibandh",
+    "district": "Bankura",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 50.46,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-29 15:28 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-28",
+        "sentiment": 52.8,
+        "rollingAverage": 52.8
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 38.2,
+        "rollingAverage": 45.5
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 53.7,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 65.6,
+        "rollingAverage": 52.6
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 42.0,
+        "rollingAverage": 50.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.74,
+        "confidence": 0.03
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.04,
+        "confidence": 0.082
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.18,
+        "confidence": 0.887
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

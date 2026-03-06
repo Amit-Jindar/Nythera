@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Kashipur",
+    "total_signals": 37,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 69.65,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-09 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-18",
+        "sentiment": 83.7,
+        "rollingAverage": 83.7
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 55.1,
+        "rollingAverage": 69.4
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 51.0,
+        "rollingAverage": 63.3
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 82.2,
+        "rollingAverage": 68.0
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 46.5,
+        "rollingAverage": 63.7
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 66.5,
+        "rollingAverage": 64.2
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 75.8,
+        "rollingAverage": 65.8
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 67.8,
+        "rollingAverage": 63.6
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 49.0,
+        "rollingAverage": 62.7
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 86.9,
+        "rollingAverage": 67.8
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 57.4,
+        "rollingAverage": 64.3
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 53.2,
+        "rollingAverage": 65.2
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 53.8,
+        "rollingAverage": 63.4
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 86.1,
+        "rollingAverage": 64.9
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 64.9,
+        "rollingAverage": 64.5
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 87.1,
+        "rollingAverage": 69.9
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 64.3,
+        "rollingAverage": 66.7
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 70.5,
+        "rollingAverage": 68.6
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 89.3,
+        "rollingAverage": 73.7
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 65.8,
+        "rollingAverage": 75.4
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 81.5,
+        "rollingAverage": 74.8
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 74.4,
+        "rollingAverage": 76.1
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 64.1,
+        "rollingAverage": 72.8
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 77.9,
+        "rollingAverage": 74.8
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 86.4,
+        "rollingAverage": 77.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.84,
+        "confidence": 0.154
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.37,
+        "confidence": 0.135
+      },
+      {
+        "emotion": "Trust",
+        "value": 17.39,
+        "confidence": 0.695
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.4,
+        "confidence": 0.016
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_3a7878",
+        "issue": "Traffic & Road Safety",
+        "location": "Kashipur",
+        "severity": 7.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_32c90c",
+        "issue": "Environmental Degradation",
+        "location": "Kashipur",
+        "severity": 6.1,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fc0fef",
+        "issue": "Healthcare Access & Services",
+        "location": "Kashipur",
+        "severity": 9.8,
+        "volume": 25,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_52bbe3",
+        "issue": "Crime & Law and Order",
+        "location": "Kashipur",
+        "severity": 10.0,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_fc0fef",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_52bbe3",
+        "issue": "Crime & Law and Order",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_32c90c",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_3a7878",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Health Department + Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.08
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 27,
+      "pressure": 27,
+      "capacity": 73,
+      "status": "nominal"
+    },
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 14,
+      "pressure": 14,
+      "capacity": 86,
+      "status": "nominal"
+    },
+    {
+      "id": "d_309201",
+      "department": "Environment Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_309201",
+        "department": "Environment Department",
+        "trustScore": 97.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 97.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 41.3,
+        "trend": "Stable",
+        "change": 0
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 4.5,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 8.1,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.25,
+      "medium_credibility_ratio": 0.25,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [
+        "Healthcare Access & Services"
+      ],
+      "noise_issues": [
+        "Environmental Degradation",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

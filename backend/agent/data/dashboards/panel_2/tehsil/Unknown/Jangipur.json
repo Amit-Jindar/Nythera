@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Jangipur",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_fcf3b5",
+        "issue": "Crime & Law and Order",
+        "location": "Jangipur",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_fcf3b5",
+        "issue": "Crime & Law and Order",
+        "activeDays": 47,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  }
+}

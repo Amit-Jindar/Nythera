@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Itahar",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 83.2,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-07 09:32 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2026-01-07",
+        "sentiment": 83.2,
+        "rollingAverage": 83.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 14.49,
+        "confidence": 0.58
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.33,
+        "confidence": 0.053
+      },
+      {
+        "emotion": "Trust",
+        "value": 8.96,
+        "confidence": 0.358
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.22,
+        "confidence": 0.009
+      }
+    ]
+  }
+}

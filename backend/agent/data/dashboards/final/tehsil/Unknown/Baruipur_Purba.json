@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Baruipur_Purba",
+    "total_signals": 0,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 0.0,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "HIGH",
+      "last_updated": ""
+    },
+    "SENTIMENT_TREND": [],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.0,
+        "confidence": 0.0
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.0,
+        "confidence": 0.0
+      },
+      {
+        "emotion": "Trust",
+        "value": 0.0,
+        "confidence": 0.0
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [],
+    "PERSISTENT_ISSUES": []
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "General",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [],
+    "PUBLIC_TRUST": {
+      "score": 0.0,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [],
+      "noise_issues": [],
+      "contested_issues": []
+    }
+  }
+}

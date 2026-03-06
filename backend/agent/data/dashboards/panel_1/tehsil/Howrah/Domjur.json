@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Domjur",
+    "district": "Howrah",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:05:24+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 37.65,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-28 03:19 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-09",
+        "sentiment": 37.0,
+        "rollingAverage": 37.0
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 35.3,
+        "rollingAverage": 36.1
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 37.9,
+        "rollingAverage": 36.7
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 40.4,
+        "rollingAverage": 37.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.39,
+        "confidence": 0.016
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.41,
+        "confidence": 0.017
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.16,
+        "confidence": 0.966
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

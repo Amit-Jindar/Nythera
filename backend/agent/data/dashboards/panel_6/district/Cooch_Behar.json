@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Cooch_Behar",
+    "total_signals": 255,
+    "generated_at": "2026-01-19T18:45:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.75,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.25,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Public Transport Issues",
+        "Road & Infrastructure Issues"
+      ],
+      "contested_issues": []
+    }
+  }
+}

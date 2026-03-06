@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North 24 Parganas",
+    "name": "Amdanga",
+    "total_signals": 115,
+    "enriched_signals": 7,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.436433+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 42.69,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-30 02:07 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-21",
+        "sentiment": 37.0,
+        "rollingAverage": 37.0
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 52.3,
+        "rollingAverage": 44.6
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 55.2,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 37.4,
+        "rollingAverage": 45.5
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 34.5,
+        "rollingAverage": 43.3
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 38.3,
+        "rollingAverage": 42.5
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 44.1,
+        "rollingAverage": 42.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.2,
+        "confidence": 0.008
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.54,
+        "confidence": 0.021
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.11,
+        "confidence": 0.964
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.16,
+        "confidence": 0.006
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_25236b",
+        "issue": "Sanitation & Waste Management",
+        "location": "Amdanga",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_577e69",
+        "issue": "Crime & Law and Order",
+        "location": "Amdanga",
+        "severity": 9.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_577e69",
+        "issue": "Crime & Law and Order",
+        "activeDays": 36,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_25236b",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 27,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 92.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 89.1,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 90.1,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.5,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Crime & Law and Order"
+      ],
+      "contested_issues": []
+    }
+  }
+}

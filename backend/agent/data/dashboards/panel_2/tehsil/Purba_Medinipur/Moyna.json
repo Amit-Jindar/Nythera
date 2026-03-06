@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba_Medinipur",
+    "name": "Moyna",
+    "total_signals": 29,
+    "generated_at": "2026-01-19T19:07:13+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4ae574",
+        "issue": "Crime & Law and Order",
+        "location": "Moyna",
+        "severity": 9.9,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ee663e",
+        "issue": "Sanitation & Waste Management",
+        "location": "Moyna",
+        "severity": 7.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a4b5af",
+        "issue": "Corruption & Bribery",
+        "location": "Moyna",
+        "severity": 10.0,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a83f1c",
+        "issue": "Women Safety & Crimes",
+        "location": "Moyna",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_35905a",
+        "issue": "Education System Issues",
+        "location": "Moyna",
+        "severity": 5.8,
+        "volume": 4,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_4ae574",
+        "issue": "Crime & Law and Order",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_a4b5af",
+        "issue": "Corruption & Bribery",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_a83f1c",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_35905a",
+        "issue": "Education System Issues",
+        "activeDays": 64,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_ee663e",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 12,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim_Medinipur",
+    "name": "Salboni",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4a4611",
+        "issue": "Sanitation & Waste Management",
+        "location": "Salboni",
+        "severity": 7.7,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_936bb0",
+        "issue": "Corruption & Bribery",
+        "location": "Salboni",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9b2c6e",
+        "issue": "Crime & Law and Order",
+        "location": "Salboni",
+        "severity": 9.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_4a4611",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_936bb0",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_9b2c6e",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      }
+    ]
+  }
+}

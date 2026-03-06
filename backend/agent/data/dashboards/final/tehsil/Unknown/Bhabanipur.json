@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Bhabanipur",
+    "total_signals": 4,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 66.58,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-02 09:33 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-16",
+        "sentiment": 40.8,
+        "rollingAverage": 40.8
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 81.1,
+        "rollingAverage": 60.9
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 78.4,
+        "rollingAverage": 66.8
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 66.0,
+        "rollingAverage": 66.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.54,
+        "confidence": 0.101
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.42,
+        "confidence": 0.297
+      },
+      {
+        "emotion": "Trust",
+        "value": 14.59,
+        "confidence": 0.584
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.46,
+        "confidence": 0.018
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_1bbe31",
+        "issue": "Crime & Law and Order",
+        "location": "Bhabanipur",
+        "severity": 9.9,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_1bbe31",
+        "issue": "Crime & Law and Order",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 80.9,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 80.9,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 1.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [],
+      "noise_issues": [],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

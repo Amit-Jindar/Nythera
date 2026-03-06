@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Unknown",
+    "total_signals": 1337,
+    "generated_at": "2026-01-19T18:35:09.491420+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_174f66",
+        "issue": "Crime & Law and Order",
+        "location": "Chandrakona",
+        "severity": 10.0,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_795642",
+        "issue": "Women Safety & Crimes",
+        "location": "Tarakeswar",
+        "severity": 10.0,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_3a1bbb",
+        "issue": "Women Safety & Crimes",
+        "location": "Hanskhali",
+        "severity": 10.0,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_ace2fe",
+        "issue": "Women Safety & Crimes",
+        "location": "Dum Dum",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_47d1cc",
+        "issue": "Women Safety & Crimes",
+        "location": "Kaliganj",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_f6116f",
+        "issue": "Crime & Law and Order",
+        "location": "Chetla",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_3e55a4",
+        "issue": "Healthcare Access & Services",
+        "location": "Ghatal",
+        "severity": 9.9,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "emerging"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_81b936",
+        "issue": "Crime & Law and Order",
+        "activeDays": 89,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_e3c9a6",
+        "issue": "Crime & Law and Order",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_a9b407",
+        "issue": "Crime & Law and Order",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_3c1ea8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_fc0fef",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_62cc57",
+        "issue": "Crime & Law and Order",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_a71e98",
+        "issue": "Crime & Law and Order",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_dadabd",
+        "issue": "Crime & Law and Order",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_3b5ef8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_1bbe31",
+        "issue": "Crime & Law and Order",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_531748",
+        "issue": "Crime & Law and Order",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_3d6e58",
+        "issue": "Crime & Law and Order",
+        "activeDays": 77,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  }
+}

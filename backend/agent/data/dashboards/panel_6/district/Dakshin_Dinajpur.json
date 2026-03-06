@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Dakshin_Dinajpur",
+    "total_signals": 67,
+    "generated_at": "2026-01-19T18:45:44+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.44,
+      "medium_credibility_ratio": 0.11,
+      "low_credibility_ratio": 0.44,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Environmental Degradation",
+        "Farmer & Agriculture Issues",
+        "Traffic & Road Safety",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Healthcare Access & Services"
+      ]
+    }
+  }
+}

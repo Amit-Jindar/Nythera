@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Behala_Purba",
+    "district": "Kolkata",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 36.8,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-03 15:11 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-03",
+        "sentiment": 36.8,
+        "rollingAverage": 36.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.1,
+        "confidence": 0.004
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.83,
+        "confidence": 0.033
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.05,
+        "confidence": 0.962
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.02,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Joypur",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_14563a",
+        "issue": "Crime & Law and Order",
+        "location": "Joypur",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_14563a",
+        "issue": "Crime & Law and Order",
+        "activeDays": 40,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Sandeshkhali",
+    "total_signals": 774,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_aeeb5a",
+        "issue": "Crime & Law and Order",
+        "location": "Sandeshkhali",
+        "severity": 9.9,
+        "volume": 629,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_bd7591",
+        "issue": "Public Transport Issues",
+        "location": "Sandeshkhali",
+        "severity": 7.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_ede6c3",
+        "issue": "Sanitation & Waste Management",
+        "location": "Sandeshkhali",
+        "severity": 7.8,
+        "volume": 69,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_cdae8a",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Sandeshkhali",
+        "severity": 6.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ea3f53",
+        "issue": "Traffic & Road Safety",
+        "location": "Sandeshkhali",
+        "severity": 7.6,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b03fad",
+        "issue": "Women Safety & Crimes",
+        "location": "Sandeshkhali",
+        "severity": 10.0,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_18ac32",
+        "issue": "Corruption & Bribery",
+        "location": "Sandeshkhali",
+        "severity": 10.0,
+        "volume": 21,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_aeeb5a",
+        "issue": "Crime & Law and Order",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_18ac32",
+        "issue": "Corruption & Bribery",
+        "activeDays": 69,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_41997c",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 63,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_6fc826",
+        "issue": "Education System Issues",
+        "activeDays": 46,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_ede6c3",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 45,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_b03fad",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 24,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_ea3f53",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_bd7591",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_cdae8a",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

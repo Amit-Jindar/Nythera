@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Kharagpur_Rural",
+    "district": "Paschim_Medinipur",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 35.6,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-25 17:15 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-25",
+        "sentiment": 35.6,
+        "rollingAverage": 35.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.1,
+        "confidence": 0.004
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.5,
+        "confidence": 0.02
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.36,
+        "confidence": 0.974
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

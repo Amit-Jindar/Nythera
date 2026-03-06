@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Kashipur-Belgachhia",
+    "total_signals": 182,
+    "enriched_signals": 24,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:27:16.696877+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 42.29,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-01 06:51 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-09",
+        "sentiment": 38.5,
+        "rollingAverage": 38.5
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 41.1,
+        "rollingAverage": 39.8
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 39.8,
+        "rollingAverage": 39.8
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 49.4,
+        "rollingAverage": 42.2
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 51.0,
+        "rollingAverage": 44.0
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 35.8,
+        "rollingAverage": 42.6
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 40.4,
+        "rollingAverage": 42.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.41,
+        "confidence": 0.016
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.8,
+        "confidence": 0.032
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.76,
+        "confidence": 0.95
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_44d858",
+        "issue": "Corruption & Bribery",
+        "location": "Kashipur-Belgachhia",
+        "severity": 10.0,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_2107ef",
+        "issue": "Sanitation & Waste Management",
+        "location": "Kashipur-Belgachhia",
+        "severity": 7.8,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_04a224",
+        "issue": "Education System Issues",
+        "location": "Kashipur-Belgachhia",
+        "severity": 5.8,
+        "volume": 7,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_d0093b",
+        "issue": "Healthcare Access & Services",
+        "location": "Kashipur-Belgachhia",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3be826",
+        "issue": "Traffic & Road Safety",
+        "location": "Kashipur-Belgachhia",
+        "severity": 7.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ec5e93",
+        "issue": "Crime & Law and Order",
+        "location": "Kashipur-Belgachhia",
+        "severity": 9.8,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_ec5e93",
+        "issue": "Crime & Law and Order",
+        "activeDays": 62,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_04a224",
+        "issue": "Education System Issues",
+        "activeDays": 2,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_44d858",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_2107ef",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_3be826",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_d0093b",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police + Anti Corruption Bureau (ACB) + Education Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 10,
+      "pressure": 10,
+      "capacity": 90,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 97.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 97.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 93.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 89.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 89.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 71.2,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 83.6,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.33,
+      "medium_credibility_ratio": 0.33,
+      "low_credibility_ratio": 0.33,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Education System Issues"
+      ],
+      "noise_issues": [
+        "Healthcare Access & Services",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order",
+        "Sanitation & Waste Management"
+      ]
+    }
+  }
+}

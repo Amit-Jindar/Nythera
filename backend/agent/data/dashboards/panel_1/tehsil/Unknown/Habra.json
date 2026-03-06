@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Habra",
+    "district": "Unknown",
+    "total_signals": 21,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 80.98,
+      "zone": "Stable",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-08 13:20 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-14",
+        "sentiment": 74.5,
+        "rollingAverage": 74.5
+      },
+      {
+        "date": "2025-10-15",
+        "sentiment": 72.8,
+        "rollingAverage": 73.7
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 81.7,
+        "rollingAverage": 76.3
+      },
+      {
+        "date": "2025-10-19",
+        "sentiment": 85.2,
+        "rollingAverage": 78.5
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 75.8,
+        "rollingAverage": 78.0
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 91.9,
+        "rollingAverage": 80.3
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 76.0,
+        "rollingAverage": 79.7
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 67.9,
+        "rollingAverage": 78.8
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 87.1,
+        "rollingAverage": 80.8
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 91.8,
+        "rollingAverage": 82.2
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 86.1,
+        "rollingAverage": 82.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.65,
+        "confidence": 0.066
+      },
+      {
+        "emotion": "Fear",
+        "value": 9.99,
+        "confidence": 0.399
+      },
+      {
+        "emotion": "Trust",
+        "value": 11.97,
+        "confidence": 0.479
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 1.39,
+        "confidence": 0.056
+      }
+    ]
+  }
+}

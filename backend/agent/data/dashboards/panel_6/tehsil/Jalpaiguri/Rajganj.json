@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Jalpaiguri",
+    "name": "Rajganj",
+    "total_signals": 1316,
+    "generated_at": "2026-01-19T19:16:47+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.75,
+      "medium_credibility_ratio": 0.12,
+      "low_credibility_ratio": 0.12,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Environmental Degradation"
+      ],
+      "contested_issues": [
+        "Farmer & Agriculture Issues"
+      ]
+    }
+  }
+}

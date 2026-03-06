@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Bankura",
+    "name": "Bishnupur",
+    "total_signals": 45,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_73f40f",
+        "issue": "Corruption & Bribery",
+        "location": "Bishnupur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c404bf",
+        "issue": "Education System Issues",
+        "location": "Bishnupur",
+        "severity": 5.9,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ffae16",
+        "issue": "Crime & Law and Order",
+        "location": "Bishnupur",
+        "severity": 9.9,
+        "volume": 32,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c55a3b",
+        "issue": "Healthcare Access & Services",
+        "location": "Bishnupur",
+        "severity": 9.5,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b5c82e",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bishnupur",
+        "severity": 7.7,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_ffae16",
+        "issue": "Crime & Law and Order",
+        "activeDays": 181,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b5c82e",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 64,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_c55a3b",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 33,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_c404bf",
+        "issue": "Education System Issues",
+        "activeDays": 10,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_73f40f",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

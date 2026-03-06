@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Cooch_Behar",
+    "name": "Tufanganj",
+    "total_signals": 76,
+    "generated_at": "2026-01-19T19:16:44+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.67,
+      "medium_credibility_ratio": 0.17,
+      "low_credibility_ratio": 0.17,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": [
+        "Women Safety & Crimes"
+      ]
+    }
+  }
+}

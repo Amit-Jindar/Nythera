@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Beldanga",
+    "total_signals": 126,
+    "generated_at": "2026-01-19T19:11:25+00:00Z"
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 50,
+      "pressure": 50,
+      "capacity": 50,
+      "status": "medium"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 41,
+      "pressure": 41,
+      "capacity": 59,
+      "status": "medium"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 13,
+      "pressure": 13,
+      "capacity": 87,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 10,
+      "pressure": 10,
+      "capacity": 90,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_8623ca",
+      "department": "Transport Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ]
+}

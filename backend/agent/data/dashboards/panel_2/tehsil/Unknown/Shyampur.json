@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Shyampur",
+    "total_signals": 10,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_49f5c8",
+        "issue": "Traffic & Road Safety",
+        "location": "Shyampur",
+        "severity": 8.1,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_3c1ea8",
+        "issue": "Crime & Law and Order",
+        "location": "Shyampur",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "stagnant"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3c1ea8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_49f5c8",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

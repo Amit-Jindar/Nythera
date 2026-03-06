@@ -1,0 +1,1082 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Paschim Medinipur",
+    "total_signals": 106220,
+    "enriched_signals": 15938,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:51:04.302639+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 50.15,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-10 12:58 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-01-17",
+        "sentiment": 67.9,
+        "rollingAverage": 67.9
+      },
+      {
+        "date": "2025-01-18",
+        "sentiment": 62.3,
+        "rollingAverage": 65.1
+      },
+      {
+        "date": "2025-01-19",
+        "sentiment": 68.0,
+        "rollingAverage": 66.1
+      },
+      {
+        "date": "2025-02-18",
+        "sentiment": 34.9,
+        "rollingAverage": 58.3
+      },
+      {
+        "date": "2025-04-04",
+        "sentiment": 67.8,
+        "rollingAverage": 60.2
+      },
+      {
+        "date": "2025-04-05",
+        "sentiment": 44.7,
+        "rollingAverage": 57.6
+      },
+      {
+        "date": "2025-04-06",
+        "sentiment": 38.4,
+        "rollingAverage": 54.9
+      },
+      {
+        "date": "2025-04-07",
+        "sentiment": 81.7,
+        "rollingAverage": 56.8
+      },
+      {
+        "date": "2025-04-09",
+        "sentiment": 36.9,
+        "rollingAverage": 53.2
+      },
+      {
+        "date": "2025-04-17",
+        "sentiment": 45.7,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2025-04-18",
+        "sentiment": 43.1,
+        "rollingAverage": 51.2
+      },
+      {
+        "date": "2025-05-31",
+        "sentiment": 65.5,
+        "rollingAverage": 50.9
+      },
+      {
+        "date": "2025-08-07",
+        "sentiment": 39.6,
+        "rollingAverage": 50.1
+      },
+      {
+        "date": "2025-08-20",
+        "sentiment": 47.8,
+        "rollingAverage": 51.5
+      },
+      {
+        "date": "2025-09-06",
+        "sentiment": 55.6,
+        "rollingAverage": 47.7
+      },
+      {
+        "date": "2025-10-08",
+        "sentiment": 50.6,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2025-10-09",
+        "sentiment": 50.4,
+        "rollingAverage": 50.4
+      },
+      {
+        "date": "2025-10-10",
+        "sentiment": 50.2,
+        "rollingAverage": 51.4
+      },
+      {
+        "date": "2025-10-11",
+        "sentiment": 53.4,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2025-10-12",
+        "sentiment": 50.2,
+        "rollingAverage": 51.2
+      },
+      {
+        "date": "2025-10-13",
+        "sentiment": 48.3,
+        "rollingAverage": 51.2
+      },
+      {
+        "date": "2025-10-14",
+        "sentiment": 48.8,
+        "rollingAverage": 50.3
+      },
+      {
+        "date": "2025-10-15",
+        "sentiment": 48.6,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2025-10-16",
+        "sentiment": 49.5,
+        "rollingAverage": 49.9
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 51.3,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2025-10-18",
+        "sentiment": 52.0,
+        "rollingAverage": 49.8
+      },
+      {
+        "date": "2025-10-19",
+        "sentiment": 52.1,
+        "rollingAverage": 50.1
+      },
+      {
+        "date": "2025-10-20",
+        "sentiment": 49.1,
+        "rollingAverage": 50.2
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 50.2,
+        "rollingAverage": 50.4
+      },
+      {
+        "date": "2025-10-22",
+        "sentiment": 51.2,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 49.8,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 49.8,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 47.9,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 47.8,
+        "rollingAverage": 49.4
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 51.0,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 47.9,
+        "rollingAverage": 49.3
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 48.2,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 49.5,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 49.7,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 49.5,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 49.8,
+        "rollingAverage": 49.4
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 48.7,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 46.4,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 48.9,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 48.7,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 48.1,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 48.4,
+        "rollingAverage": 48.4
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 48.9,
+        "rollingAverage": 48.3
+      },
+      {
+        "date": "2025-11-10",
+        "sentiment": 48.2,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 49.6,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 48.1,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 49.6,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 49.3,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-11-15",
+        "sentiment": 46.5,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 49.1,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 51.9,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 50.6,
+        "rollingAverage": 49.3
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 50.1,
+        "rollingAverage": 49.6
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 50.0,
+        "rollingAverage": 49.6
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 50.3,
+        "rollingAverage": 49.8
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 46.4,
+        "rollingAverage": 49.8
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 48.4,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 51.2,
+        "rollingAverage": 49.6
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 49.5,
+        "rollingAverage": 49.4
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 46.5,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 49.4,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 49.0,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 49.6,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 48.4,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 48.9,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 49.1,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 48.2,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 46.7,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 46.4,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 46.5,
+        "rollingAverage": 47.7
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 47.1,
+        "rollingAverage": 47.6
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 47.9,
+        "rollingAverage": 47.4
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 46.2,
+        "rollingAverage": 47.0
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 50.7,
+        "rollingAverage": 47.4
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 50.8,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 50.7,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 51.1,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 49.8,
+        "rollingAverage": 49.6
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 50.8,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 50.2,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 53.9,
+        "rollingAverage": 51.0
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 49.8,
+        "rollingAverage": 50.9
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 54.0,
+        "rollingAverage": 51.4
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 49.8,
+        "rollingAverage": 51.2
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 47.7,
+        "rollingAverage": 50.9
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 49.8,
+        "rollingAverage": 50.7
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 50.8,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 51.5,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 50.0,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 51.8,
+        "rollingAverage": 50.2
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 51.3,
+        "rollingAverage": 50.4
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 50.3,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 50.8,
+        "rollingAverage": 50.9
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 51.0,
+        "rollingAverage": 51.0
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 50.4,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 49.5,
+        "rollingAverage": 50.7
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 50.8,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 50.3,
+        "rollingAverage": 50.4
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 52.5,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 49.4,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 53.3,
+        "rollingAverage": 50.9
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 47.9,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 48.2,
+        "rollingAverage": 50.3
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 50.8,
+        "rollingAverage": 50.3
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 52.9,
+        "rollingAverage": 50.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.82,
+        "confidence": 0.033
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.01,
+        "confidence": 0.08
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.08,
+        "confidence": 0.883
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.09,
+        "confidence": 0.003
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_1994af",
+        "issue": "Crime & Law and Order",
+        "location": "Pingla",
+        "severity": 9.9,
+        "volume": 12675,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_37f7da",
+        "issue": "Sanitation & Waste Management",
+        "location": "Pingla",
+        "severity": 7.8,
+        "volume": 916,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_93cc2a",
+        "issue": "Corruption & Bribery",
+        "location": "Pingla",
+        "severity": 10.0,
+        "volume": 640,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_4a4611",
+        "issue": "Sanitation & Waste Management",
+        "location": "Salboni",
+        "severity": 7.7,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_1d0f98",
+        "issue": "Education System Issues",
+        "location": "Pingla",
+        "severity": 6.0,
+        "volume": 854,
+        "status": "resolving",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_fb45f2",
+        "issue": "Healthcare Access & Services",
+        "location": "Pingla",
+        "severity": 9.3,
+        "volume": 286,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_91aa82",
+        "issue": "Healthcare Access & Services",
+        "location": "Daspur",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_b5bc49",
+        "issue": "Corruption & Bribery",
+        "activeDays": 341,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_c3a1c9",
+        "issue": "Crime & Law and Order",
+        "activeDays": 277,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_1994af",
+        "issue": "Crime & Law and Order",
+        "activeDays": 267,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b72ac6",
+        "issue": "Education System Issues",
+        "activeDays": 197,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_1d0f98",
+        "issue": "Education System Issues",
+        "activeDays": 143,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_37f7da",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 94,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_93cc2a",
+        "issue": "Corruption & Bribery",
+        "activeDays": 94,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_fb45f2",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_120321",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_edc725",
+        "issue": "Corruption & Bribery",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_c5f7de",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 89,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_ec9ce8",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 16,
+      "zone": "Police + Anti Corruption Bureau (ACB) + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.13
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.12
+      },
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.1
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.1
+      },
+      {
+        "id": "e_34ade4",
+        "issue": "Women Safety & Crimes",
+        "department": "Women Security Cell",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.09
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.09
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.07
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 33,
+      "pressure": 33,
+      "capacity": 67,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 24,
+      "pressure": 24,
+      "capacity": 76,
+      "status": "nominal"
+    },
+    {
+      "id": "d_309201",
+      "department": "Environment Department",
+      "overloadScore": 15,
+      "pressure": 15,
+      "capacity": 85,
+      "status": "nominal"
+    },
+    {
+      "id": "d_8623ca",
+      "department": "Transport Department",
+      "overloadScore": 12,
+      "pressure": 12,
+      "capacity": 88,
+      "status": "nominal"
+    },
+    {
+      "id": "d_0ce2a8",
+      "department": "Public Works Department (PWD)",
+      "overloadScore": 11,
+      "pressure": 11,
+      "capacity": 89,
+      "status": "nominal"
+    },
+    {
+      "id": "d_063650",
+      "department": "General Administration",
+      "overloadScore": 8,
+      "pressure": 8,
+      "capacity": 92,
+      "status": "nominal"
+    },
+    {
+      "id": "d_48bde8",
+      "department": "Public Health Engineering / Water Department",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_7fbc43",
+      "department": "Electricity Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_7fbc43",
+        "department": "Electricity Department",
+        "trustScore": 96.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_48bde8",
+        "department": "Public Health Engineering / Water Department",
+        "trustScore": 89.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_063650",
+        "department": "General Administration",
+        "trustScore": 81.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_0ce2a8",
+        "department": "Public Works Department (PWD)",
+        "trustScore": 68.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_8623ca",
+        "department": "Transport Department",
+        "trustScore": 65.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_309201",
+        "department": "Environment Department",
+        "trustScore": 59.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 21.9,
+        "trend": "Declining",
+        "change": -6
+      },
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 2.6,
+        "trend": "Declining",
+        "change": -6
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 0,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.86,
+      "medium_credibility_ratio": 0.07,
+      "low_credibility_ratio": 0.07,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Environmental Degradation",
+        "Farmer & Agriculture Issues",
+        "Governance & Administrative Failure",
+        "Healthcare Access & Services",
+        "Public Transport Issues",
+        "Road & Infrastructure Issues",
+        "Sanitation & Waste Management",
+        "Traffic & Road Safety",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Electricity & Power Outage"
+      ],
+      "contested_issues": [
+        "Water Supply Disruption"
+      ]
+    }
+  }
+}

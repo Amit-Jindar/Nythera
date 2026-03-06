@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Baranagar",
+    "district": "Unknown",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 83.08,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-12 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-18",
+        "sentiment": 79.3,
+        "rollingAverage": 79.3
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 87.1,
+        "rollingAverage": 83.2
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 92.2,
+        "rollingAverage": 86.2
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 75.2,
+        "rollingAverage": 83.5
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 79.3,
+        "rollingAverage": 82.6
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 85.4,
+        "rollingAverage": 83.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.08,
+        "confidence": 0.043
+      },
+      {
+        "emotion": "Fear",
+        "value": 14.28,
+        "confidence": 0.571
+      },
+      {
+        "emotion": "Trust",
+        "value": 9.19,
+        "confidence": 0.368
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.45,
+        "confidence": 0.018
+      }
+    ]
+  }
+}

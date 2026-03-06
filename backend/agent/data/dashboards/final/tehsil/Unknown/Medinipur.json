@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Medinipur",
+    "total_signals": 20,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 66.87,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-10 12:47 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-05",
+        "sentiment": 71.4,
+        "rollingAverage": 71.4
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 67.3,
+        "rollingAverage": 69.3
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 84.2,
+        "rollingAverage": 74.3
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 38.3,
+        "rollingAverage": 65.3
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 49.1,
+        "rollingAverage": 62.1
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 68.0,
+        "rollingAverage": 63.0
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 67.6,
+        "rollingAverage": 63.7
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 68.6,
+        "rollingAverage": 63.3
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 79.9,
+        "rollingAverage": 65.1
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 69.7,
+        "rollingAverage": 63.0
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 71.5,
+        "rollingAverage": 67.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.3,
+        "confidence": 0.132
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.87,
+        "confidence": 0.195
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.44,
+        "confidence": 0.657
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.39,
+        "confidence": 0.016
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_2fa4e2",
+        "issue": "Women Safety & Crimes",
+        "location": "Medinipur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_edc725",
+        "issue": "Corruption & Bribery",
+        "location": "Medinipur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ac9163",
+        "issue": "Education System Issues",
+        "location": "Medinipur",
+        "severity": 6.1,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5d04b2",
+        "issue": "Crime & Law and Order",
+        "location": "Medinipur",
+        "severity": 10.0,
+        "volume": 17,
+        "status": "active",
+        "lifecycle": "stagnant"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_5d04b2",
+        "issue": "Crime & Law and Order",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_2fa4e2",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_ac9163",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_edc725",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.08
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 22,
+      "pressure": 22,
+      "capacity": 78,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 96.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 95.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 94.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 18.3,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 22.0,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.25,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.75,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Education System Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": []
+    }
+  }
+}

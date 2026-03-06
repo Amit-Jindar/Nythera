@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim Bardhaman",
+    "name": "Asansol Dakshin",
+    "total_signals": 31,
+    "enriched_signals": 8,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.265127+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 40.0,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-30 04:24 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-29",
+        "sentiment": 43.1,
+        "rollingAverage": 43.1
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 36.9,
+        "rollingAverage": 40.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.44,
+        "confidence": 0.018
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.31,
+        "confidence": 0.092
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.2,
+        "confidence": 0.888
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_6a8f27",
+        "issue": "Education System Issues",
+        "location": "Asansol Dakshin",
+        "severity": 5.9,
+        "volume": 5,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_2ffeb2",
+        "issue": "Crime & Law and Order",
+        "location": "Asansol Dakshin",
+        "severity": 9.7,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_2ffeb2",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_6a8f27",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police + Education Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 90.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 90.8,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 90.8,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.5,
+      "medium_credibility_ratio": 0.5,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Education System Issues"
+      ],
+      "noise_issues": [],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

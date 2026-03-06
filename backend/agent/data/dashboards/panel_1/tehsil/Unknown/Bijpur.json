@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Bijpur",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.1,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-12 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-12",
+        "sentiment": 49.1,
+        "rollingAverage": 49.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.43,
+        "confidence": 0.017
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.1,
+        "confidence": 0.044
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.43,
+        "confidence": 0.937
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

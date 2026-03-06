@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Namkhana",
+    "total_signals": 51,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_276999",
+        "issue": "Crime & Law and Order",
+        "location": "Namkhana",
+        "severity": 9.9,
+        "volume": 45,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_170696",
+        "issue": "Corruption & Bribery",
+        "location": "Namkhana",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d588ac",
+        "issue": "Traffic & Road Safety",
+        "location": "Namkhana",
+        "severity": 7.6,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9272c6",
+        "issue": "Education System Issues",
+        "location": "Namkhana",
+        "severity": 5.9,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a9fe49",
+        "issue": "Sanitation & Waste Management",
+        "location": "Namkhana",
+        "severity": 7.8,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_a9fe49",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 45,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_276999",
+        "issue": "Crime & Law and Order",
+        "activeDays": 20,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_170696",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_d588ac",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_9272c6",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

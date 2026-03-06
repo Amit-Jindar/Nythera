@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Malda",
+    "name": "Ratua",
+    "total_signals": 2581,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_fd6b3b",
+        "issue": "Crime & Law and Order",
+        "location": "Ratua",
+        "severity": 9.9,
+        "volume": 1937,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f3cd8f",
+        "issue": "Corruption & Bribery",
+        "location": "Ratua",
+        "severity": 10.0,
+        "volume": 165,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_ce45f0",
+        "issue": "Sanitation & Waste Management",
+        "location": "Ratua",
+        "severity": 7.8,
+        "volume": 108,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_2f8b74",
+        "issue": "Healthcare Access & Services",
+        "location": "Ratua",
+        "severity": 9.4,
+        "volume": 55,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_60dd5c",
+        "issue": "Women Safety & Crimes",
+        "location": "Ratua",
+        "severity": 10.0,
+        "volume": 41,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6fe2f8",
+        "issue": "Education System Issues",
+        "location": "Ratua",
+        "severity": 5.9,
+        "volume": 216,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_22f9ad",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Ratua",
+        "severity": 6.9,
+        "volume": 26,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_6fe2f8",
+        "issue": "Education System Issues",
+        "activeDays": 316,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_fd6b3b",
+        "issue": "Crime & Law and Order",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f3cd8f",
+        "issue": "Corruption & Bribery",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_ce45f0",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_2f8b74",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_22f9ad",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_60dd5c",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_822277",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 69,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_f79c65",
+        "issue": "Environmental Degradation",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_26e662",
+        "issue": "Public Transport Issues",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_a58976",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 45,
+        "persistenceStatus": "chronic",
+        "department": "General Administration"
+      }
+    ]
+  }
+}

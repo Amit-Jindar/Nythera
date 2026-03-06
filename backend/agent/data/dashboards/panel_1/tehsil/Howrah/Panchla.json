@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Panchla",
+    "district": "Howrah",
+    "total_signals": 8,
+    "generated_at": "2026-01-19T19:05:25+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 59.1,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-09 06:16 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-25",
+        "sentiment": 44.5,
+        "rollingAverage": 44.5
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 61.2,
+        "rollingAverage": 52.9
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 40.7,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 70.2,
+        "rollingAverage": 54.2
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 61.0,
+        "rollingAverage": 55.5
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 82.3,
+        "rollingAverage": 60.0
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 54.8,
+        "rollingAverage": 59.2
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 58.1,
+        "rollingAverage": 61.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.62,
+        "confidence": 0.025
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.5,
+        "confidence": 0.1
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.84,
+        "confidence": 0.874
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

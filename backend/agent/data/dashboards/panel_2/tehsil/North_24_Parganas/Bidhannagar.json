@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Bidhannagar",
+    "total_signals": 179,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_abdf0c",
+        "issue": "Crime & Law and Order",
+        "location": "Bidhannagar",
+        "severity": 9.9,
+        "volume": 129,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d582ac",
+        "issue": "Women Safety & Crimes",
+        "location": "Bidhannagar",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_576d08",
+        "issue": "Corruption & Bribery",
+        "location": "Bidhannagar",
+        "severity": 10.0,
+        "volume": 18,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_27f825",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bidhannagar",
+        "severity": 7.8,
+        "volume": 21,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_10977a",
+        "issue": "Healthcare Access & Services",
+        "location": "Bidhannagar",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_7c7148",
+        "issue": "Education System Issues",
+        "location": "Bidhannagar",
+        "severity": 5.9,
+        "volume": 8,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_abdf0c",
+        "issue": "Crime & Law and Order",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_27f825",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_7c7148",
+        "issue": "Education System Issues",
+        "activeDays": 64,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_576d08",
+        "issue": "Corruption & Bribery",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_10977a",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 16,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_d582ac",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

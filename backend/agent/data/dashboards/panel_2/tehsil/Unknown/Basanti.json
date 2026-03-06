@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Basanti",
+    "total_signals": 9,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_659c3c",
+        "issue": "Healthcare Access & Services",
+        "location": "Basanti",
+        "severity": 9.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_beb036",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Basanti",
+        "severity": 7.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2b7626",
+        "issue": "Crime & Law and Order",
+        "location": "Basanti",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_aa9038",
+        "issue": "Traffic & Road Safety",
+        "location": "Basanti",
+        "severity": 7.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_2b7626",
+        "issue": "Crime & Law and Order",
+        "activeDays": 33,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_aa9038",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 21,
+        "persistenceStatus": "stuck",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_659c3c",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_beb036",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

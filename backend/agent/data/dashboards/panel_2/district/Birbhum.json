@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Birbhum",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T18:35:10.740532+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_b2ffde",
+        "issue": "Corruption & Bribery",
+        "location": "Unknown",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_81e9d5",
+        "issue": "Traffic & Road Safety",
+        "location": "Unknown",
+        "severity": 8.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_aad5ac",
+        "issue": "Crime & Law and Order",
+        "location": "Unknown",
+        "severity": 9.8,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_aad5ac",
+        "issue": "Crime & Law and Order",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_b2ffde",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_81e9d5",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

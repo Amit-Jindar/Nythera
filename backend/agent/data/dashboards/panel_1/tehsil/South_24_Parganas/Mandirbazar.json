@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Mandirbazar",
+    "district": "South_24_Parganas",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.8,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-22 02:49 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-05",
+        "sentiment": 57.9,
+        "rollingAverage": 57.9
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 41.7,
+        "rollingAverage": 49.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.26,
+        "confidence": 0.051
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.7,
+        "confidence": 0.148
+      },
+      {
+        "emotion": "Trust",
+        "value": 19.99,
+        "confidence": 0.8
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

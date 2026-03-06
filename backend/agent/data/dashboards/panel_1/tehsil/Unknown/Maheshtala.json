@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Maheshtala",
+    "district": "Unknown",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 79.23,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-02 02:35 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-22",
+        "sentiment": 74.0,
+        "rollingAverage": 74.0
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 80.9,
+        "rollingAverage": 77.5
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 82.8,
+        "rollingAverage": 79.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 4.56,
+        "confidence": 0.182
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.77,
+        "confidence": 0.191
+      },
+      {
+        "emotion": "Trust",
+        "value": 14.76,
+        "confidence": 0.59
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.91,
+        "confidence": 0.037
+      }
+    ]
+  }
+}

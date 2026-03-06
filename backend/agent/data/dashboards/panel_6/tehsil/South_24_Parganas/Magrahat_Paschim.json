@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Magrahat_Paschim",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:16:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 1.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [],
+      "noise_issues": [],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

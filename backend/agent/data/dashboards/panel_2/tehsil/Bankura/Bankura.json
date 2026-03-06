@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Bankura",
+    "name": "Bankura",
+    "total_signals": 60,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_9580c2",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Bankura",
+        "severity": 6.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_49f259",
+        "issue": "Traffic & Road Safety",
+        "location": "Bankura",
+        "severity": 7.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_49b106",
+        "issue": "Crime & Law and Order",
+        "location": "Bankura",
+        "severity": 9.9,
+        "volume": 33,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_82efdf",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bankura",
+        "severity": 7.8,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fa2d75",
+        "issue": "Corruption & Bribery",
+        "location": "Bankura",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f9c808",
+        "issue": "Environmental Degradation",
+        "location": "Bankura",
+        "severity": 6.2,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5e6c3d",
+        "issue": "Education System Issues",
+        "location": "Bankura",
+        "severity": 6.0,
+        "volume": 10,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_5e6c3d",
+        "issue": "Education System Issues",
+        "activeDays": 285,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_49b106",
+        "issue": "Crime & Law and Order",
+        "activeDays": 160,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_82efdf",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_f9c808",
+        "issue": "Environmental Degradation",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_fa2d75",
+        "issue": "Corruption & Bribery",
+        "activeDays": 54,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_49f259",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_9580c2",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

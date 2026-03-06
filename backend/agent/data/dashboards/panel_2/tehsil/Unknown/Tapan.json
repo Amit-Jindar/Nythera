@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Tapan",
+    "total_signals": 11,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4365df",
+        "issue": "Healthcare Access & Services",
+        "location": "Tapan",
+        "severity": 9.7,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3b5ef8",
+        "issue": "Crime & Law and Order",
+        "location": "Tapan",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_22f4ff",
+        "issue": "Education System Issues",
+        "location": "Tapan",
+        "severity": 6.3,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3b5ef8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_4365df",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_22f4ff",
+        "issue": "Education System Issues",
+        "activeDays": 21,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

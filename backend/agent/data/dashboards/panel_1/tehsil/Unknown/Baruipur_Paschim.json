@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Baruipur_Paschim",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 56.2,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-28 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-28",
+        "sentiment": 56.2,
+        "rollingAverage": 56.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.47,
+        "confidence": 0.019
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.5,
+        "confidence": 0.02
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.88,
+        "confidence": 0.955
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.16,
+        "confidence": 0.006
+      }
+    ]
+  }
+}

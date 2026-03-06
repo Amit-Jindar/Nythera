@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Alipurduar",
+    "total_signals": 179,
+    "generated_at": "2026-01-19T18:35:10.214985+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_55144a",
+        "issue": "Sanitation & Waste Management",
+        "location": "Madarihat",
+        "severity": 7.9,
+        "volume": 12,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_c95e21",
+        "issue": "Education System Issues",
+        "location": "Madarihat",
+        "severity": 6.0,
+        "volume": 10,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_4508d1",
+        "issue": "Corruption & Bribery",
+        "location": "Madarihat",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ef78b5",
+        "issue": "Crime & Law and Order",
+        "location": "Alipurduars",
+        "severity": 9.9,
+        "volume": 72,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5da77f",
+        "issue": "Crime & Law and Order",
+        "location": "Madarihat",
+        "severity": 9.9,
+        "volume": 53,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a6f63b",
+        "issue": "Education System Issues",
+        "location": "Falakata",
+        "severity": 6.0,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c6d19b",
+        "issue": "Crime & Law and Order",
+        "location": "Falakata",
+        "severity": 9.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_ef78b5",
+        "issue": "Crime & Law and Order",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_d534aa",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_eecd4a",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_5da77f",
+        "issue": "Crime & Law and Order",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_e98142",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 39,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_48e0cd",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 29,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_62660f",
+        "issue": "Education System Issues",
+        "activeDays": 27,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_182ac7",
+        "issue": "Corruption & Bribery",
+        "activeDays": 21,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_c6d19b",
+        "issue": "Crime & Law and Order",
+        "activeDays": 9,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_c95e21",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_55144a",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_4508d1",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

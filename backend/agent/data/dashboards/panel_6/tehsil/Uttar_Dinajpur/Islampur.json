@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Uttar_Dinajpur",
+    "name": "Islampur",
+    "total_signals": 56,
+    "generated_at": "2026-01-19T19:16:46+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.29,
+      "medium_credibility_ratio": 0.29,
+      "low_credibility_ratio": 0.43,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Healthcare Access & Services"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Environmental Degradation",
+        "Road & Infrastructure Issues"
+      ],
+      "contested_issues": [
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ]
+    }
+  }
+}

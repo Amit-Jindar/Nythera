@@ -1,0 +1,490 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North 24 Parganas",
+    "name": "Hingalganj",
+    "total_signals": 1684,
+    "enriched_signals": 122,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.816851+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.81,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-24 10:25 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-23",
+        "sentiment": 47.6,
+        "rollingAverage": 47.6
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 43.0,
+        "rollingAverage": 45.3
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 54.0,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 54.2,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 43.4,
+        "rollingAverage": 48.4
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 44.8,
+        "rollingAverage": 47.8
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 50.5,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 52.3,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 48.4,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 44.0,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 54.0,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 47.4,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 38.4,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 35.1,
+        "rollingAverage": 45.7
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 54.3,
+        "rollingAverage": 45.9
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 35.3,
+        "rollingAverage": 44.1
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 54.6,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 85.6,
+        "rollingAverage": 50.1
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 38.5,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 36.4,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 53.2,
+        "rollingAverage": 51.1
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 47.2,
+        "rollingAverage": 50.1
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 43.6,
+        "rollingAverage": 51.3
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 89.7,
+        "rollingAverage": 56.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.67,
+        "confidence": 0.027
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.82,
+        "confidence": 0.073
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.47,
+        "confidence": 0.899
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_c7444b",
+        "issue": "Crime & Law and Order",
+        "location": "Hingalganj",
+        "severity": 9.9,
+        "volume": 64,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_52372e",
+        "issue": "Sanitation & Waste Management",
+        "location": "Hingalganj",
+        "severity": 7.8,
+        "volume": 27,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_0583c4",
+        "issue": "Traffic & Road Safety",
+        "location": "Hingalganj",
+        "severity": 7.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6dac71",
+        "issue": "Education System Issues",
+        "location": "Hingalganj",
+        "severity": 5.9,
+        "volume": 20,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b18474",
+        "issue": "Women Safety & Crimes",
+        "location": "Hingalganj",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9aaf1a",
+        "issue": "Corruption & Bribery",
+        "location": "Hingalganj",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_391cb2",
+        "issue": "Healthcare Access & Services",
+        "location": "Hingalganj",
+        "severity": 9.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_c7444b",
+        "issue": "Crime & Law and Order",
+        "activeDays": 61,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_6dac71",
+        "issue": "Education System Issues",
+        "activeDays": 57,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_9aaf1a",
+        "issue": "Corruption & Bribery",
+        "activeDays": 53,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_391cb2",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 32,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_52372e",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 24,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_b18474",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 22,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_0583c4",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Anti Corruption Bureau (ACB) + Education Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_34ade4",
+        "issue": "Women Safety & Crimes",
+        "department": "Women Security Cell",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 61,
+      "pressure": 61,
+      "capacity": 39,
+      "status": "high"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 22,
+      "pressure": 22,
+      "capacity": 78,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 13,
+      "pressure": 13,
+      "capacity": 87,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 97.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 94.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 88.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 80.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 62.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 40.4,
+        "trend": "Stable",
+        "change": 0
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 14.5,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.57,
+      "medium_credibility_ratio": 0.14,
+      "low_credibility_ratio": 0.29,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Healthcare Access & Services",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": [
+        "Women Safety & Crimes"
+      ]
+    }
+  }
+}

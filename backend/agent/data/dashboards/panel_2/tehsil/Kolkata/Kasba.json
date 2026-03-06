@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Kasba",
+    "total_signals": 140,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_301627",
+        "issue": "Crime & Law and Order",
+        "location": "Kasba",
+        "severity": 9.9,
+        "volume": 90,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_44f606",
+        "issue": "Corruption & Bribery",
+        "location": "Kasba",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_08d8f3",
+        "issue": "Sanitation & Waste Management",
+        "location": "Kasba",
+        "severity": 7.8,
+        "volume": 30,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6a8690",
+        "issue": "Women Safety & Crimes",
+        "location": "Kasba",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_905857",
+        "issue": "Healthcare Access & Services",
+        "location": "Kasba",
+        "severity": 9.5,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2f5276",
+        "issue": "Education System Issues",
+        "location": "Kasba",
+        "severity": 6.0,
+        "volume": 10,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_301627",
+        "issue": "Crime & Law and Order",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_08d8f3",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_2f5276",
+        "issue": "Education System Issues",
+        "activeDays": 76,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_905857",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 57,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_6a8690",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_44f606",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

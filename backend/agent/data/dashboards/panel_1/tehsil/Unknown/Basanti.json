@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Basanti",
+    "district": "Unknown",
+    "total_signals": 9,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 64.5,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-31 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-15",
+        "sentiment": 61.0,
+        "rollingAverage": 61.0
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 35.5,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 64.7,
+        "rollingAverage": 53.7
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 72.5,
+        "rollingAverage": 58.4
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 71.6,
+        "rollingAverage": 61.1
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 63.7,
+        "rollingAverage": 61.5
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 64.3,
+        "rollingAverage": 61.9
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 82.7,
+        "rollingAverage": 65.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.95,
+        "confidence": 0.118
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.72,
+        "confidence": 0.349
+      },
+      {
+        "emotion": "Trust",
+        "value": 12.78,
+        "confidence": 0.511
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.55,
+        "confidence": 0.022
+      }
+    ]
+  }
+}

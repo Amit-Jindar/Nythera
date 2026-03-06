@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Uttar_Dinajpur",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 77.9,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-26 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-26",
+        "sentiment": 77.9,
+        "rollingAverage": 77.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 4.29,
+        "confidence": 0.172
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.0,
+        "confidence": 0.32
+      },
+      {
+        "emotion": "Trust",
+        "value": 12.0,
+        "confidence": 0.48
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.71,
+        "confidence": 0.028
+      }
+    ]
+  }
+}

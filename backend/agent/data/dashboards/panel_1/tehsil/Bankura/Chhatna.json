@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Chhatna",
+    "district": "Bankura",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 54.85,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-10-31 04:12 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-25",
+        "sentiment": 58.2,
+        "rollingAverage": 58.2
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 51.5,
+        "rollingAverage": 54.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.7,
+        "confidence": 0.028
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.21,
+        "confidence": 0.088
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.04,
+        "confidence": 0.882
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

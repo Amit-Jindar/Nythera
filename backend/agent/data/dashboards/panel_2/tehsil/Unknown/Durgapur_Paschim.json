@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Durgapur_Paschim",
+    "total_signals": 83,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_16ddc6",
+        "issue": "Crime & Law and Order",
+        "location": "Durgapur Paschim",
+        "severity": 10.0,
+        "volume": 30,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d432d2",
+        "issue": "Corruption & Bribery",
+        "location": "Durgapur Paschim",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_255dc2",
+        "issue": "Traffic & Road Safety",
+        "location": "Durgapur Paschim",
+        "severity": 7.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e98cf0",
+        "issue": "Women Safety & Crimes",
+        "location": "Durgapur Paschim",
+        "severity": 10.0,
+        "volume": 48,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6e6a2d",
+        "issue": "Education System Issues",
+        "location": "Durgapur Paschim",
+        "severity": 6.6,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_e98cf0",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_16ddc6",
+        "issue": "Crime & Law and Order",
+        "activeDays": 19,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_6e6a2d",
+        "issue": "Education System Issues",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_d432d2",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_255dc2",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

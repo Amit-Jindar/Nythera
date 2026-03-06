@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Nabagram",
+    "district": "Murshidabad",
+    "total_signals": 0,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 0.0,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "HIGH",
+      "last_updated": ""
+    },
+    "SENTIMENT_TREND": [],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.0,
+        "confidence": 0.0
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.0,
+        "confidence": 0.0
+      },
+      {
+        "emotion": "Trust",
+        "value": 0.0,
+        "confidence": 0.0
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.0,
+        "confidence": 0.0
+      }
+    ]
+  }
+}

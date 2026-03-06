@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Ballygunge",
+    "total_signals": 27,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_aa7699",
+        "issue": "Corruption & Bribery",
+        "location": "Ballygunge",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_0c9325",
+        "issue": "Sanitation & Waste Management",
+        "location": "Ballygunge",
+        "severity": 7.8,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_bd76aa",
+        "issue": "Women Safety & Crimes",
+        "location": "Ballygunge",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9c4100",
+        "issue": "Crime & Law and Order",
+        "location": "Ballygunge",
+        "severity": 9.9,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2c564d",
+        "issue": "Education System Issues",
+        "location": "Ballygunge",
+        "severity": 6.0,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_9c4100",
+        "issue": "Crime & Law and Order",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_0c9325",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 6,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_bd76aa",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_aa7699",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_2c564d",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

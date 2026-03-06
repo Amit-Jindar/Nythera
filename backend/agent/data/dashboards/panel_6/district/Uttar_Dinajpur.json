@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Uttar_Dinajpur",
+    "total_signals": 582,
+    "generated_at": "2026-01-19T18:45:44+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.55,
+      "medium_credibility_ratio": 0.18,
+      "low_credibility_ratio": 0.27,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Public Transport Issues",
+        "Road & Infrastructure Issues",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": [
+        "Environmental Degradation",
+        "Farmer & Agriculture Issues"
+      ]
+    }
+  }
+}

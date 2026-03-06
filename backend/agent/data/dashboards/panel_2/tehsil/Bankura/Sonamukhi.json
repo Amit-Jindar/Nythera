@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Bankura",
+    "name": "Sonamukhi",
+    "total_signals": 10,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_51bc37",
+        "issue": "Corruption & Bribery",
+        "location": "Sonamukhi",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_dc1779",
+        "issue": "Crime & Law and Order",
+        "location": "Sonamukhi",
+        "severity": 9.8,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_dc1779",
+        "issue": "Crime & Law and Order",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_51bc37",
+        "issue": "Corruption & Bribery",
+        "activeDays": 6,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

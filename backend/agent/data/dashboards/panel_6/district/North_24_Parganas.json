@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "North_24_Parganas",
+    "total_signals": 3417,
+    "generated_at": "2026-01-19T18:45:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.75,
+      "medium_credibility_ratio": 0.08,
+      "low_credibility_ratio": 0.17,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Environmental Degradation",
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Traffic & Road Safety",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Governance & Administrative Failure",
+        "Road & Infrastructure Issues"
+      ],
+      "contested_issues": [
+        "Public Transport Issues"
+      ]
+    }
+  }
+}

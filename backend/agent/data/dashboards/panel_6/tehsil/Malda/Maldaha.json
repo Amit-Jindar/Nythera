@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Malda",
+    "name": "Maldaha",
+    "total_signals": 148,
+    "generated_at": "2026-01-19T19:16:47+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.67,
+      "medium_credibility_ratio": 0.33,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [],
+      "contested_issues": [
+        "Education System Issues",
+        "Women Safety & Crimes"
+      ]
+    }
+  }
+}

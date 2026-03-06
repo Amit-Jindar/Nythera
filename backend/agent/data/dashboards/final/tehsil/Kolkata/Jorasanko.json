@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Jorasanko",
+    "total_signals": 226,
+    "enriched_signals": 18,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:26:19.754980+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 47.02,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-29 15:28 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-01",
+        "sentiment": 37.5,
+        "rollingAverage": 37.5
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 49.7,
+        "rollingAverage": 43.6
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 42.8,
+        "rollingAverage": 43.3
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 69.8,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 39.3,
+        "rollingAverage": 47.8
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 43.0,
+        "rollingAverage": 47.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.53,
+        "confidence": 0.021
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.0,
+        "confidence": 0.04
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.35,
+        "confidence": 0.934
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.11,
+        "confidence": 0.005
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_69c063",
+        "issue": "Crime & Law and Order",
+        "location": "Jorasanko",
+        "severity": 9.9,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_59ca05",
+        "issue": "Healthcare Access & Services",
+        "location": "Jorasanko",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2072fd",
+        "issue": "Sanitation & Waste Management",
+        "location": "Jorasanko",
+        "severity": 7.8,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_2072fd",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 16,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_69c063",
+        "issue": "Crime & Law and Order",
+        "activeDays": 6,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_59ca05",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 2,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Municipal Corporation + Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 14,
+      "pressure": 14,
+      "capacity": 86,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 94.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 92.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 57.1,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 67.1,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.33,
+      "medium_credibility_ratio": 0.33,
+      "low_credibility_ratio": 0.33,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": [
+        "Sanitation & Waste Management"
+      ]
+    }
+  }
+}

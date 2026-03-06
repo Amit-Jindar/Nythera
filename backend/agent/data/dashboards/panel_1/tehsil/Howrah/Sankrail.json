@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Sankrail",
+    "district": "Howrah",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:25+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.75,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-25 08:34 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-06",
+        "sentiment": 54.2,
+        "rollingAverage": 54.2
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 45.3,
+        "rollingAverage": 49.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.23,
+        "confidence": 0.009
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.98,
+        "confidence": 0.039
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.74,
+        "confidence": 0.95
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

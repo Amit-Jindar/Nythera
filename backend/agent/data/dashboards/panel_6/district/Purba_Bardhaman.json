@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Purba_Bardhaman",
+    "total_signals": 548,
+    "generated_at": "2026-01-19T18:45:46+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.88,
+      "medium_credibility_ratio": 0.12,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [],
+      "contested_issues": [
+        "Traffic & Road Safety"
+      ]
+    }
+  }
+}

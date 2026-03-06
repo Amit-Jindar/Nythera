@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba_Medinipur",
+    "name": "Nandigram",
+    "total_signals": 231,
+    "generated_at": "2026-01-19T19:07:13+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_ed1030",
+        "issue": "Crime & Law and Order",
+        "location": "Nandigram",
+        "severity": 9.9,
+        "volume": 169,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e160fb",
+        "issue": "Women Safety & Crimes",
+        "location": "Nandigram",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_cc985f",
+        "issue": "Environmental Degradation",
+        "location": "Nandigram",
+        "severity": 5.8,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1de357",
+        "issue": "Sanitation & Waste Management",
+        "location": "Nandigram",
+        "severity": 7.8,
+        "volume": 22,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f14d75",
+        "issue": "Corruption & Bribery",
+        "location": "Nandigram",
+        "severity": 10.0,
+        "volume": 16,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a6ff08",
+        "issue": "Healthcare Access & Services",
+        "location": "Nandigram",
+        "severity": 9.4,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_24f33e",
+        "issue": "Education System Issues",
+        "location": "Nandigram",
+        "severity": 5.9,
+        "volume": 11,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_ed1030",
+        "issue": "Crime & Law and Order",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_24f33e",
+        "issue": "Education System Issues",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_f14d75",
+        "issue": "Corruption & Bribery",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_1de357",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_a6ff08",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_cc985f",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_e160fb",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

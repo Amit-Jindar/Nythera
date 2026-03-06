@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Noapara",
+    "district": "North_24_Parganas",
+    "total_signals": 35,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 48.2,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-22 11:53 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-04",
+        "sentiment": 48.2,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 44.2,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 63.4,
+        "rollingAverage": 51.9
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 39.1,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 43.5,
+        "rollingAverage": 47.7
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 41.1,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 59.4,
+        "rollingAverage": 48.4
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 39.6,
+        "rollingAverage": 47.2
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 55.3,
+        "rollingAverage": 48.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.54,
+        "confidence": 0.022
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.38,
+        "confidence": 0.055
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.98,
+        "confidence": 0.919
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.09,
+        "confidence": 0.004
+      }
+    ]
+  }
+}

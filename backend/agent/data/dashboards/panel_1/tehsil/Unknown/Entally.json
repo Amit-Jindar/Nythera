@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Entally",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 51.8,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-10-14 01:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-14",
+        "sentiment": 51.8,
+        "rollingAverage": 51.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.33,
+        "confidence": 0.013
+      },
+      {
+        "emotion": "Fear",
+        "value": 16.12,
+        "confidence": 0.645
+      },
+      {
+        "emotion": "Trust",
+        "value": 8.2,
+        "confidence": 0.328
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.34,
+        "confidence": 0.014
+      }
+    ]
+  }
+}

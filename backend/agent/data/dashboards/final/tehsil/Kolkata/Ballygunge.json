@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Ballygunge",
+    "total_signals": 641,
+    "enriched_signals": 27,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:22:46.303920+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 53.9,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-29 11:17 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-21",
+        "sentiment": 50.6,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 47.6,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 44.0,
+        "rollingAverage": 47.4
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 47.7,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 39.4,
+        "rollingAverage": 45.9
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 83.4,
+        "rollingAverage": 52.1
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 64.6,
+        "rollingAverage": 53.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.15,
+        "confidence": 0.046
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.26,
+        "confidence": 0.09
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.52,
+        "confidence": 0.861
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.07,
+        "confidence": 0.003
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_aa7699",
+        "issue": "Corruption & Bribery",
+        "location": "Ballygunge",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_0c9325",
+        "issue": "Sanitation & Waste Management",
+        "location": "Ballygunge",
+        "severity": 7.8,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_bd76aa",
+        "issue": "Women Safety & Crimes",
+        "location": "Ballygunge",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9c4100",
+        "issue": "Crime & Law and Order",
+        "location": "Ballygunge",
+        "severity": 9.9,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2c564d",
+        "issue": "Education System Issues",
+        "location": "Ballygunge",
+        "severity": 6.0,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_9c4100",
+        "issue": "Crime & Law and Order",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_0c9325",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 6,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_bd76aa",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_aa7699",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_2c564d",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Municipal Corporation + Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 18,
+      "pressure": 18,
+      "capacity": 82,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 12,
+      "pressure": 12,
+      "capacity": 88,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 97.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 92.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 90.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 73.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 40.7,
+        "trend": "Stable",
+        "change": 0
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 58.1,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.4,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.6,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Education System Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": []
+    }
+  }
+}

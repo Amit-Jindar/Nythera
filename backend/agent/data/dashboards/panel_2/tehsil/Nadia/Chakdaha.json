@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Chakdaha",
+    "total_signals": 220,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_579841",
+        "issue": "Education System Issues",
+        "location": "Chakdaha",
+        "severity": 6.0,
+        "volume": 45,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_58bd7a",
+        "issue": "Crime & Law and Order",
+        "location": "Chakdaha",
+        "severity": 9.9,
+        "volume": 85,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_996019",
+        "issue": "Corruption & Bribery",
+        "location": "Chakdaha",
+        "severity": 10.0,
+        "volume": 34,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ecb0bb",
+        "issue": "Sanitation & Waste Management",
+        "location": "Chakdaha",
+        "severity": 7.8,
+        "volume": 45,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9ba40f",
+        "issue": "Healthcare Access & Services",
+        "location": "Chakdaha",
+        "severity": 9.4,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_91ac6f",
+        "issue": "Women Safety & Crimes",
+        "location": "Chakdaha",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_91ac6f",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_58bd7a",
+        "issue": "Crime & Law and Order",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_ecb0bb",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_9ba40f",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 46,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_996019",
+        "issue": "Corruption & Bribery",
+        "activeDays": 31,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_579841",
+        "issue": "Education System Issues",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

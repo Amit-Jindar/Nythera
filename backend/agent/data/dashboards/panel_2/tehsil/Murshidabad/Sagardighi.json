@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Sagardighi",
+    "total_signals": 22,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_702e54",
+        "issue": "Crime & Law and Order",
+        "location": "Sagardighi",
+        "severity": 9.9,
+        "volume": 17,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_75492f",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Sagardighi",
+        "severity": 7.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5be2b5",
+        "issue": "Sanitation & Waste Management",
+        "location": "Sagardighi",
+        "severity": 7.7,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_5be2b5",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 51,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_702e54",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_75492f",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

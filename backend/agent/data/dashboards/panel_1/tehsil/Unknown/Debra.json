@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Debra",
+    "district": "Unknown",
+    "total_signals": 5,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 67.0,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-23 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-05",
+        "sentiment": 59.3,
+        "rollingAverage": 59.3
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 68.1,
+        "rollingAverage": 63.7
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 57.3,
+        "rollingAverage": 61.6
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 83.3,
+        "rollingAverage": 67.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.68,
+        "confidence": 0.027
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.86,
+        "confidence": 0.034
+      },
+      {
+        "emotion": "Trust",
+        "value": 19.88,
+        "confidence": 0.795
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 3.57,
+        "confidence": 0.143
+      }
+    ]
+  }
+}

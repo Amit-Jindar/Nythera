@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Nadia",
+    "total_signals": 1288,
+    "generated_at": "2026-01-19T18:45:43+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.64,
+      "medium_credibility_ratio": 0.09,
+      "low_credibility_ratio": 0.27,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Governance & Administrative Failure",
+        "Public Transport Issues",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": [
+        "Environmental Degradation"
+      ]
+    }
+  }
+}

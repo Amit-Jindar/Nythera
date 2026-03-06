@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Hooghly",
+    "name": "Tarakeswar",
+    "total_signals": 8,
+    "generated_at": "2026-01-19T19:16:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.25,
+      "low_credibility_ratio": 0.75,
+      "verified_issues": [],
+      "noise_issues": [
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": [
+        "Sanitation & Waste Management"
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Harishchandrapur",
+    "district": "Unknown",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 88.77,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-28 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-27",
+        "sentiment": 90.6,
+        "rollingAverage": 90.6
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 87.7,
+        "rollingAverage": 89.2
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 88.0,
+        "rollingAverage": 88.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 12.43,
+        "confidence": 0.497
+      },
+      {
+        "emotion": "Fear",
+        "value": 11.02,
+        "confidence": 0.441
+      },
+      {
+        "emotion": "Trust",
+        "value": 1.34,
+        "confidence": 0.053
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.21,
+        "confidence": 0.008
+      }
+    ]
+  }
+}

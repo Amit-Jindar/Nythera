@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Baruipur_Purba",
+    "district": "South_24_Parganas",
+    "total_signals": 11,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 46.96,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-03 06:48 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-07",
+        "sentiment": 39.5,
+        "rollingAverage": 39.5
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 49.3,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 51.4,
+        "rollingAverage": 46.7
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 51.3,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 43.3,
+        "rollingAverage": 47.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.45,
+        "confidence": 0.018
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.71,
+        "confidence": 0.068
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.81,
+        "confidence": 0.912
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

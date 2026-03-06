@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba_Medinipur",
+    "name": "Moyna",
+    "total_signals": 29,
+    "generated_at": "2026-01-19T19:16:44+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.6,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.2,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues"
+      ],
+      "noise_issues": [
+        "Sanitation & Waste Management"
+      ],
+      "contested_issues": [
+        "Women Safety & Crimes"
+      ]
+    }
+  }
+}

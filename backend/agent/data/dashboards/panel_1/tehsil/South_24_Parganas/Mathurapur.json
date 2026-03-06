@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Mathurapur",
+    "district": "South_24_Parganas",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 54.23,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-25 06:13 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-22",
+        "sentiment": 63.8,
+        "rollingAverage": 63.8
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 47.7,
+        "rollingAverage": 55.8
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 39.6,
+        "rollingAverage": 50.4
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 65.8,
+        "rollingAverage": 54.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.2,
+        "confidence": 0.128
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.85,
+        "confidence": 0.114
+      },
+      {
+        "emotion": "Trust",
+        "value": 18.92,
+        "confidence": 0.757
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

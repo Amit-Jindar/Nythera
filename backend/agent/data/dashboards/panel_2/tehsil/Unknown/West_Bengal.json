@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "West_Bengal",
+    "total_signals": 9,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_69f4f5",
+        "issue": "Women Safety & Crimes",
+        "location": "West Bengal",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9578be",
+        "issue": "Corruption & Bribery",
+        "location": "West Bengal",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e2c1aa",
+        "issue": "Governance & Administrative Failure",
+        "location": "West Bengal",
+        "severity": 5.5,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2cc17a",
+        "issue": "Crime & Law and Order",
+        "location": "West Bengal",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_9a1f59",
+        "issue": "Healthcare Access & Services",
+        "location": "West Bengal",
+        "severity": 9.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_9a1f59",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 35,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_2cc17a",
+        "issue": "Crime & Law and Order",
+        "activeDays": 32,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_e2c1aa",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 3,
+        "persistenceStatus": "recurring",
+        "department": "General Administration"
+      },
+      {
+        "id": "p_69f4f5",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_9578be",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Raina",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_e73587",
+        "issue": "Crime & Law and Order",
+        "location": "Raina",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_e73587",
+        "issue": "Crime & Law and Order",
+        "activeDays": 46,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  }
+}

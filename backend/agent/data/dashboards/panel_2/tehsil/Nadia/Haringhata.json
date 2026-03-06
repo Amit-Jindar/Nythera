@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Haringhata",
+    "total_signals": 15,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4fafd3",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Haringhata",
+        "severity": 6.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_b963c6",
+        "issue": "Healthcare Access & Services",
+        "location": "Haringhata",
+        "severity": 9.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b11695",
+        "issue": "Sanitation & Waste Management",
+        "location": "Haringhata",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_33bc77",
+        "issue": "Education System Issues",
+        "location": "Haringhata",
+        "severity": 6.2,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_82cded",
+        "issue": "Crime & Law and Order",
+        "location": "Haringhata",
+        "severity": 9.9,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_82cded",
+        "issue": "Crime & Law and Order",
+        "activeDays": 64,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b11695",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 11,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_33bc77",
+        "issue": "Education System Issues",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_4fafd3",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_b963c6",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

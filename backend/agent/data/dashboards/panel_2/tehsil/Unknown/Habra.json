@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Habra",
+    "total_signals": 21,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_7afba5",
+        "issue": "Crime & Law and Order",
+        "location": "Habra",
+        "severity": 10.0,
+        "volume": 17,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c73e2e",
+        "issue": "Education System Issues",
+        "location": "Habra",
+        "severity": 6.8,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_c73e2e",
+        "issue": "Education System Issues",
+        "activeDays": 68,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_7afba5",
+        "issue": "Crime & Law and Order",
+        "activeDays": 51,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  }
+}

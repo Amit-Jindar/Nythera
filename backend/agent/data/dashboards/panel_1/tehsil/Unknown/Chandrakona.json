@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Chandrakona",
+    "district": "Unknown",
+    "total_signals": 15,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 71.5,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-11 02:15 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2026-01-10",
+        "sentiment": 74.1,
+        "rollingAverage": 74.1
+      },
+      {
+        "date": "2026-01-11",
+        "sentiment": 68.9,
+        "rollingAverage": 71.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.54,
+        "confidence": 0.142
+      },
+      {
+        "emotion": "Fear",
+        "value": 12.61,
+        "confidence": 0.504
+      },
+      {
+        "emotion": "Trust",
+        "value": 8.5,
+        "confidence": 0.34
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.35,
+        "confidence": 0.014
+      }
+    ]
+  }
+}

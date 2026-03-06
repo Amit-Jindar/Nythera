@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Jalpaiguri",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_98553f",
+        "issue": "Healthcare Access & Services",
+        "location": "Jalpaiguri",
+        "severity": 9.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d2df4a",
+        "issue": "Traffic & Road Safety",
+        "location": "Jalpaiguri",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ca2d07",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Jalpaiguri",
+        "severity": 7.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_e3c9a6",
+        "issue": "Crime & Law and Order",
+        "location": "Jalpaiguri",
+        "severity": 10.0,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_a69ac7",
+        "issue": "Education System Issues",
+        "location": "Jalpaiguri",
+        "severity": 6.2,
+        "volume": 4,
+        "status": "resolving",
+        "lifecycle": "stagnant"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_e3c9a6",
+        "issue": "Crime & Law and Order",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_a69ac7",
+        "issue": "Education System Issues",
+        "activeDays": 42,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_ca2d07",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_d2df4a",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_98553f",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

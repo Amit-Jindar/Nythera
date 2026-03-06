@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Medinipur",
+    "district": "Unknown",
+    "total_signals": 20,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 66.87,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-10 12:47 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-05",
+        "sentiment": 71.4,
+        "rollingAverage": 71.4
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 67.3,
+        "rollingAverage": 69.3
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 84.2,
+        "rollingAverage": 74.3
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 38.3,
+        "rollingAverage": 65.3
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 49.1,
+        "rollingAverage": 62.1
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 68.0,
+        "rollingAverage": 63.0
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 67.6,
+        "rollingAverage": 63.7
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 68.6,
+        "rollingAverage": 63.3
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 79.9,
+        "rollingAverage": 65.1
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 69.7,
+        "rollingAverage": 63.0
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 71.5,
+        "rollingAverage": 67.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.3,
+        "confidence": 0.132
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.87,
+        "confidence": 0.195
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.44,
+        "confidence": 0.657
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.39,
+        "confidence": 0.016
+      }
+    ]
+  }
+}

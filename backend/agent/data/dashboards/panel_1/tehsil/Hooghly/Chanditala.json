@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Chanditala",
+    "district": "Hooghly",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:25+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 52.0,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-09 12:32 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-09",
+        "sentiment": 52.0,
+        "rollingAverage": 52.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.04,
+        "confidence": 0.002
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.16,
+        "confidence": 0.007
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.75,
+        "confidence": 0.99
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

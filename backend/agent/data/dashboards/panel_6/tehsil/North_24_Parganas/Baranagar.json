@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Baranagar",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:16:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.2,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.8,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management"
+      ],
+      "contested_issues": []
+    }
+  }
+}

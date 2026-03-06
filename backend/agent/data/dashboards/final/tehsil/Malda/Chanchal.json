@@ -1,0 +1,444 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Malda",
+    "name": "Chanchal",
+    "total_signals": 1073,
+    "enriched_signals": 46,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:17:42.168871+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 45.24,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-06 04:21 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-08",
+        "sentiment": 40.3,
+        "rollingAverage": 40.3
+      },
+      {
+        "date": "2025-10-13",
+        "sentiment": 51.0,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2025-10-18",
+        "sentiment": 44.1,
+        "rollingAverage": 45.1
+      },
+      {
+        "date": "2025-10-19",
+        "sentiment": 44.6,
+        "rollingAverage": 45.0
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 39.9,
+        "rollingAverage": 44.0
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 40.7,
+        "rollingAverage": 43.4
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 50.1,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 46.3,
+        "rollingAverage": 45.2
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 44.4,
+        "rollingAverage": 44.3
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 48.1,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 48.1,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 57.5,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 44.2,
+        "rollingAverage": 48.4
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 41.9,
+        "rollingAverage": 47.2
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 41.9,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 47.7,
+        "rollingAverage": 47.1
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 42.1,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 41.4,
+        "rollingAverage": 45.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.32,
+        "confidence": 0.053
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.93,
+        "confidence": 0.077
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.68,
+        "confidence": 0.867
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.07,
+        "confidence": 0.003
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_87bddd",
+        "issue": "Education System Issues",
+        "location": "Chanchal",
+        "severity": 5.9,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_1987b3",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Chanchal",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_32759f",
+        "issue": "Crime & Law and Order",
+        "location": "Chanchal",
+        "severity": 9.9,
+        "volume": 29,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_384eca",
+        "issue": "Corruption & Bribery",
+        "location": "Chanchal",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_7c3d72",
+        "issue": "Sanitation & Waste Management",
+        "location": "Chanchal",
+        "severity": 7.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_eb08c7",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Chanchal",
+        "severity": 7.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_620d04",
+        "issue": "Healthcare Access & Services",
+        "location": "Chanchal",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_32759f",
+        "issue": "Crime & Law and Order",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_620d04",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_384eca",
+        "issue": "Corruption & Bribery",
+        "activeDays": 46,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_7c3d72",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 40,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_eb08c7",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 38,
+        "persistenceStatus": "stuck",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_87bddd",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_1987b3",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Anti Corruption Bureau (ACB) + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.07
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 33,
+      "pressure": 33,
+      "capacity": 67,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 9,
+      "pressure": 9,
+      "capacity": 91,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_0ce2a8",
+      "department": "Public Works Department (PWD)",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_0ce2a8",
+        "department": "Public Works Department (PWD)",
+        "trustScore": 97.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 95.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 95.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 93.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 92.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 74.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 19.3,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.29,
+      "medium_credibility_ratio": 0.14,
+      "low_credibility_ratio": 0.57,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Road & Infrastructure Issues"
+      ],
+      "contested_issues": [
+        "Sanitation & Waste Management"
+      ]
+    }
+  }
+}

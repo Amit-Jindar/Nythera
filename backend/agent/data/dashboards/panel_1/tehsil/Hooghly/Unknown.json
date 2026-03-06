@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Unknown",
+    "district": "Hooghly",
+    "total_signals": 5,
+    "generated_at": "2026-01-19T19:05:25+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 39.13,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-08 13:36 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-19",
+        "sentiment": 35.5,
+        "rollingAverage": 35.5
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 45.9,
+        "rollingAverage": 40.7
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 36.0,
+        "rollingAverage": 39.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.36,
+        "confidence": 0.015
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.28,
+        "confidence": 0.051
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.32,
+        "confidence": 0.933
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

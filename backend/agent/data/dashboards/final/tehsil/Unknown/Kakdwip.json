@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Kakdwip",
+    "total_signals": 14,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 73.94,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-17 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-22",
+        "sentiment": 63.6,
+        "rollingAverage": 63.6
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 78.8,
+        "rollingAverage": 71.2
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 85.4,
+        "rollingAverage": 75.9
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 87.7,
+        "rollingAverage": 78.9
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 64.2,
+        "rollingAverage": 75.9
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 54.1,
+        "rollingAverage": 72.3
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 83.8,
+        "rollingAverage": 73.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.1,
+        "confidence": 0.124
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.37,
+        "confidence": 0.335
+      },
+      {
+        "emotion": "Trust",
+        "value": 13.13,
+        "confidence": 0.525
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.4,
+        "confidence": 0.016
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f6d666",
+        "issue": "Crime & Law and Order",
+        "location": "Kakdwip",
+        "severity": 10.0,
+        "volume": 14,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_f6d666",
+        "issue": "Crime & Law and Order",
+        "activeDays": 56,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 15,
+      "pressure": 15,
+      "capacity": 85,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 38.0,
+        "trend": "Stable",
+        "change": 0
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 35.0,
+      "trend": "Stable",
+      "change": 0.0,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 1.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [],
+      "contested_issues": []
+    }
+  }
+}

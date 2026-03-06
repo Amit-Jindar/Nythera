@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Purba_Bardhaman",
+    "total_signals": 548,
+    "generated_at": "2026-01-19T18:35:11.881639+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_235075",
+        "issue": "Corruption & Bribery",
+        "location": "Galsi",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_64c711",
+        "issue": "Education System Issues",
+        "location": "Mangalkot",
+        "severity": 6.1,
+        "volume": 5,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_c9c667",
+        "issue": "Crime & Law and Order",
+        "location": "Mangalkot",
+        "severity": 9.8,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_cfc877",
+        "issue": "Education System Issues",
+        "location": "Galsi",
+        "severity": 6.0,
+        "volume": 4,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_2b2d61",
+        "issue": "Crime & Law and Order",
+        "location": "Galsi",
+        "severity": 9.8,
+        "volume": 19,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a0f63e",
+        "issue": "Corruption & Bribery",
+        "location": "Mangalkot",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_69dfe4",
+        "issue": "Crime & Law and Order",
+        "location": "Ketugram",
+        "severity": 9.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3aaef9",
+        "issue": "Corruption & Bribery",
+        "activeDays": 350,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_e73587",
+        "issue": "Crime & Law and Order",
+        "activeDays": 326,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_e9022e",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 321,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_ae2990",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 284,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_5a2fd2",
+        "issue": "Education System Issues",
+        "activeDays": 273,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_31ff71",
+        "issue": "Crime & Law and Order",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f18f2d",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_c086e5",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_31a685",
+        "issue": "Corruption & Bribery",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_ebfc9f",
+        "issue": "Education System Issues",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_e9ee41",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_f13d4b",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 52,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

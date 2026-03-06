@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Hooghly",
+    "name": "Serampore",
+    "total_signals": 131,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_9822f9",
+        "issue": "Corruption & Bribery",
+        "location": "Serampore",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_d2d61a",
+        "issue": "Crime & Law and Order",
+        "location": "Serampore",
+        "severity": 9.9,
+        "volume": 107,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d1d009",
+        "issue": "Sanitation & Waste Management",
+        "location": "Serampore",
+        "severity": 7.8,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ca1e47",
+        "issue": "Healthcare Access & Services",
+        "location": "Serampore",
+        "severity": 9.4,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_db15e7",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Serampore",
+        "severity": 6.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_47f974",
+        "issue": "Environmental Degradation",
+        "location": "Serampore",
+        "severity": 5.7,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9bd063",
+        "issue": "Education System Issues",
+        "location": "Serampore",
+        "severity": 6.0,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d2d61a",
+        "issue": "Crime & Law and Order",
+        "activeDays": 77,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_9bd063",
+        "issue": "Education System Issues",
+        "activeDays": 55,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_d1d009",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 11,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_ca1e47",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_db15e7",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_47f974",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_9822f9",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Birbhum",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T18:38:33.523136+00:00"
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Dakshin_Dinajpur",
+    "total_signals": 67,
+    "generated_at": "2026-01-19T18:35:10.182508+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_616540",
+        "issue": "Women Safety & Crimes",
+        "location": "Gangarampur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b135cf",
+        "issue": "Crime & Law and Order",
+        "location": "Harirampur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d22795",
+        "issue": "Healthcare Access & Services",
+        "location": "Balurghat",
+        "severity": 9.5,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_aad7ad",
+        "issue": "Healthcare Access & Services",
+        "location": "Gangarampur",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_4365df",
+        "issue": "Healthcare Access & Services",
+        "location": "Tapan",
+        "severity": 9.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_62167d",
+        "issue": "Traffic & Road Safety",
+        "location": "Tapan",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_179d4a",
+        "issue": "Education System Issues",
+        "location": "Balurghat",
+        "severity": 6.0,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3b5ef8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_072171",
+        "issue": "Crime & Law and Order",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_331fc8",
+        "issue": "Corruption & Bribery",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_22f4ff",
+        "issue": "Education System Issues",
+        "activeDays": 61,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_c05b01",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 54,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_9fc1d7",
+        "issue": "Crime & Law and Order",
+        "activeDays": 39,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_22dfeb",
+        "issue": "Corruption & Bribery",
+        "activeDays": 8,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_712461",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_4365df",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_616540",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_e699b1",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_d22795",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

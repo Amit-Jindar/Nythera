@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Kalyani",
+    "total_signals": 604,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_278787",
+        "issue": "Crime & Law and Order",
+        "location": "Kalyani",
+        "severity": 9.9,
+        "volume": 375,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_4ac3df",
+        "issue": "Sanitation & Waste Management",
+        "location": "Kalyani",
+        "severity": 7.8,
+        "volume": 93,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e2c17b",
+        "issue": "Corruption & Bribery",
+        "location": "Kalyani",
+        "severity": 10.0,
+        "volume": 67,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d75b1a",
+        "issue": "Traffic & Road Safety",
+        "location": "Kalyani",
+        "severity": 7.5,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f1c141",
+        "issue": "Public Transport Issues",
+        "location": "Kalyani",
+        "severity": 7.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_29f79f",
+        "issue": "Education System Issues",
+        "location": "Kalyani",
+        "severity": 6.0,
+        "volume": 37,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_75f06f",
+        "issue": "Healthcare Access & Services",
+        "location": "Kalyani",
+        "severity": 9.3,
+        "volume": 19,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_278787",
+        "issue": "Crime & Law and Order",
+        "activeDays": 162,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_4ac3df",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_e2c17b",
+        "issue": "Corruption & Bribery",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_75f06f",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 74,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_29f79f",
+        "issue": "Education System Issues",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_5c6f2f",
+        "issue": "Environmental Degradation",
+        "activeDays": 45,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_35d1a0",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 42,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_303a30",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 33,
+        "persistenceStatus": "stuck",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_f1c141",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_d75b1a",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

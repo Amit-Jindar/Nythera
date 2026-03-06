@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Cooch_Behar",
+    "district": "Unknown",
+    "total_signals": 9,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 68.19,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-03 13:11 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-24",
+        "sentiment": 88.1,
+        "rollingAverage": 88.1
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 63.2,
+        "rollingAverage": 75.7
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 75.3,
+        "rollingAverage": 75.5
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 72.8,
+        "rollingAverage": 74.8
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 48.1,
+        "rollingAverage": 69.5
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 45.4,
+        "rollingAverage": 65.5
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 84.4,
+        "rollingAverage": 68.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.77,
+        "confidence": 0.111
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.42,
+        "confidence": 0.137
+      },
+      {
+        "emotion": "Trust",
+        "value": 18.56,
+        "confidence": 0.743
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.25,
+        "confidence": 0.01
+      }
+    ]
+  }
+}

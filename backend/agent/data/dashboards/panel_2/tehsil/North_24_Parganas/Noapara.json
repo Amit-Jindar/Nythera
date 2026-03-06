@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Noapara",
+    "total_signals": 35,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_819e83",
+        "issue": "Crime & Law and Order",
+        "location": "Noapara",
+        "severity": 9.9,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1aaf06",
+        "issue": "Sanitation & Waste Management",
+        "location": "Noapara",
+        "severity": 7.9,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_762da1",
+        "issue": "Women Safety & Crimes",
+        "location": "Noapara",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b57fc0",
+        "issue": "Healthcare Access & Services",
+        "location": "Noapara",
+        "severity": 9.3,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_03da3b",
+        "issue": "Education System Issues",
+        "location": "Noapara",
+        "severity": 6.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_03da3b",
+        "issue": "Education System Issues",
+        "activeDays": 40,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_819e83",
+        "issue": "Crime & Law and Order",
+        "activeDays": 8,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_1aaf06",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 8,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_b57fc0",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_762da1",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

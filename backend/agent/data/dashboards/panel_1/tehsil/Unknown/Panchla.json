@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Panchla",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 54.1,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-03 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-03",
+        "sentiment": 54.1,
+        "rollingAverage": 54.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 12.83,
+        "confidence": 0.513
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.79,
+        "confidence": 0.072
+      },
+      {
+        "emotion": "Trust",
+        "value": 8.0,
+        "confidence": 0.32
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 2.38,
+        "confidence": 0.095
+      }
+    ]
+  }
+}

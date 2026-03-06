@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Islampur",
+    "district": "Unknown",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 85.17,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-16 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-30",
+        "sentiment": 86.4,
+        "rollingAverage": 86.4
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 84.9,
+        "rollingAverage": 85.7
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 84.2,
+        "rollingAverage": 85.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 4.86,
+        "confidence": 0.194
+      },
+      {
+        "emotion": "Fear",
+        "value": 9.68,
+        "confidence": 0.387
+      },
+      {
+        "emotion": "Trust",
+        "value": 10.25,
+        "confidence": 0.41
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.21,
+        "confidence": 0.008
+      }
+    ]
+  }
+}

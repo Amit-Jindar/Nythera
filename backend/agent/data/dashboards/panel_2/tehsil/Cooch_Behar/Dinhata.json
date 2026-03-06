@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Cooch_Behar",
+    "name": "Dinhata",
+    "total_signals": 73,
+    "generated_at": "2026-01-19T19:07:13+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f53ccd",
+        "issue": "Education System Issues",
+        "location": "Dinhata",
+        "severity": 6.2,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_476fc3",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Dinhata",
+        "severity": 8.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2fb601",
+        "issue": "Public Transport Issues",
+        "location": "Dinhata",
+        "severity": 7.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c2b0bb",
+        "issue": "Crime & Law and Order",
+        "location": "Dinhata",
+        "severity": 9.9,
+        "volume": 48,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_056660",
+        "issue": "Sanitation & Waste Management",
+        "location": "Dinhata",
+        "severity": 7.8,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e64aea",
+        "issue": "Corruption & Bribery",
+        "location": "Dinhata",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6fded1",
+        "issue": "Healthcare Access & Services",
+        "location": "Dinhata",
+        "severity": 9.3,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_c2b0bb",
+        "issue": "Crime & Law and Order",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_056660",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_e64aea",
+        "issue": "Corruption & Bribery",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_935294",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 60,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_6fded1",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 56,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_476fc3",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      },
+      {
+        "id": "p_2fb601",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_f53ccd",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

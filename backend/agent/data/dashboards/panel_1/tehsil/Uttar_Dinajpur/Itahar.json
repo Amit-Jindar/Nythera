@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Itahar",
+    "district": "Uttar_Dinajpur",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 36.1,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-26 14:15 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-26",
+        "sentiment": 36.1,
+        "rollingAverage": 36.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.04,
+        "confidence": 0.002
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.1,
+        "confidence": 0.004
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.85,
+        "confidence": 0.994
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.02,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

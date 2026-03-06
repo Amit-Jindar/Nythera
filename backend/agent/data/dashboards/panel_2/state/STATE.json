@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "level": "state",
+    "name": "STATE",
+    "total_signals": 144217,
+    "generated_at": "2026-01-19T19:31:05+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4aa40c",
+        "issue": "Corruption & Bribery",
+        "location": "Unknown",
+        "severity": 10.0,
+        "volume": 3889,
+        "status": "active",
+        "lifecycle": "peaking"
+      },
+      {
+        "id": "h_4e200b",
+        "issue": "Corruption & Bribery",
+        "location": "Bally",
+        "severity": 10.0,
+        "volume": 1491,
+        "status": "active",
+        "lifecycle": "peaking"
+      },
+      {
+        "id": "h_93b2ca",
+        "issue": "Women Safety & Crimes",
+        "location": "Unknown",
+        "severity": 10.0,
+        "volume": 986,
+        "status": "active",
+        "lifecycle": "peaking"
+      },
+      {
+        "id": "h_d0ff2d",
+        "issue": "Corruption & Bribery",
+        "location": "Pingla",
+        "severity": 10.0,
+        "volume": 640,
+        "status": "active",
+        "lifecycle": "peaking"
+      },
+      {
+        "id": "h_55f33e",
+        "issue": "Women Safety & Crimes",
+        "location": "Bally",
+        "severity": 10.0,
+        "volume": 548,
+        "status": "active",
+        "lifecycle": "peaking"
+      },
+      {
+        "id": "h_5adbfb",
+        "issue": "Corruption & Bribery",
+        "location": "Ratua",
+        "severity": 10.0,
+        "volume": 165,
+        "status": "active",
+        "lifecycle": "peaking"
+      },
+      {
+        "id": "h_352bc1",
+        "issue": "Corruption & Bribery",
+        "location": "Kotrung",
+        "severity": 10.0,
+        "volume": 141,
+        "status": "active",
+        "lifecycle": "peaking"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "activeDays": 357,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_563c92",
+        "issue": "Corruption & Bribery",
+        "activeDays": 353,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_65d72b",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 349,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_b21e87",
+        "issue": "Education System Issues",
+        "activeDays": 348,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_8fd168",
+        "issue": "Environmental Degradation",
+        "activeDays": 307,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_bff5b5",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 284,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_7fa813",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 261,
+        "persistenceStatus": "chronic",
+        "department": "General Administration"
+      },
+      {
+        "id": "p_282d85",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 223,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_34ade4",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_69f854",
+        "issue": "Public Transport Issues",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_f282bd",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

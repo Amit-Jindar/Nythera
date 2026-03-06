@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim_Medinipur",
+    "name": "Ghatal",
+    "total_signals": 61,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_3837ed",
+        "issue": "Women Safety & Crimes",
+        "location": "Ghatal",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b5bc49",
+        "issue": "Corruption & Bribery",
+        "location": "Ghatal",
+        "severity": 10.0,
+        "volume": 38,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c3a1c9",
+        "issue": "Crime & Law and Order",
+        "location": "Ghatal",
+        "severity": 9.9,
+        "volume": 17,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8a6fd9",
+        "issue": "Sanitation & Waste Management",
+        "location": "Ghatal",
+        "severity": 7.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b72ac6",
+        "issue": "Education System Issues",
+        "location": "Ghatal",
+        "severity": 5.9,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_b5bc49",
+        "issue": "Corruption & Bribery",
+        "activeDays": 341,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_c3a1c9",
+        "issue": "Crime & Law and Order",
+        "activeDays": 277,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b72ac6",
+        "issue": "Education System Issues",
+        "activeDays": 197,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_8a6fd9",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_3837ed",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

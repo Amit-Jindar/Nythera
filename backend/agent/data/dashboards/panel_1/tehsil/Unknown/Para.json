@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Para",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 61.4,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-08 09:56 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-04",
+        "sentiment": 65.1,
+        "rollingAverage": 65.1
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 57.7,
+        "rollingAverage": 61.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.13,
+        "confidence": 0.005
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.57,
+        "confidence": 0.023
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.24,
+        "confidence": 0.97
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

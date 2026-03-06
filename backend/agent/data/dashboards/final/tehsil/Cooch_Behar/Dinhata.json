@@ -1,0 +1,490 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Cooch Behar",
+    "name": "Dinhata",
+    "total_signals": 868,
+    "enriched_signals": 73,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:27.745177+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 46.36,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-04 15:24 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-14",
+        "sentiment": 41.0,
+        "rollingAverage": 41.0
+      },
+      {
+        "date": "2025-10-18",
+        "sentiment": 50.1,
+        "rollingAverage": 45.5
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 43.2,
+        "rollingAverage": 44.8
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 46.3,
+        "rollingAverage": 45.1
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 50.8,
+        "rollingAverage": 46.3
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 46.3,
+        "rollingAverage": 46.3
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 39.0,
+        "rollingAverage": 45.2
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 65.9,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 41.6,
+        "rollingAverage": 47.6
+      },
+      {
+        "date": "2025-11-15",
+        "sentiment": 45.5,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 38.6,
+        "rollingAverage": 46.8
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 36.2,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 46.7,
+        "rollingAverage": 44.8
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 45.6,
+        "rollingAverage": 45.7
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 53.8,
+        "rollingAverage": 44.0
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 40.8,
+        "rollingAverage": 43.9
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 43.5,
+        "rollingAverage": 43.6
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 59.7,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 38.0,
+        "rollingAverage": 46.9
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 61.1,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 39.9,
+        "rollingAverage": 48.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.93,
+        "confidence": 0.037
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.73,
+        "confidence": 0.069
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.31,
+        "confidence": 0.892
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f53ccd",
+        "issue": "Education System Issues",
+        "location": "Dinhata",
+        "severity": 6.2,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_476fc3",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Dinhata",
+        "severity": 8.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2fb601",
+        "issue": "Public Transport Issues",
+        "location": "Dinhata",
+        "severity": 7.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c2b0bb",
+        "issue": "Crime & Law and Order",
+        "location": "Dinhata",
+        "severity": 9.9,
+        "volume": 48,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_056660",
+        "issue": "Sanitation & Waste Management",
+        "location": "Dinhata",
+        "severity": 7.8,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e64aea",
+        "issue": "Corruption & Bribery",
+        "location": "Dinhata",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6fded1",
+        "issue": "Healthcare Access & Services",
+        "location": "Dinhata",
+        "severity": 9.3,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_c2b0bb",
+        "issue": "Crime & Law and Order",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_056660",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_e64aea",
+        "issue": "Corruption & Bribery",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_935294",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 60,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_6fded1",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 56,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_476fc3",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      },
+      {
+        "id": "p_2fb601",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_f53ccd",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 2,
+      "zone": "Police + Anti Corruption Bureau (ACB) + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 48,
+      "pressure": 48,
+      "capacity": 52,
+      "status": "medium"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 10,
+      "pressure": 10,
+      "capacity": 90,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 8,
+      "pressure": 8,
+      "capacity": 92,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_0ce2a8",
+      "department": "Public Works Department (PWD)",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_8623ca",
+      "department": "Transport Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_8623ca",
+        "department": "Transport Department",
+        "trustScore": 97.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_0ce2a8",
+        "department": "Public Works Department (PWD)",
+        "trustScore": 97.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 94.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 92.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 90.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 76.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 76.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 15.8,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.38,
+      "medium_credibility_ratio": 0.12,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Public Transport Issues",
+        "Road & Infrastructure Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Healthcare Access & Services"
+      ]
+    }
+  }
+}

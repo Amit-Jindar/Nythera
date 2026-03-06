@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Krishnanagar_Uttar",
+    "district": "Unknown",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 81.1,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-11 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-11",
+        "sentiment": 81.1,
+        "rollingAverage": 81.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 7.37,
+        "confidence": 0.295
+      },
+      {
+        "emotion": "Fear",
+        "value": 13.05,
+        "confidence": 0.522
+      },
+      {
+        "emotion": "Trust",
+        "value": 4.07,
+        "confidence": 0.163
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.51,
+        "confidence": 0.02
+      }
+    ]
+  }
+}

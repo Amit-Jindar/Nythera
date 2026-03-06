@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Bishnupur",
+    "district": "Unknown",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 79.37,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-11 01:35 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-29",
+        "sentiment": 90.2,
+        "rollingAverage": 90.2
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 64.4,
+        "rollingAverage": 77.3
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 90.0,
+        "rollingAverage": 81.5
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 68.6,
+        "rollingAverage": 78.3
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 76.4,
+        "rollingAverage": 77.9
+      },
+      {
+        "date": "2026-01-11",
+        "sentiment": 86.6,
+        "rollingAverage": 79.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.42,
+        "confidence": 0.097
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.42,
+        "confidence": 0.297
+      },
+      {
+        "emotion": "Trust",
+        "value": 14.88,
+        "confidence": 0.595
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.27,
+        "confidence": 0.011
+      }
+    ]
+  }
+}

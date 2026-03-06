@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Baruipur_Paschim",
+    "district": "South_24_Parganas",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 50.2,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-12 15:55 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-07",
+        "sentiment": 38.9,
+        "rollingAverage": 38.9
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 71.1,
+        "rollingAverage": 55.0
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 40.6,
+        "rollingAverage": 50.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.38,
+        "confidence": 0.015
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.46,
+        "confidence": 0.058
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.13,
+        "confidence": 0.925
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

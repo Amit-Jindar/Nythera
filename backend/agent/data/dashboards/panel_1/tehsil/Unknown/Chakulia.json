@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Chakulia",
+    "district": "Unknown",
+    "total_signals": 5,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 70.18,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-08 01:18 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-30",
+        "sentiment": 55.9,
+        "rollingAverage": 55.9
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 93.1,
+        "rollingAverage": 74.5
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 60.9,
+        "rollingAverage": 70.0
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 76.6,
+        "rollingAverage": 71.6
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 64.4,
+        "rollingAverage": 70.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.75,
+        "confidence": 0.07
+      },
+      {
+        "emotion": "Fear",
+        "value": 5.3,
+        "confidence": 0.212
+      },
+      {
+        "emotion": "Trust",
+        "value": 17.17,
+        "confidence": 0.687
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.78,
+        "confidence": 0.031
+      }
+    ]
+  }
+}

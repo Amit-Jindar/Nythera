@@ -1,0 +1,500 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Ranaghat",
+    "total_signals": 813,
+    "enriched_signals": 83,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:15:03.833767+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 47.37,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-29 08:26 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-13",
+        "sentiment": 67.5,
+        "rollingAverage": 67.5
+      },
+      {
+        "date": "2025-10-16",
+        "sentiment": 33.7,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 51.2,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 49.3,
+        "rollingAverage": 50.4
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 41.8,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 72.1,
+        "rollingAverage": 52.6
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 42.9,
+        "rollingAverage": 51.2
+      },
+      {
+        "date": "2025-11-15",
+        "sentiment": 40.6,
+        "rollingAverage": 47.4
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 43.4,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 34.8,
+        "rollingAverage": 46.4
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 41.2,
+        "rollingAverage": 45.3
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 35.8,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 40.6,
+        "rollingAverage": 39.9
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 56.2,
+        "rollingAverage": 41.8
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 48.7,
+        "rollingAverage": 43.0
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 55.6,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 41.3,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 51.9,
+        "rollingAverage": 47.2
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 59.7,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 40.0,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 45.9,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 37.3,
+        "rollingAverage": 47.4
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 58.7,
+        "rollingAverage": 47.8
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 48.4,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 44.7,
+        "rollingAverage": 47.8
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 48.2,
+        "rollingAverage": 46.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.16,
+        "confidence": 0.046
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.84,
+        "confidence": 0.074
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.87,
+        "confidence": 0.875
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.13,
+        "confidence": 0.005
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_70afac",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Ranaghat",
+        "severity": 7.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_563646",
+        "issue": "Crime & Law and Order",
+        "location": "Ranaghat",
+        "severity": 9.9,
+        "volume": 38,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e8dca8",
+        "issue": "Education System Issues",
+        "location": "Ranaghat",
+        "severity": 5.9,
+        "volume": 18,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_97d4b7",
+        "issue": "Sanitation & Waste Management",
+        "location": "Ranaghat",
+        "severity": 7.7,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_746bf0",
+        "issue": "Women Safety & Crimes",
+        "location": "Ranaghat",
+        "severity": 10.0,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c314ea",
+        "issue": "Corruption & Bribery",
+        "location": "Ranaghat",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c63bfe",
+        "issue": "Healthcare Access & Services",
+        "location": "Ranaghat",
+        "severity": 9.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_746bf0",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 77,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_c63bfe",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_e8dca8",
+        "issue": "Education System Issues",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_563646",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_97d4b7",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 57,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_c314ea",
+        "issue": "Corruption & Bribery",
+        "activeDays": 48,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_70afac",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Women Security Cell + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_34ade4",
+        "issue": "Women Safety & Crimes",
+        "department": "Women Security Cell",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 40,
+      "pressure": 40,
+      "capacity": 60,
+      "status": "medium"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 14,
+      "pressure": 14,
+      "capacity": 86,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 13,
+      "pressure": 13,
+      "capacity": 87,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 10,
+      "pressure": 10,
+      "capacity": 90,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 97.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 93.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 87.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 75.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 65.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 57.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 25.3,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.57,
+      "medium_credibility_ratio": 0.14,
+      "low_credibility_ratio": 0.29,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": [
+        "Corruption & Bribery"
+      ]
+    }
+  }
+}

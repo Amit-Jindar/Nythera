@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Mandirbazar",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 55.5,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-12 05:38 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-19",
+        "sentiment": 64.9,
+        "rollingAverage": 64.9
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 46.1,
+        "rollingAverage": 55.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.72,
+        "confidence": 0.029
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.77,
+        "confidence": 0.311
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.34,
+        "confidence": 0.654
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.17,
+        "confidence": 0.007
+      }
+    ]
+  }
+}

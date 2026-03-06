@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Naoda",
+    "total_signals": 146,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_aa931f",
+        "issue": "Women Safety & Crimes",
+        "location": "Naoda",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_cfceb6",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Naoda",
+        "severity": 6.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a4faa6",
+        "issue": "Environmental Degradation",
+        "location": "Naoda",
+        "severity": 5.8,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_76c308",
+        "issue": "Sanitation & Waste Management",
+        "location": "Naoda",
+        "severity": 7.8,
+        "volume": 23,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c6ef75",
+        "issue": "Crime & Law and Order",
+        "location": "Naoda",
+        "severity": 9.9,
+        "volume": 59,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c1b34d",
+        "issue": "Corruption & Bribery",
+        "location": "Naoda",
+        "severity": 10.0,
+        "volume": 30,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1ce77f",
+        "issue": "Education System Issues",
+        "location": "Naoda",
+        "severity": 6.0,
+        "volume": 19,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_c1b34d",
+        "issue": "Corruption & Bribery",
+        "activeDays": 352,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_c6ef75",
+        "issue": "Crime & Law and Order",
+        "activeDays": 341,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_1ce77f",
+        "issue": "Education System Issues",
+        "activeDays": 321,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_9bf204",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 304,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_380a5c",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_76c308",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_a4faa6",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_cfceb6",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_aa931f",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Alipore",
+    "total_signals": 16,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 68.35,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-08 02:50 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-21",
+        "sentiment": 74.3,
+        "rollingAverage": 74.3
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 75.3,
+        "rollingAverage": 74.8
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 56.4,
+        "rollingAverage": 68.7
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 82.8,
+        "rollingAverage": 72.2
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 50.0,
+        "rollingAverage": 67.8
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 61.4,
+        "rollingAverage": 66.7
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 51.8,
+        "rollingAverage": 64.6
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 73.8,
+        "rollingAverage": 64.5
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 90.7,
+        "rollingAverage": 66.7
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 67.0,
+        "rollingAverage": 68.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.55,
+        "confidence": 0.022
+      },
+      {
+        "emotion": "Fear",
+        "value": 5.09,
+        "confidence": 0.204
+      },
+      {
+        "emotion": "Trust",
+        "value": 19.1,
+        "confidence": 0.764
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.26,
+        "confidence": 0.01
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_365049",
+        "issue": "Crime & Law and Order",
+        "location": "Alipore",
+        "severity": 10.0,
+        "volume": 12,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_81f850",
+        "issue": "Healthcare Access & Services",
+        "location": "Alipore",
+        "severity": 9.8,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_365049",
+        "issue": "Crime & Law and Order",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_81f850",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 42,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Health Department + Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 14,
+      "pressure": 14,
+      "capacity": 86,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 86.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 54.8,
+        "trend": "Stable",
+        "change": 0
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 62.6,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 1.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Healthcare Access & Services"
+      ],
+      "noise_issues": [],
+      "contested_issues": []
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Alipurduar",
+    "name": "Alipurduars",
+    "total_signals": 98,
+    "generated_at": "2026-01-19T19:16:47+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.67,
+      "medium_credibility_ratio": 0.17,
+      "low_credibility_ratio": 0.17,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery"
+      ],
+      "contested_issues": [
+        "Women Safety & Crimes"
+      ]
+    }
+  }
+}

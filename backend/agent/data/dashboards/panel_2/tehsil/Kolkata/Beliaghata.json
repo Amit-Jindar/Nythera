@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Beliaghata",
+    "total_signals": 14,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_d97a74",
+        "issue": "Crime & Law and Order",
+        "location": "Beliaghata",
+        "severity": 9.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_39ed91",
+        "issue": "Education System Issues",
+        "location": "Beliaghata",
+        "severity": 6.0,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_97d2c7",
+        "issue": "Sanitation & Waste Management",
+        "location": "Beliaghata",
+        "severity": 8.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3d8e52",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Beliaghata",
+        "severity": 6.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fb6b90",
+        "issue": "Corruption & Bribery",
+        "location": "Beliaghata",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_fb6b90",
+        "issue": "Corruption & Bribery",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_97d2c7",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_d97a74",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_39ed91",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_3d8e52",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

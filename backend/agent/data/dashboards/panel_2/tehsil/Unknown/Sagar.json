@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Sagar",
+    "total_signals": 8,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_17c2a1",
+        "issue": "Traffic & Road Safety",
+        "location": "Sagar",
+        "severity": 8.1,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_02589a",
+        "issue": "Healthcare Access & Services",
+        "location": "Sagar",
+        "severity": 9.4,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b79090",
+        "issue": "Crime & Law and Order",
+        "location": "Sagar",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_741a3d",
+        "issue": "Education System Issues",
+        "location": "Sagar",
+        "severity": 6.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_741a3d",
+        "issue": "Education System Issues",
+        "activeDays": 21,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_b79090",
+        "issue": "Crime & Law and Order",
+        "activeDays": 9,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_02589a",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_17c2a1",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

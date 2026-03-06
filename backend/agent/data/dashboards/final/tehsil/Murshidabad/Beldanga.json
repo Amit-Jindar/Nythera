@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Beldanga",
+    "total_signals": 2165,
+    "enriched_signals": 126,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:42.284520+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 46.21,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-07 12:42 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-26",
+        "sentiment": 41.5,
+        "rollingAverage": 41.5
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 43.8,
+        "rollingAverage": 42.6
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 47.3,
+        "rollingAverage": 44.2
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 47.1,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 57.6,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 45.0,
+        "rollingAverage": 47.0
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 46.5,
+        "rollingAverage": 47.0
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 37.3,
+        "rollingAverage": 46.4
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 43.8,
+        "rollingAverage": 46.4
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 45.4,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 45.3,
+        "rollingAverage": 45.8
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 42.6,
+        "rollingAverage": 43.7
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 44.5,
+        "rollingAverage": 43.6
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 39.5,
+        "rollingAverage": 42.6
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 39.9,
+        "rollingAverage": 43.0
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 44.7,
+        "rollingAverage": 43.1
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 38.5,
+        "rollingAverage": 42.1
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 35.9,
+        "rollingAverage": 40.8
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 69.8,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 41.7,
+        "rollingAverage": 44.3
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 47.4,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 34.5,
+        "rollingAverage": 44.6
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 84.1,
+        "rollingAverage": 50.3
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 45.3,
+        "rollingAverage": 51.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.04,
+        "confidence": 0.042
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.55,
+        "confidence": 0.062
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.26,
+        "confidence": 0.89
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.15,
+        "confidence": 0.006
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_ff4870",
+        "issue": "Crime & Law and Order",
+        "location": "Beldanga",
+        "severity": 9.9,
+        "volume": 51,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fbcf08",
+        "issue": "Corruption & Bribery",
+        "location": "Beldanga",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b37ffe",
+        "issue": "Healthcare Access & Services",
+        "location": "Beldanga",
+        "severity": 9.4,
+        "volume": 43,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_92c621",
+        "issue": "Traffic & Road Safety",
+        "location": "Beldanga",
+        "severity": 8.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_493f14",
+        "issue": "Public Transport Issues",
+        "location": "Beldanga",
+        "severity": 7.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_474581",
+        "issue": "Education System Issues",
+        "location": "Beldanga",
+        "severity": 5.9,
+        "volume": 14,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_cb1d29",
+        "issue": "Sanitation & Waste Management",
+        "location": "Beldanga",
+        "severity": 7.8,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_b37ffe",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 41,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_cb1d29",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 23,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_ff4870",
+        "issue": "Crime & Law and Order",
+        "activeDays": 21,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_474581",
+        "issue": "Education System Issues",
+        "activeDays": 12,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_493f14",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_92c621",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_fbcf08",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 2,
+      "zone": "Health Department + Police + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.08
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 50,
+      "pressure": 50,
+      "capacity": 50,
+      "status": "medium"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 41,
+      "pressure": 41,
+      "capacity": 59,
+      "status": "medium"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 13,
+      "pressure": 13,
+      "capacity": 87,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 10,
+      "pressure": 10,
+      "capacity": 90,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_8623ca",
+      "department": "Transport Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_8623ca",
+        "department": "Transport Department",
+        "trustScore": 97.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 95.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 95.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 74.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 66.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 6.0,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.57,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.43,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Public Transport Issues",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": []
+    }
+  }
+}

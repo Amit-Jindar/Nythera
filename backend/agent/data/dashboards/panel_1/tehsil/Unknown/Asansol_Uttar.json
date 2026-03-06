@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Asansol_Uttar",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 70.75,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-29 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-24",
+        "sentiment": 64.2,
+        "rollingAverage": 64.2
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 77.3,
+        "rollingAverage": 70.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 5.57,
+        "confidence": 0.223
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.95,
+        "confidence": 0.198
+      },
+      {
+        "emotion": "Trust",
+        "value": 14.1,
+        "confidence": 0.564
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.38,
+        "confidence": 0.015
+      }
+    ]
+  }
+}

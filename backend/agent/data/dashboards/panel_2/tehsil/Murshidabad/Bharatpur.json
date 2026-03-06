@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Bharatpur",
+    "total_signals": 140,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4c8fd3",
+        "issue": "Healthcare Access & Services",
+        "location": "Bharatpur",
+        "severity": 9.4,
+        "volume": 23,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_071b40",
+        "issue": "Women Safety & Crimes",
+        "location": "Bharatpur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_81b936",
+        "issue": "Crime & Law and Order",
+        "location": "Bharatpur",
+        "severity": 9.9,
+        "volume": 60,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_51ec7a",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bharatpur",
+        "severity": 7.8,
+        "volume": 28,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_118aba",
+        "issue": "Corruption & Bribery",
+        "location": "Bharatpur",
+        "severity": 10.0,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f774f5",
+        "issue": "Education System Issues",
+        "location": "Bharatpur",
+        "severity": 5.9,
+        "volume": 20,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_81b936",
+        "issue": "Crime & Law and Order",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f774f5",
+        "issue": "Education System Issues",
+        "activeDays": 68,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_51ec7a",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_118aba",
+        "issue": "Corruption & Bribery",
+        "activeDays": 42,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_4c8fd3",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_071b40",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

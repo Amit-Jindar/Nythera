@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Cooch Behar",
+    "name": "Mekliganj",
+    "total_signals": 407,
+    "enriched_signals": 60,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:27.721015+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 55.53,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-25 17:17 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-16",
+        "sentiment": 49.3,
+        "rollingAverage": 49.3
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 53.5,
+        "rollingAverage": 51.4
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 53.2,
+        "rollingAverage": 52.0
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 50.8,
+        "rollingAverage": 51.7
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 59.8,
+        "rollingAverage": 53.3
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 66.6,
+        "rollingAverage": 55.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.77,
+        "confidence": 0.031
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.01,
+        "confidence": 0.08
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.18,
+        "confidence": 0.887
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_0bd102",
+        "issue": "Healthcare Access & Services",
+        "location": "Mekliganj",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_79e99e",
+        "issue": "Crime & Law and Order",
+        "location": "Mekliganj",
+        "severity": 9.9,
+        "volume": 58,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_84e3b8",
+        "issue": "Education System Issues",
+        "location": "Mekliganj",
+        "severity": 5.8,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_79e99e",
+        "issue": "Crime & Law and Order",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_84e3b8",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_0bd102",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 69,
+      "pressure": 69,
+      "capacity": 31,
+      "status": "high"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 97.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 97.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 0,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.33,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.67,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": []
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Raiganj",
+    "district": "Uttar_Dinajpur",
+    "total_signals": 66,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 47.28,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-06 16:25 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-21",
+        "sentiment": 70.1,
+        "rollingAverage": 70.1
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 56.9,
+        "rollingAverage": 63.5
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 36.3,
+        "rollingAverage": 54.4
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 40.9,
+        "rollingAverage": 51.0
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 45.9,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 75.9,
+        "rollingAverage": 54.3
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 48.3,
+        "rollingAverage": 53.5
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 40.3,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 47.9,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 47.0,
+        "rollingAverage": 49.5
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 58.3,
+        "rollingAverage": 51.9
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 40.0,
+        "rollingAverage": 51.1
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 44.3,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 35.1,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 70.7,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 46.6,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 49.7,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 38.5,
+        "rollingAverage": 46.4
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 35.5,
+        "rollingAverage": 45.8
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 36.1,
+        "rollingAverage": 44.6
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 46.8,
+        "rollingAverage": 46.3
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 38.5,
+        "rollingAverage": 41.7
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 45.4,
+        "rollingAverage": 41.5
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 43.1,
+        "rollingAverage": 40.6
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 37.9,
+        "rollingAverage": 40.5
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 54.7,
+        "rollingAverage": 43.2
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 46.8,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 52.0,
+        "rollingAverage": 45.5
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 39.9,
+        "rollingAverage": 45.7
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 55.9,
+        "rollingAverage": 47.2
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 40.5,
+        "rollingAverage": 46.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.51,
+        "confidence": 0.021
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.63,
+        "confidence": 0.065
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.72,
+        "confidence": 0.909
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.14,
+        "confidence": 0.005
+      }
+    ]
+  }
+}

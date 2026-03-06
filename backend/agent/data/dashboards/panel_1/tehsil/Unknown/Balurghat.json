@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Balurghat",
+    "district": "Unknown",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 70.59,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-06 20:09 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-04",
+        "sentiment": 85.4,
+        "rollingAverage": 85.4
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 82.2,
+        "rollingAverage": 83.8
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 50.2,
+        "rollingAverage": 72.6
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 63.6,
+        "rollingAverage": 70.4
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 62.4,
+        "rollingAverage": 68.8
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 79.3,
+        "rollingAverage": 70.5
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 71.0,
+        "rollingAverage": 70.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.8,
+        "confidence": 0.072
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.05,
+        "confidence": 0.322
+      },
+      {
+        "emotion": "Trust",
+        "value": 14.66,
+        "confidence": 0.586
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.49,
+        "confidence": 0.02
+      }
+    ]
+  }
+}

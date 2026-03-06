@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Bangaon_Dakshin",
+    "district": "North_24_Parganas",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 45.8,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-03 15:20 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-21",
+        "sentiment": 39.7,
+        "rollingAverage": 39.7
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 43.3,
+        "rollingAverage": 41.5
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 41.8,
+        "rollingAverage": 41.6
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 45.2,
+        "rollingAverage": 42.5
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 36.4,
+        "rollingAverage": 41.3
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 68.4,
+        "rollingAverage": 45.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.49,
+        "confidence": 0.019
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.29,
+        "confidence": 0.052
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.18,
+        "confidence": 0.927
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

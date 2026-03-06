@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Alipore",
+    "total_signals": 231,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_365049",
+        "issue": "Crime & Law and Order",
+        "location": "Alipore",
+        "severity": 9.9,
+        "volume": 185,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_263d92",
+        "issue": "Sanitation & Waste Management",
+        "location": "Alipore",
+        "severity": 7.8,
+        "volume": 19,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ac0dba",
+        "issue": "Education System Issues",
+        "location": "Alipore",
+        "severity": 5.9,
+        "volume": 14,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_4727cc",
+        "issue": "Women Safety & Crimes",
+        "location": "Alipore",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_de1a58",
+        "issue": "Corruption & Bribery",
+        "location": "Alipore",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_81f850",
+        "issue": "Healthcare Access & Services",
+        "location": "Alipore",
+        "severity": 9.4,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_263d92",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 76,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_365049",
+        "issue": "Crime & Law and Order",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_de1a58",
+        "issue": "Corruption & Bribery",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_4727cc",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_ac0dba",
+        "issue": "Education System Issues",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_81f850",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 28,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

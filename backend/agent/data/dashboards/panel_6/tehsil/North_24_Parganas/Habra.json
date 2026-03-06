@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Habra",
+    "total_signals": 26,
+    "generated_at": "2026-01-19T19:16:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.75,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.25,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues"
+      ],
+      "noise_issues": [
+        "Sanitation & Waste Management"
+      ],
+      "contested_issues": []
+    }
+  }
+}

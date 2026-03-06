@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Kalighat",
+    "total_signals": 305,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_628978",
+        "issue": "Crime & Law and Order",
+        "location": "Kalighat",
+        "severity": 9.8,
+        "volume": 246,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1873d1",
+        "issue": "Environmental Degradation",
+        "location": "Kalighat",
+        "severity": 6.1,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_e63015",
+        "issue": "Women Safety & Crimes",
+        "location": "Kalighat",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_59c376",
+        "issue": "Corruption & Bribery",
+        "location": "Kalighat",
+        "severity": 10.0,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_7edde6",
+        "issue": "Sanitation & Waste Management",
+        "location": "Kalighat",
+        "severity": 7.8,
+        "volume": 21,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_09aa9f",
+        "issue": "Education System Issues",
+        "location": "Kalighat",
+        "severity": 5.8,
+        "volume": 15,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ebad55",
+        "issue": "Healthcare Access & Services",
+        "location": "Kalighat",
+        "severity": 9.4,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_628978",
+        "issue": "Crime & Law and Order",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_7edde6",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_09aa9f",
+        "issue": "Education System Issues",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_59c376",
+        "issue": "Corruption & Bribery",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_ebad55",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 63,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_e63015",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_1873d1",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

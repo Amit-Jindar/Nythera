@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Rejinagar",
+    "total_signals": 79,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_327834",
+        "issue": "Sanitation & Waste Management",
+        "location": "Rejinagar",
+        "severity": 7.8,
+        "volume": 12,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_572f59",
+        "issue": "Crime & Law and Order",
+        "location": "Rejinagar",
+        "severity": 9.9,
+        "volume": 49,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_7c8aed",
+        "issue": "Corruption & Bribery",
+        "location": "Rejinagar",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_72e9b5",
+        "issue": "Healthcare Access & Services",
+        "location": "Rejinagar",
+        "severity": 9.4,
+        "volume": 12,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_31dd23",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Rejinagar",
+        "severity": 7.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_624095",
+        "issue": "Education System Issues",
+        "location": "Rejinagar",
+        "severity": 5.9,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_572f59",
+        "issue": "Crime & Law and Order",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_72e9b5",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 16,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_624095",
+        "issue": "Education System Issues",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_327834",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 2,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_31dd23",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_7c8aed",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

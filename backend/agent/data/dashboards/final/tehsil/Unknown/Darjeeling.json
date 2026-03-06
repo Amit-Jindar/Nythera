@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Darjeeling",
+    "total_signals": 16,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 65.07,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-31 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-17",
+        "sentiment": 53.7,
+        "rollingAverage": 53.7
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 71.4,
+        "rollingAverage": 62.6
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 49.6,
+        "rollingAverage": 58.2
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 65.5,
+        "rollingAverage": 60.1
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 91.4,
+        "rollingAverage": 66.3
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 65.5,
+        "rollingAverage": 66.2
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 72.7,
+        "rollingAverage": 67.1
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 69.8,
+        "rollingAverage": 69.4
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 49.0,
+        "rollingAverage": 66.2
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 60.4,
+        "rollingAverage": 67.8
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 66.8,
+        "rollingAverage": 67.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.76,
+        "confidence": 0.03
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.84,
+        "confidence": 0.074
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.21,
+        "confidence": 0.889
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.19,
+        "confidence": 0.008
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_b10ecf",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Darjeeling",
+        "severity": 7.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_c186b2",
+        "issue": "Women Safety & Crimes",
+        "location": "Darjeeling",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3858f2",
+        "issue": "Crime & Law and Order",
+        "location": "Darjeeling",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_60e38f",
+        "issue": "Education System Issues",
+        "location": "Darjeeling",
+        "severity": 6.2,
+        "volume": 6,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8a0a08",
+        "issue": "Healthcare Access & Services",
+        "location": "Darjeeling",
+        "severity": 9.7,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_8a0a08",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_60e38f",
+        "issue": "Education System Issues",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_3858f2",
+        "issue": "Crime & Law and Order",
+        "activeDays": 36,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_b10ecf",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_c186b2",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Health Department + Police + Education Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 96.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 95.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 88.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 88.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 87.2,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 89.6,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.4,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.4,
+      "verified_issues": [
+        "Education System Issues",
+        "Healthcare Access & Services"
+      ],
+      "noise_issues": [
+        "Farmer & Agriculture Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

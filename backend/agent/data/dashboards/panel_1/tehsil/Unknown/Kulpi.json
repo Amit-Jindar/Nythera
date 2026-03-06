@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Kulpi",
+    "district": "Unknown",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 72.03,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-04 09:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-06",
+        "sentiment": 73.2,
+        "rollingAverage": 73.2
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 61.3,
+        "rollingAverage": 67.2
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 81.6,
+        "rollingAverage": 72.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.99,
+        "confidence": 0.119
+      },
+      {
+        "emotion": "Fear",
+        "value": 9.82,
+        "confidence": 0.393
+      },
+      {
+        "emotion": "Trust",
+        "value": 11.75,
+        "confidence": 0.47
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.44,
+        "confidence": 0.018
+      }
+    ]
+  }
+}

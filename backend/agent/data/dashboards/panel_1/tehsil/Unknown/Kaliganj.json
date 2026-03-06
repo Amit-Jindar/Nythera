@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Kaliganj",
+    "district": "Unknown",
+    "total_signals": 13,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 74.56,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-05 11:39 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-02",
+        "sentiment": 70.8,
+        "rollingAverage": 70.8
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 53.9,
+        "rollingAverage": 62.3
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 84.0,
+        "rollingAverage": 69.6
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 75.8,
+        "rollingAverage": 71.1
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 88.3,
+        "rollingAverage": 74.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.83,
+        "confidence": 0.073
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.69,
+        "confidence": 0.348
+      },
+      {
+        "emotion": "Trust",
+        "value": 13.98,
+        "confidence": 0.559
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.5,
+        "confidence": 0.02
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Bhabanipur",
+    "total_signals": 157,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_1bbe31",
+        "issue": "Crime & Law and Order",
+        "location": "Bhabanipur",
+        "severity": 9.9,
+        "volume": 107,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_771c37",
+        "issue": "Women Safety & Crimes",
+        "location": "Bhabanipur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_4c616a",
+        "issue": "Environmental Degradation",
+        "location": "Bhabanipur",
+        "severity": 6.2,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6db1de",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bhabanipur",
+        "severity": 7.8,
+        "volume": 25,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fa68c8",
+        "issue": "Corruption & Bribery",
+        "location": "Bhabanipur",
+        "severity": 10.0,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5df7f9",
+        "issue": "Healthcare Access & Services",
+        "location": "Bhabanipur",
+        "severity": 9.4,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9cccfe",
+        "issue": "Education System Issues",
+        "location": "Bhabanipur",
+        "severity": 5.8,
+        "volume": 5,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_1bbe31",
+        "issue": "Crime & Law and Order",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_fa68c8",
+        "issue": "Corruption & Bribery",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_5df7f9",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 74,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_6db1de",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_9cccfe",
+        "issue": "Education System Issues",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_771c37",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_4c616a",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

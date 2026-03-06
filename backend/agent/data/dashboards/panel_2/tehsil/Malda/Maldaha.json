@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Malda",
+    "name": "Maldaha",
+    "total_signals": 148,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_a2d1ff",
+        "issue": "Crime & Law and Order",
+        "location": "Maldaha",
+        "severity": 9.9,
+        "volume": 90,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_fcc901",
+        "issue": "Sanitation & Waste Management",
+        "location": "Maldaha",
+        "severity": 7.8,
+        "volume": 35,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3155c5",
+        "issue": "Corruption & Bribery",
+        "location": "Maldaha",
+        "severity": 10.0,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d7a69e",
+        "issue": "Healthcare Access & Services",
+        "location": "Maldaha",
+        "severity": 9.3,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_eb553c",
+        "issue": "Women Safety & Crimes",
+        "location": "Maldaha",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_bd0bbd",
+        "issue": "Education System Issues",
+        "location": "Maldaha",
+        "severity": 6.0,
+        "volume": 4,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_a2d1ff",
+        "issue": "Crime & Law and Order",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_fcc901",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_d7a69e",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_3155c5",
+        "issue": "Corruption & Bribery",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_bd0bbd",
+        "issue": "Education System Issues",
+        "activeDays": 68,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_eb553c",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

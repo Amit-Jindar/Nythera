@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba Medinipur",
+    "name": "Khejuri",
+    "total_signals": 263,
+    "enriched_signals": 16,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:27.786901+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 48.23,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-07 13:21 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-20",
+        "sentiment": 48.9,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 38.2,
+        "rollingAverage": 43.5
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 64.3,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 37.8,
+        "rollingAverage": 47.3
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 37.8,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 64.1,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 53.6,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 45.4,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 43.4,
+        "rollingAverage": 49.5
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 64.2,
+        "rollingAverage": 49.5
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 52.1,
+        "rollingAverage": 51.5
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 43.0,
+        "rollingAverage": 52.3
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 40.3,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 52.0,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 38.4,
+        "rollingAverage": 47.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.95,
+        "confidence": 0.038
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.56,
+        "confidence": 0.142
+      },
+      {
+        "emotion": "Trust",
+        "value": 20.46,
+        "confidence": 0.818
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_68cebc",
+        "issue": "Women Safety & Crimes",
+        "location": "Khejuri",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_68479e",
+        "issue": "Public Transport Issues",
+        "location": "Khejuri",
+        "severity": 7.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_cdc694",
+        "issue": "Education System Issues",
+        "location": "Khejuri",
+        "severity": 6.3,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e58a68",
+        "issue": "Crime & Law and Order",
+        "location": "Khejuri",
+        "severity": 9.9,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_e58a68",
+        "issue": "Crime & Law and Order",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_68479e",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_cdc694",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_68cebc",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 15,
+      "pressure": 15,
+      "capacity": 85,
+      "status": "nominal"
+    },
+    {
+      "id": "d_8623ca",
+      "department": "Transport Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 97.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_8623ca",
+        "department": "Transport Department",
+        "trustScore": 97.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 97.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 49.9,
+        "trend": "Stable",
+        "change": 0
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 58.8,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.25,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.75,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Public Transport Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": []
+    }
+  }
+}

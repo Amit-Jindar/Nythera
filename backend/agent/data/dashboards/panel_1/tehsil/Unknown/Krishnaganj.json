@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Krishnaganj",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 87.6,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-27 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-27",
+        "sentiment": 87.6,
+        "rollingAverage": 87.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 17.2,
+        "confidence": 0.688
+      },
+      {
+        "emotion": "Fear",
+        "value": 6.0,
+        "confidence": 0.24
+      },
+      {
+        "emotion": "Trust",
+        "value": 1.52,
+        "confidence": 0.061
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.28,
+        "confidence": 0.011
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Cooch_Behar",
+    "name": "Tufanganj",
+    "total_signals": 76,
+    "generated_at": "2026-01-19T19:07:13+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_b96774",
+        "issue": "Healthcare Access & Services",
+        "location": "Tufanganj",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a5dced",
+        "issue": "Crime & Law and Order",
+        "location": "Tufanganj",
+        "severity": 9.9,
+        "volume": 40,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_61544a",
+        "issue": "Sanitation & Waste Management",
+        "location": "Tufanganj",
+        "severity": 7.9,
+        "volume": 18,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_532027",
+        "issue": "Education System Issues",
+        "location": "Tufanganj",
+        "severity": 6.0,
+        "volume": 8,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b7edeb",
+        "issue": "Corruption & Bribery",
+        "location": "Tufanganj",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_815aaa",
+        "issue": "Women Safety & Crimes",
+        "location": "Tufanganj",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_a5dced",
+        "issue": "Crime & Law and Order",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_815aaa",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_61544a",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_b7edeb",
+        "issue": "Corruption & Bribery",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_532027",
+        "issue": "Education System Issues",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_b96774",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Howrah_Uttar",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:16:46+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.5,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [],
+      "noise_issues": [
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": [
+        "Traffic & Road Safety"
+      ]
+    }
+  }
+}

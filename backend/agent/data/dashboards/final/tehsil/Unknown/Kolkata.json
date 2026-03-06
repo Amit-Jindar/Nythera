@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Kolkata",
+    "total_signals": 16,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 68.96,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-10 02:04 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-28",
+        "sentiment": 88.8,
+        "rollingAverage": 88.8
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 60.3,
+        "rollingAverage": 74.5
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 35.6,
+        "rollingAverage": 61.6
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 67.6,
+        "rollingAverage": 63.1
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 75.8,
+        "rollingAverage": 65.6
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 83.7,
+        "rollingAverage": 68.6
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 94.3,
+        "rollingAverage": 72.3
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 49.5,
+        "rollingAverage": 66.7
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 48.6,
+        "rollingAverage": 65.0
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 73.5,
+        "rollingAverage": 70.4
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 56.4,
+        "rollingAverage": 68.8
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 93.0,
+        "rollingAverage": 71.3
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 75.3,
+        "rollingAverage": 70.1
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 63.0,
+        "rollingAverage": 65.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.96,
+        "confidence": 0.079
+      },
+      {
+        "emotion": "Fear",
+        "value": 6.17,
+        "confidence": 0.247
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.47,
+        "confidence": 0.659
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.4,
+        "confidence": 0.016
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_625ff8",
+        "issue": "Healthcare Access & Services",
+        "location": "Kolkata",
+        "severity": 9.8,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_f4d1c8",
+        "issue": "Crime & Law and Order",
+        "location": "Kolkata",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_750065",
+        "issue": "Corruption & Bribery",
+        "location": "Kolkata",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_625ff8",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_f4d1c8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 55,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_750065",
+        "issue": "Corruption & Bribery",
+        "activeDays": 52,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Health Department + Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.08
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 12,
+      "pressure": 12,
+      "capacity": 88,
+      "status": "nominal"
+    },
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 7,
+      "pressure": 7,
+      "capacity": 93,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 92.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 73.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 59.8,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 68.0,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.33,
+      "medium_credibility_ratio": 0.33,
+      "low_credibility_ratio": 0.33,
+      "verified_issues": [
+        "Healthcare Access & Services"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

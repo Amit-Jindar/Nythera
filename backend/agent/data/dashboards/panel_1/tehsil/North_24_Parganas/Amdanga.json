@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Amdanga",
+    "district": "North_24_Parganas",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 42.69,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-30 02:07 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-21",
+        "sentiment": 37.0,
+        "rollingAverage": 37.0
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 52.3,
+        "rollingAverage": 44.6
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 55.2,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 37.4,
+        "rollingAverage": 45.5
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 34.5,
+        "rollingAverage": 43.3
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 38.3,
+        "rollingAverage": 42.5
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 44.1,
+        "rollingAverage": 42.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.2,
+        "confidence": 0.008
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.54,
+        "confidence": 0.021
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.11,
+        "confidence": 0.964
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.16,
+        "confidence": 0.006
+      }
+    ]
+  }
+}

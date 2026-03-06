@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Siliguri",
+    "total_signals": 20,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_50e54e",
+        "issue": "Crime & Law and Order",
+        "location": "Siliguri",
+        "severity": 10.0,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_87ddcc",
+        "issue": "Healthcare Access & Services",
+        "location": "Siliguri",
+        "severity": 9.7,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d82b2a",
+        "issue": "Traffic & Road Safety",
+        "location": "Siliguri",
+        "severity": 8.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d477f9",
+        "issue": "Education System Issues",
+        "location": "Siliguri",
+        "severity": 6.5,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_87ddcc",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 45,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_50e54e",
+        "issue": "Crime & Law and Order",
+        "activeDays": 43,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_d477f9",
+        "issue": "Education System Issues",
+        "activeDays": 36,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_d82b2a",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 29,
+        "persistenceStatus": "stuck",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

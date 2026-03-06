@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Nandakumar",
+    "district": "Unknown",
+    "total_signals": 15,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 76.43,
+      "zone": "Stable",
+      "trend": "deteriorating",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-10 10:45 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-22",
+        "sentiment": 65.1,
+        "rollingAverage": 65.1
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 78.1,
+        "rollingAverage": 71.6
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 85.8,
+        "rollingAverage": 76.3
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 82.5,
+        "rollingAverage": 77.9
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 83.8,
+        "rollingAverage": 79.1
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 80.9,
+        "rollingAverage": 79.4
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 75.6,
+        "rollingAverage": 78.8
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 87.3,
+        "rollingAverage": 82.0
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 79.9,
+        "rollingAverage": 82.3
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 45.3,
+        "rollingAverage": 76.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 4.56,
+        "confidence": 0.182
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.39,
+        "confidence": 0.176
+      },
+      {
+        "emotion": "Trust",
+        "value": 15.72,
+        "confidence": 0.629
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.33,
+        "confidence": 0.013
+      }
+    ]
+  }
+}

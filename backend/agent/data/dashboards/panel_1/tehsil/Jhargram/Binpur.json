@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Binpur",
+    "district": "Jhargram",
+    "total_signals": 11,
+    "generated_at": "2026-01-19T19:05:24+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 48.95,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-04 05:39 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-21",
+        "sentiment": 46.8,
+        "rollingAverage": 46.8
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 67.7,
+        "rollingAverage": 57.2
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 43.3,
+        "rollingAverage": 52.6
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 38.0,
+        "rollingAverage": 49.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.43,
+        "confidence": 0.017
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.36,
+        "confidence": 0.054
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.17,
+        "confidence": 0.927
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

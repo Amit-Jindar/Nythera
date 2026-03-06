@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Islampur",
+    "district": "Uttar_Dinajpur",
+    "total_signals": 56,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 48.68,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-05 11:38 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-25",
+        "sentiment": 49.5,
+        "rollingAverage": 49.5
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 45.3,
+        "rollingAverage": 47.4
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 45.8,
+        "rollingAverage": 46.9
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 47.3,
+        "rollingAverage": 47.0
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 49.1,
+        "rollingAverage": 47.4
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 51.3,
+        "rollingAverage": 48.0
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 54.8,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 51.5,
+        "rollingAverage": 49.3
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 47.8,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 38.9,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 54.2,
+        "rollingAverage": 49.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.0,
+        "confidence": 0.04
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.43,
+        "confidence": 0.097
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.53,
+        "confidence": 0.861
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

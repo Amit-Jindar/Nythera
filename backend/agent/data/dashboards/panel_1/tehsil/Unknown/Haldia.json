@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Haldia",
+    "district": "Unknown",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 63.6,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-09 03:32 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-29",
+        "sentiment": 76.8,
+        "rollingAverage": 76.8
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 50.7,
+        "rollingAverage": 63.8
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 63.3,
+        "rollingAverage": 63.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.07,
+        "confidence": 0.003
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.08,
+        "confidence": 0.003
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.67,
+        "confidence": 0.987
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.18,
+        "confidence": 0.007
+      }
+    ]
+  }
+}

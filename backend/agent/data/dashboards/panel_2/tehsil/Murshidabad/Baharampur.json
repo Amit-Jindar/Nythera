@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Baharampur",
+    "total_signals": 45,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4c654d",
+        "issue": "Women Safety & Crimes",
+        "location": "Baharampur",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_11160d",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Baharampur",
+        "severity": 6.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d5135d",
+        "issue": "Crime & Law and Order",
+        "location": "Baharampur",
+        "severity": 9.9,
+        "volume": 27,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_021c58",
+        "issue": "Corruption & Bribery",
+        "location": "Baharampur",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e12b5d",
+        "issue": "Healthcare Access & Services",
+        "location": "Baharampur",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_725d24",
+        "issue": "Sanitation & Waste Management",
+        "location": "Baharampur",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5a5250",
+        "issue": "Education System Issues",
+        "location": "Baharampur",
+        "severity": 5.8,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d5135d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_725d24",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 24,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_5a5250",
+        "issue": "Education System Issues",
+        "activeDays": 19,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_e12b5d",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 6,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_021c58",
+        "issue": "Corruption & Bribery",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_4c654d",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_11160d",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

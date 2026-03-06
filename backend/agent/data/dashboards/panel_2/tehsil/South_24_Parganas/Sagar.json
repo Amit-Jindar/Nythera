@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Sagar",
+    "total_signals": 193,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_86111a",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Sagar",
+        "severity": 6.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_11315d",
+        "issue": "Environmental Degradation",
+        "location": "Sagar",
+        "severity": 5.7,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b79090",
+        "issue": "Crime & Law and Order",
+        "location": "Sagar",
+        "severity": 9.9,
+        "volume": 117,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_1bb737",
+        "issue": "Sanitation & Waste Management",
+        "location": "Sagar",
+        "severity": 7.8,
+        "volume": 27,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_17c2a1",
+        "issue": "Traffic & Road Safety",
+        "location": "Sagar",
+        "severity": 7.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_741a3d",
+        "issue": "Education System Issues",
+        "location": "Sagar",
+        "severity": 5.9,
+        "volume": 16,
+        "status": "resolving",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_894408",
+        "issue": "Corruption & Bribery",
+        "location": "Sagar",
+        "severity": 10.0,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_b79090",
+        "issue": "Crime & Law and Order",
+        "activeDays": 286,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_02589a",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 259,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_741a3d",
+        "issue": "Education System Issues",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_894408",
+        "issue": "Corruption & Bribery",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_1e3cb2",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_1bb737",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_17c2a1",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 9,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_11315d",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_86111a",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

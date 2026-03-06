@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Garden_Reach",
+    "district": "Kolkata",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 53.0,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-06 05:31 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-06",
+        "sentiment": 53.0,
+        "rollingAverage": 53.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.4,
+        "confidence": 0.016
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.41,
+        "confidence": 0.056
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.16,
+        "confidence": 0.926
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

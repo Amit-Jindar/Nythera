@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim Bardhaman",
+    "name": "Raniganj",
+    "total_signals": 217,
+    "enriched_signals": 15,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.262956+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 46.77,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-30 09:29 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-26",
+        "sentiment": 46.3,
+        "rollingAverage": 46.3
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 43.9,
+        "rollingAverage": 45.1
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 37.9,
+        "rollingAverage": 42.7
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 50.3,
+        "rollingAverage": 44.6
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 35.7,
+        "rollingAverage": 42.8
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 56.7,
+        "rollingAverage": 45.1
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 55.1,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 40.1,
+        "rollingAverage": 45.7
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 54.9,
+        "rollingAverage": 47.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.56,
+        "confidence": 0.023
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.71,
+        "confidence": 0.068
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.6,
+        "confidence": 0.904
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.13,
+        "confidence": 0.005
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_303489",
+        "issue": "Sanitation & Waste Management",
+        "location": "Raniganj",
+        "severity": 8.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_ee3ac8",
+        "issue": "Corruption & Bribery",
+        "location": "Raniganj",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_69699f",
+        "issue": "Women Safety & Crimes",
+        "location": "Raniganj",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b372ff",
+        "issue": "Education System Issues",
+        "location": "Raniganj",
+        "severity": 5.9,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_531748",
+        "issue": "Crime & Law and Order",
+        "location": "Raniganj",
+        "severity": 9.9,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_531748",
+        "issue": "Crime & Law and Order",
+        "activeDays": 57,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_69699f",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 2,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_303489",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_ee3ac8",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_b372ff",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 12,
+      "pressure": 12,
+      "capacity": 88,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 98.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 97.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 94.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 91.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 64.3,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 76.4,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.2,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.8,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Education System Issues",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": []
+    }
+  }
+}

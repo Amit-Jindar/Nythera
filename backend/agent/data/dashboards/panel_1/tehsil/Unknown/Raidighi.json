@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Raidighi",
+    "district": "Unknown",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 81.27,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-22 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-19",
+        "sentiment": 76.3,
+        "rollingAverage": 76.3
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 87.1,
+        "rollingAverage": 81.7
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 80.4,
+        "rollingAverage": 81.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.94,
+        "confidence": 0.077
+      },
+      {
+        "emotion": "Fear",
+        "value": 16.1,
+        "confidence": 0.644
+      },
+      {
+        "emotion": "Trust",
+        "value": 6.79,
+        "confidence": 0.271
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.17,
+        "confidence": 0.007
+      }
+    ]
+  }
+}

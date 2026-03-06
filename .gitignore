@@ -1,0 +1,18 @@
+# Python
+venv/
+venv310/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Build files
+dist/
+
+# Cache
+cache/

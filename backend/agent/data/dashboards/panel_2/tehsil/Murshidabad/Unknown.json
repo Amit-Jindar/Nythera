@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Unknown",
+    "total_signals": 27,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_397c0b",
+        "issue": "Healthcare Access & Services",
+        "location": "Unknown",
+        "severity": 9.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_aad5ac",
+        "issue": "Crime & Law and Order",
+        "location": "Unknown",
+        "severity": 9.9,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e0f048",
+        "issue": "Sanitation & Waste Management",
+        "location": "Unknown",
+        "severity": 7.9,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_233e86",
+        "issue": "Education System Issues",
+        "location": "Unknown",
+        "severity": 5.8,
+        "volume": 4,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1c9b3f",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Unknown",
+        "severity": 6.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_e0f048",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 56,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_aad5ac",
+        "issue": "Crime & Law and Order",
+        "activeDays": 54,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_1c9b3f",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 34,
+        "persistenceStatus": "stuck",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_233e86",
+        "issue": "Education System Issues",
+        "activeDays": 30,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_397c0b",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

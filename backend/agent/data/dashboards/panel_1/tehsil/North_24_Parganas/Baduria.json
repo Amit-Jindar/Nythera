@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Baduria",
+    "district": "North_24_Parganas",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 41.3,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-13 15:53 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-16",
+        "sentiment": 41.3,
+        "rollingAverage": 41.3
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 40.2,
+        "rollingAverage": 40.8
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 42.4,
+        "rollingAverage": 41.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.71,
+        "confidence": 0.028
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.68,
+        "confidence": 0.067
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.44,
+        "confidence": 0.898
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.17,
+        "confidence": 0.007
+      }
+    ]
+  }
+}

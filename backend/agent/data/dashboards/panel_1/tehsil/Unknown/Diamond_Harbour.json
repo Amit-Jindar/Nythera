@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Diamond_Harbour",
+    "district": "Unknown",
+    "total_signals": 9,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 82.16,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-23 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-14",
+        "sentiment": 88.0,
+        "rollingAverage": 88.0
+      },
+      {
+        "date": "2025-10-20",
+        "sentiment": 90.1,
+        "rollingAverage": 89.0
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 93.5,
+        "rollingAverage": 90.5
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 77.6,
+        "rollingAverage": 87.3
+      },
+      {
+        "date": "2025-11-15",
+        "sentiment": 83.0,
+        "rollingAverage": 86.4
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 62.2,
+        "rollingAverage": 82.4
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 72.5,
+        "rollingAverage": 81.0
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 87.4,
+        "rollingAverage": 80.9
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 85.1,
+        "rollingAverage": 80.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 4.81,
+        "confidence": 0.192
+      },
+      {
+        "emotion": "Fear",
+        "value": 5.6,
+        "confidence": 0.224
+      },
+      {
+        "emotion": "Trust",
+        "value": 14.13,
+        "confidence": 0.565
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.47,
+        "confidence": 0.019
+      }
+    ]
+  }
+}

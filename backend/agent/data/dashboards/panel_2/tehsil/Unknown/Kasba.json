@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Kasba",
+    "total_signals": 27,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_44f606",
+        "issue": "Corruption & Bribery",
+        "location": "Kasba",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5f5f21",
+        "issue": "Traffic & Road Safety",
+        "location": "Kasba",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_301627",
+        "issue": "Crime & Law and Order",
+        "location": "Kasba",
+        "severity": 10.0,
+        "volume": 21,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2f5276",
+        "issue": "Education System Issues",
+        "location": "Kasba",
+        "severity": 6.6,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_301627",
+        "issue": "Crime & Law and Order",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_2f5276",
+        "issue": "Education System Issues",
+        "activeDays": 42,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_5f5f21",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_44f606",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Cooch_Behar",
+    "name": "Dinhata",
+    "total_signals": 73,
+    "generated_at": "2026-01-19T19:16:44+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.38,
+      "medium_credibility_ratio": 0.12,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Public Transport Issues",
+        "Road & Infrastructure Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Healthcare Access & Services"
+      ]
+    }
+  }
+}

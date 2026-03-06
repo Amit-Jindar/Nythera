@@ -1,0 +1,413 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba Medinipur",
+    "name": "Moyna",
+    "total_signals": 358,
+    "enriched_signals": 29,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:27.781022+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 46.54,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-05 02:38 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-12",
+        "sentiment": 54.9,
+        "rollingAverage": 54.9
+      },
+      {
+        "date": "2025-10-14",
+        "sentiment": 48.1,
+        "rollingAverage": 51.5
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 35.2,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 39.5,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 38.9,
+        "rollingAverage": 43.3
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 38.6,
+        "rollingAverage": 42.5
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 45.3,
+        "rollingAverage": 42.9
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 86.8,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 48.0,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 40.5,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 41.8,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 53.1,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 34.4,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 43.9,
+        "rollingAverage": 49.8
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 44.5,
+        "rollingAverage": 43.7
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 45.1,
+        "rollingAverage": 43.3
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 44.5,
+        "rollingAverage": 43.9
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 69.7,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 54.7,
+        "rollingAverage": 48.1
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 44.0,
+        "rollingAverage": 49.5
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 41.8,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 35.7,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 41.5,
+        "rollingAverage": 47.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.95,
+        "confidence": 0.038
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.99,
+        "confidence": 0.079
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.03,
+        "confidence": 0.881
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4ae574",
+        "issue": "Crime & Law and Order",
+        "location": "Moyna",
+        "severity": 9.9,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ee663e",
+        "issue": "Sanitation & Waste Management",
+        "location": "Moyna",
+        "severity": 7.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a4b5af",
+        "issue": "Corruption & Bribery",
+        "location": "Moyna",
+        "severity": 10.0,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a83f1c",
+        "issue": "Women Safety & Crimes",
+        "location": "Moyna",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_35905a",
+        "issue": "Education System Issues",
+        "location": "Moyna",
+        "severity": 5.8,
+        "volume": 4,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_4ae574",
+        "issue": "Crime & Law and Order",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_a4b5af",
+        "issue": "Corruption & Bribery",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_a83f1c",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_35905a",
+        "issue": "Education System Issues",
+        "activeDays": 64,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_ee663e",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 12,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Education Department + Anti Corruption Bureau (ACB)",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_34ade4",
+        "issue": "Women Safety & Crimes",
+        "department": "Women Security Cell",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 14,
+      "pressure": 14,
+      "capacity": 86,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 9,
+      "pressure": 9,
+      "capacity": 91,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 95.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 92.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 82.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 70.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 58.3,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 72.5,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.6,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.2,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues"
+      ],
+      "noise_issues": [
+        "Sanitation & Waste Management"
+      ],
+      "contested_issues": [
+        "Women Safety & Crimes"
+      ]
+    }
+  }
+}

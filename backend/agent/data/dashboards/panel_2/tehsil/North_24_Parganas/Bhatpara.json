@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Bhatpara",
+    "total_signals": 28,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_aff31b",
+        "issue": "Corruption & Bribery",
+        "location": "Bhatpara",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6a30f7",
+        "issue": "Education System Issues",
+        "location": "Bhatpara",
+        "severity": 5.9,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6a8b87",
+        "issue": "Crime & Law and Order",
+        "location": "Bhatpara",
+        "severity": 9.9,
+        "volume": 23,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c48ac3",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bhatpara",
+        "severity": 7.8,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_6a8b87",
+        "issue": "Crime & Law and Order",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_c48ac3",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 19,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_6a30f7",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_aff31b",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim Medinipur",
+    "name": "Ghatal",
+    "total_signals": 610,
+    "enriched_signals": 61,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:15:46.099779+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 50.09,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-08 10:11 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-01-17",
+        "sentiment": 67.9,
+        "rollingAverage": 67.9
+      },
+      {
+        "date": "2025-01-18",
+        "sentiment": 62.3,
+        "rollingAverage": 65.1
+      },
+      {
+        "date": "2025-01-19",
+        "sentiment": 68.0,
+        "rollingAverage": 66.1
+      },
+      {
+        "date": "2025-02-18",
+        "sentiment": 34.9,
+        "rollingAverage": 58.3
+      },
+      {
+        "date": "2025-04-04",
+        "sentiment": 67.8,
+        "rollingAverage": 60.2
+      },
+      {
+        "date": "2025-04-05",
+        "sentiment": 44.7,
+        "rollingAverage": 57.6
+      },
+      {
+        "date": "2025-04-06",
+        "sentiment": 38.4,
+        "rollingAverage": 54.9
+      },
+      {
+        "date": "2025-04-07",
+        "sentiment": 81.7,
+        "rollingAverage": 56.8
+      },
+      {
+        "date": "2025-04-09",
+        "sentiment": 36.9,
+        "rollingAverage": 53.2
+      },
+      {
+        "date": "2025-09-06",
+        "sentiment": 55.6,
+        "rollingAverage": 51.4
+      },
+      {
+        "date": "2025-10-10",
+        "sentiment": 47.9,
+        "rollingAverage": 53.3
+      },
+      {
+        "date": "2025-10-12",
+        "sentiment": 37.6,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-10-15",
+        "sentiment": 43.4,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-10-16",
+        "sentiment": 50.4,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 51.2,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 37.4,
+        "rollingAverage": 46.2
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 57.8,
+        "rollingAverage": 46.5
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 53.2,
+        "rollingAverage": 47.3
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 74.0,
+        "rollingAverage": 52.5
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 49.1,
+        "rollingAverage": 53.3
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 46.2,
+        "rollingAverage": 52.7
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 64.4,
+        "rollingAverage": 54.6
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 38.3,
+        "rollingAverage": 54.7
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 39.5,
+        "rollingAverage": 52.1
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 39.8,
+        "rollingAverage": 50.2
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 55.6,
+        "rollingAverage": 47.6
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 44.2,
+        "rollingAverage": 46.9
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 52.5,
+        "rollingAverage": 47.8
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 36.5,
+        "rollingAverage": 43.8
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 40.5,
+        "rollingAverage": 44.1
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 45.3,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 36.5,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 44.6,
+        "rollingAverage": 42.9
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 42.1,
+        "rollingAverage": 42.6
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 55.4,
+        "rollingAverage": 43.0
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 38.9,
+        "rollingAverage": 43.3
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 45.0,
+        "rollingAverage": 44.0
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 60.0,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 69.6,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 36.9,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 47.4,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 58.6,
+        "rollingAverage": 50.9
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 64.7,
+        "rollingAverage": 54.6
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 41.1,
+        "rollingAverage": 54.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.98,
+        "confidence": 0.039
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.89,
+        "confidence": 0.076
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.95,
+        "confidence": 0.878
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.18,
+        "confidence": 0.007
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_3837ed",
+        "issue": "Women Safety & Crimes",
+        "location": "Ghatal",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b5bc49",
+        "issue": "Corruption & Bribery",
+        "location": "Ghatal",
+        "severity": 10.0,
+        "volume": 38,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c3a1c9",
+        "issue": "Crime & Law and Order",
+        "location": "Ghatal",
+        "severity": 9.9,
+        "volume": 17,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8a6fd9",
+        "issue": "Sanitation & Waste Management",
+        "location": "Ghatal",
+        "severity": 7.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b72ac6",
+        "issue": "Education System Issues",
+        "location": "Ghatal",
+        "severity": 5.9,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_b5bc49",
+        "issue": "Corruption & Bribery",
+        "activeDays": 341,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_c3a1c9",
+        "issue": "Crime & Law and Order",
+        "activeDays": 277,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b72ac6",
+        "issue": "Education System Issues",
+        "activeDays": 197,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_8a6fd9",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_3837ed",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Anti Corruption Bureau (ACB) + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 38,
+      "pressure": 38,
+      "capacity": 62,
+      "status": "nominal"
+    },
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 21,
+      "pressure": 21,
+      "capacity": 79,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 96.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 96.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 92.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 35.7,
+        "trend": "Stable",
+        "change": 0
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 6.8,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.4,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.4,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Sanitation & Waste Management"
+      ]
+    }
+  }
+}

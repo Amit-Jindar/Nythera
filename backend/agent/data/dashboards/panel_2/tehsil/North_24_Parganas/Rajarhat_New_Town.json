@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Rajarhat_New_Town",
+    "total_signals": 153,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4f5a48",
+        "issue": "Traffic & Road Safety",
+        "location": "Rajarhat New Town",
+        "severity": 7.7,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_229ad3",
+        "issue": "Crime & Law and Order",
+        "location": "Rajarhat New Town",
+        "severity": 9.9,
+        "volume": 100,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_939108",
+        "issue": "Environmental Degradation",
+        "location": "Rajarhat New Town",
+        "severity": 5.8,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6527eb",
+        "issue": "Sanitation & Waste Management",
+        "location": "Rajarhat New Town",
+        "severity": 7.8,
+        "volume": 19,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5cce7a",
+        "issue": "Corruption & Bribery",
+        "location": "Rajarhat New Town",
+        "severity": 10.0,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_33d1cf",
+        "issue": "Education System Issues",
+        "location": "Rajarhat New Town",
+        "severity": 6.0,
+        "volume": 15,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9a91bb",
+        "issue": "Healthcare Access & Services",
+        "location": "Rajarhat New Town",
+        "severity": 9.2,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_229ad3",
+        "issue": "Crime & Law and Order",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_6527eb",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_5cce7a",
+        "issue": "Corruption & Bribery",
+        "activeDays": 69,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_33d1cf",
+        "issue": "Education System Issues",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_9a91bb",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 57,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_4f5a48",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_939108",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

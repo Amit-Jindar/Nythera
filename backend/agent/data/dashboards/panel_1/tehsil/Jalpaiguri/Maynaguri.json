@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Maynaguri",
+    "district": "Jalpaiguri",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:29+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 34.2,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "HIGH",
+      "last_updated": "2025-10-16 08:40 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-16",
+        "sentiment": 34.2,
+        "rollingAverage": 34.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.09,
+        "confidence": 0.004
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.19,
+        "confidence": 0.008
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.67,
+        "confidence": 0.987
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Ashoknagar",
+    "district": "North_24_Parganas",
+    "total_signals": 45,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 44.29,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-09 09:54 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-31",
+        "sentiment": 42.8,
+        "rollingAverage": 42.8
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 42.2,
+        "rollingAverage": 42.5
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 47.4,
+        "rollingAverage": 44.1
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 48.9,
+        "rollingAverage": 45.3
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 47.7,
+        "rollingAverage": 45.8
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 38.0,
+        "rollingAverage": 44.5
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 38.6,
+        "rollingAverage": 43.7
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 42.0,
+        "rollingAverage": 43.5
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 38.9,
+        "rollingAverage": 43.1
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 40.9,
+        "rollingAverage": 42.1
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 61.4,
+        "rollingAverage": 43.9
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 54.4,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 36.6,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 53.3,
+        "rollingAverage": 46.8
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 37.1,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 38.4,
+        "rollingAverage": 46.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.63,
+        "confidence": 0.065
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.45,
+        "confidence": 0.058
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.87,
+        "confidence": 0.875
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

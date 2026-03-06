@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Malda",
+    "name": "Baishnabnagar",
+    "total_signals": 14,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_a71e98",
+        "issue": "Crime & Law and Order",
+        "location": "Baishnabnagar",
+        "severity": 9.8,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_56e85e",
+        "issue": "Women Safety & Crimes",
+        "location": "Baishnabnagar",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b3635c",
+        "issue": "Education System Issues",
+        "location": "Baishnabnagar",
+        "severity": 5.9,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_b3635c",
+        "issue": "Education System Issues",
+        "activeDays": 53,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_56e85e",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_a71e98",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      }
+    ]
+  }
+}

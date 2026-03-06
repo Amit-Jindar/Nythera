@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Kalyani",
+    "total_signals": 604,
+    "generated_at": "2026-01-19T19:16:47+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.6,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.2,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Public Transport Issues",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": [
+        "Environmental Degradation",
+        "Farmer & Agriculture Issues"
+      ]
+    }
+  }
+}

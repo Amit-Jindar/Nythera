@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Bankura",
+    "total_signals": 641,
+    "generated_at": "2026-01-19T18:35:10.763737+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_18c9d1",
+        "issue": "Corruption & Bribery",
+        "location": "Raipur",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_08f739",
+        "issue": "Healthcare Access & Services",
+        "location": "Raipur",
+        "severity": 9.2,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_9580c2",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Bankura",
+        "severity": 6.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_49f259",
+        "issue": "Traffic & Road Safety",
+        "location": "Bankura",
+        "severity": 7.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_93f2d1",
+        "issue": "Environmental Degradation",
+        "location": "Indus",
+        "severity": 6.7,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_467e9d",
+        "issue": "Crime & Law and Order",
+        "location": "Indus",
+        "severity": 9.9,
+        "volume": 121,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_58cac1",
+        "issue": "Corruption & Bribery",
+        "location": "Chhatna",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_0f1e5b",
+        "issue": "Education System Issues",
+        "activeDays": 299,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_5e6c3d",
+        "issue": "Education System Issues",
+        "activeDays": 285,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_e0f048",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 223,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_b3cb88",
+        "issue": "Crime & Law and Order",
+        "activeDays": 183,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_ffae16",
+        "issue": "Crime & Law and Order",
+        "activeDays": 181,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_49b106",
+        "issue": "Crime & Law and Order",
+        "activeDays": 160,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_456afa",
+        "issue": "Education System Issues",
+        "activeDays": 97,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_06145f",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_467e9d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_e25275",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_a09472",
+        "issue": "Corruption & Bribery",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_6c2bfa",
+        "issue": "Crime & Law and Order",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  }
+}

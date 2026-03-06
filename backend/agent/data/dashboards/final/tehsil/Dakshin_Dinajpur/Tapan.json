@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Dakshin Dinajpur",
+    "name": "Tapan",
+    "total_signals": 257,
+    "enriched_signals": 28,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:42.898784+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 45.95,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-05 16:52 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-18",
+        "sentiment": 51.7,
+        "rollingAverage": 51.7
+      },
+      {
+        "date": "2025-10-20",
+        "sentiment": 47.1,
+        "rollingAverage": 49.4
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 45.1,
+        "rollingAverage": 48.0
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 57.3,
+        "rollingAverage": 50.3
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 44.9,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 63.7,
+        "rollingAverage": 51.6
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 38.8,
+        "rollingAverage": 49.8
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 37.9,
+        "rollingAverage": 47.8
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 37.8,
+        "rollingAverage": 46.5
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 47.5,
+        "rollingAverage": 46.8
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 38.4,
+        "rollingAverage": 44.1
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 45.1,
+        "rollingAverage": 44.2
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 61.0,
+        "rollingAverage": 43.8
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 42.5,
+        "rollingAverage": 44.3
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 46.6,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 35.6,
+        "rollingAverage": 45.2
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 40.1,
+        "rollingAverage": 44.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.97,
+        "confidence": 0.159
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.54,
+        "confidence": 0.102
+      },
+      {
+        "emotion": "Trust",
+        "value": 18.46,
+        "confidence": 0.738
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4365df",
+        "issue": "Healthcare Access & Services",
+        "location": "Tapan",
+        "severity": 9.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_62167d",
+        "issue": "Traffic & Road Safety",
+        "location": "Tapan",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_712461",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Tapan",
+        "severity": 6.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3b5ef8",
+        "issue": "Crime & Law and Order",
+        "location": "Tapan",
+        "severity": 9.9,
+        "volume": 19,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_22f4ff",
+        "issue": "Education System Issues",
+        "location": "Tapan",
+        "severity": 5.9,
+        "volume": 5,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3b5ef8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_22f4ff",
+        "issue": "Education System Issues",
+        "activeDays": 61,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_712461",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_4365df",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_62167d",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police + Education Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 23,
+      "pressure": 23,
+      "capacity": 77,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 97.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 96.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 95.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 90.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 13.2,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 29.6,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.4,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.6,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Education System Issues"
+      ],
+      "noise_issues": [
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": []
+    }
+  }
+}

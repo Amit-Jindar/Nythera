@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Bhangar",
+    "total_signals": 296,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_89639e",
+        "issue": "Women Safety & Crimes",
+        "location": "Bhangar",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_cc6d75",
+        "issue": "Crime & Law and Order",
+        "location": "Bhangar",
+        "severity": 9.9,
+        "volume": 218,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ef7125",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Bhangar",
+        "severity": 8.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9c2308",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Bhangar",
+        "severity": 7.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_881fca",
+        "issue": "Environmental Degradation",
+        "location": "Bhangar",
+        "severity": 5.8,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_65400c",
+        "issue": "Healthcare Access & Services",
+        "location": "Bhangar",
+        "severity": 9.3,
+        "volume": 22,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f08cac",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bhangar",
+        "severity": 7.8,
+        "volume": 21,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_cc6d75",
+        "issue": "Crime & Law and Order",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_7f4da7",
+        "issue": "Education System Issues",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_625627",
+        "issue": "Corruption & Bribery",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_f08cac",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_65400c",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_ef7125",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      },
+      {
+        "id": "p_89639e",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_9c2308",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_881fca",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

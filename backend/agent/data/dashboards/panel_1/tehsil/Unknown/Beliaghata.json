@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Beliaghata",
+    "district": "Unknown",
+    "total_signals": 8,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 64.16,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-04 06:41 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-28",
+        "sentiment": 81.6,
+        "rollingAverage": 81.6
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 67.1,
+        "rollingAverage": 74.3
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 55.3,
+        "rollingAverage": 68.0
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 48.2,
+        "rollingAverage": 63.0
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 68.6,
+        "rollingAverage": 64.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.11,
+        "confidence": 0.084
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.69,
+        "confidence": 0.148
+      },
+      {
+        "emotion": "Trust",
+        "value": 18.42,
+        "confidence": 0.737
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.78,
+        "confidence": 0.031
+      }
+    ]
+  }
+}

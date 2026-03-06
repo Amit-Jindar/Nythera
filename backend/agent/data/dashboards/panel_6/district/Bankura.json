@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Bankura",
+    "total_signals": 641,
+    "generated_at": "2026-01-19T18:45:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.7,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.1,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Public Transport Issues"
+      ],
+      "contested_issues": [
+        "Environmental Degradation",
+        "Traffic & Road Safety"
+      ]
+    }
+  }
+}

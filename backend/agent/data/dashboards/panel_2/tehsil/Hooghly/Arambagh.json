@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Hooghly",
+    "name": "Arambagh",
+    "total_signals": 30,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_004c4a",
+        "issue": "Corruption & Bribery",
+        "location": "Arambagh",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e75f6d",
+        "issue": "Women Safety & Crimes",
+        "location": "Arambagh",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c4b9cf",
+        "issue": "Crime & Law and Order",
+        "location": "Arambagh",
+        "severity": 9.9,
+        "volume": 18,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_983d0c",
+        "issue": "Healthcare Access & Services",
+        "location": "Arambagh",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_36142c",
+        "issue": "Education System Issues",
+        "location": "Arambagh",
+        "severity": 6.0,
+        "volume": 4,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b3653f",
+        "issue": "Sanitation & Waste Management",
+        "location": "Arambagh",
+        "severity": 7.7,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_c4b9cf",
+        "issue": "Crime & Law and Order",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b3653f",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 69,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_36142c",
+        "issue": "Education System Issues",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_983d0c",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 32,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_e75f6d",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 6,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_004c4a",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

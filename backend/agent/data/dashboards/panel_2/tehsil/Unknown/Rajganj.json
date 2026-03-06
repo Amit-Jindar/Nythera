@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Rajganj",
+    "total_signals": 17,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_9c927a",
+        "issue": "Traffic & Road Safety",
+        "location": "Rajganj",
+        "severity": 8.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d1f0da",
+        "issue": "Crime & Law and Order",
+        "location": "Rajganj",
+        "severity": 10.0,
+        "volume": 14,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f07c06",
+        "issue": "Education System Issues",
+        "location": "Rajganj",
+        "severity": 6.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d1f0da",
+        "issue": "Crime & Law and Order",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f07c06",
+        "issue": "Education System Issues",
+        "activeDays": 32,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_9c927a",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

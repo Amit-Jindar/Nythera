@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Jorasanko",
+    "district": "Kolkata",
+    "total_signals": 18,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 47.02,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-29 15:28 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-01",
+        "sentiment": 37.5,
+        "rollingAverage": 37.5
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 49.7,
+        "rollingAverage": 43.6
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 42.8,
+        "rollingAverage": 43.3
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 69.8,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 39.3,
+        "rollingAverage": 47.8
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 43.0,
+        "rollingAverage": 47.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.53,
+        "confidence": 0.021
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.0,
+        "confidence": 0.04
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.35,
+        "confidence": 0.934
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.11,
+        "confidence": 0.005
+      }
+    ]
+  }
+}

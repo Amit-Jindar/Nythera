@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Nabagram",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 66.0,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-16 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-20",
+        "sentiment": 67.2,
+        "rollingAverage": 67.2
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 64.8,
+        "rollingAverage": 66.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.07,
+        "confidence": 0.003
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.61,
+        "confidence": 0.025
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.26,
+        "confidence": 0.97
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.06,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Sundarbans",
+    "total_signals": 32,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_0034aa",
+        "issue": "Women Safety & Crimes",
+        "location": "Sundarbans",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c064c8",
+        "issue": "Education System Issues",
+        "location": "Sundarbans",
+        "severity": 6.1,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e961c5",
+        "issue": "Crime & Law and Order",
+        "location": "Sundarbans",
+        "severity": 9.9,
+        "volume": 20,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_74a4c0",
+        "issue": "Sanitation & Waste Management",
+        "location": "Sundarbans",
+        "severity": 7.7,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b56d40",
+        "issue": "Corruption & Bribery",
+        "location": "Sundarbans",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_e961c5",
+        "issue": "Crime & Law and Order",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b56d40",
+        "issue": "Corruption & Bribery",
+        "activeDays": 77,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_74a4c0",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 68,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_0034aa",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_c064c8",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

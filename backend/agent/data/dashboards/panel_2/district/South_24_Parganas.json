@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "South_24_Parganas",
+    "total_signals": 1415,
+    "generated_at": "2026-01-19T18:35:10.351119+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_89639e",
+        "issue": "Women Safety & Crimes",
+        "location": "Bhangar",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_f6d1f3",
+        "issue": "Sanitation & Waste Management",
+        "location": "Falta",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_cc6d75",
+        "issue": "Crime & Law and Order",
+        "location": "Bhangar",
+        "severity": 9.9,
+        "volume": 218,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_276999",
+        "issue": "Crime & Law and Order",
+        "location": "Namkhana",
+        "severity": 9.9,
+        "volume": 45,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2b7626",
+        "issue": "Crime & Law and Order",
+        "location": "Basanti",
+        "severity": 9.9,
+        "volume": 190,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2c3df9",
+        "issue": "Corruption & Bribery",
+        "location": "Maheshtala",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_31152f",
+        "issue": "Women Safety & Crimes",
+        "location": "Budge Budge",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_b79090",
+        "issue": "Crime & Law and Order",
+        "activeDays": 286,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_02589a",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 259,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_971ffd",
+        "issue": "Crime & Law and Order",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_741a3d",
+        "issue": "Education System Issues",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_894408",
+        "issue": "Corruption & Bribery",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_cc6d75",
+        "issue": "Crime & Law and Order",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_2b7626",
+        "issue": "Crime & Law and Order",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_7f4da7",
+        "issue": "Education System Issues",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_6081f9",
+        "issue": "Crime & Law and Order",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_625627",
+        "issue": "Corruption & Bribery",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_f08cac",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_1e3cb2",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

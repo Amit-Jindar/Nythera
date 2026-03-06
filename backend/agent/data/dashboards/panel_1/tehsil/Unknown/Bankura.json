@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Bankura",
+    "district": "Unknown",
+    "total_signals": 12,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 78.5,
+      "zone": "Stable",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-02 14:26 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-29",
+        "sentiment": 71.7,
+        "rollingAverage": 71.7
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 78.9,
+        "rollingAverage": 75.3
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 86.5,
+        "rollingAverage": 79.0
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 86.2,
+        "rollingAverage": 80.8
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 68.8,
+        "rollingAverage": 78.4
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 67.5,
+        "rollingAverage": 76.6
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 76.4,
+        "rollingAverage": 76.6
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 85.8,
+        "rollingAverage": 78.6
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 87.6,
+        "rollingAverage": 79.8
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 75.6,
+        "rollingAverage": 78.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 5.41,
+        "confidence": 0.216
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.24,
+        "confidence": 0.289
+      },
+      {
+        "emotion": "Trust",
+        "value": 11.23,
+        "confidence": 0.449
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 1.12,
+        "confidence": 0.045
+      }
+    ]
+  }
+}

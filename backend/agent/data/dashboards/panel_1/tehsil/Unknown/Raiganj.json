@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Raiganj",
+    "district": "Unknown",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 66.83,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-02 21:18 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-27",
+        "sentiment": 77.8,
+        "rollingAverage": 77.8
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 64.7,
+        "rollingAverage": 71.2
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 60.4,
+        "rollingAverage": 67.6
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 64.7,
+        "rollingAverage": 66.9
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 47.3,
+        "rollingAverage": 63.0
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 77.9,
+        "rollingAverage": 65.5
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 75.0,
+        "rollingAverage": 66.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 5.5,
+        "confidence": 0.22
+      },
+      {
+        "emotion": "Fear",
+        "value": 5.76,
+        "confidence": 0.23
+      },
+      {
+        "emotion": "Trust",
+        "value": 13.26,
+        "confidence": 0.53
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.48,
+        "confidence": 0.019
+      }
+    ]
+  }
+}

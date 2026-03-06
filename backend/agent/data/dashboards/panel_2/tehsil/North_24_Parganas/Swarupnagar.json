@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Swarupnagar",
+    "total_signals": 395,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_dbc73a",
+        "issue": "Crime & Law and Order",
+        "location": "Swarupnagar",
+        "severity": 9.9,
+        "volume": 214,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e91f5b",
+        "issue": "Sanitation & Waste Management",
+        "location": "Swarupnagar",
+        "severity": 7.8,
+        "volume": 103,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_7ef8a0",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Swarupnagar",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2cde06",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Swarupnagar",
+        "severity": 6.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3e03d1",
+        "issue": "Environmental Degradation",
+        "location": "Swarupnagar",
+        "severity": 6.4,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ff3c0e",
+        "issue": "Corruption & Bribery",
+        "location": "Swarupnagar",
+        "severity": 10.0,
+        "volume": 26,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_96530c",
+        "issue": "Healthcare Access & Services",
+        "location": "Swarupnagar",
+        "severity": 9.3,
+        "volume": 22,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_dbc73a",
+        "issue": "Crime & Law and Order",
+        "activeDays": 62,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_e91f5b",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 51,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_ff3c0e",
+        "issue": "Corruption & Bribery",
+        "activeDays": 42,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_96530c",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 41,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_9b85cc",
+        "issue": "Education System Issues",
+        "activeDays": 40,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_f99bba",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_39446e",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 16,
+        "persistenceStatus": "recurring",
+        "department": "General Administration"
+      },
+      {
+        "id": "p_3e03d1",
+        "issue": "Environmental Degradation",
+        "activeDays": 2,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_7ef8a0",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      },
+      {
+        "id": "p_2cde06",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

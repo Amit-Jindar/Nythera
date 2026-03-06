@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Sandeshkhali",
+    "total_signals": 69,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 73.77,
+      "zone": "Stable",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-09 20:33 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-25",
+        "sentiment": 68.4,
+        "rollingAverage": 68.4
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 69.9,
+        "rollingAverage": 69.2
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 64.1,
+        "rollingAverage": 67.5
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 83.2,
+        "rollingAverage": 71.4
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 78.5,
+        "rollingAverage": 72.8
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 81.0,
+        "rollingAverage": 74.2
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 82.9,
+        "rollingAverage": 75.4
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 57.3,
+        "rollingAverage": 73.8
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 74.8,
+        "rollingAverage": 74.5
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 68.4,
+        "rollingAverage": 75.2
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 65.6,
+        "rollingAverage": 72.6
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 80.8,
+        "rollingAverage": 73.0
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 71.8,
+        "rollingAverage": 71.7
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 64.4,
+        "rollingAverage": 69.0
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 87.0,
+        "rollingAverage": 73.3
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 82.2,
+        "rollingAverage": 74.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 6.87,
+        "confidence": 0.275
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.31,
+        "confidence": 0.332
+      },
+      {
+        "emotion": "Trust",
+        "value": 9.37,
+        "confidence": 0.375
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.45,
+        "confidence": 0.018
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_ea3f53",
+        "issue": "Traffic & Road Safety",
+        "location": "Sandeshkhali",
+        "severity": 8.1,
+        "volume": 14,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_aeeb5a",
+        "issue": "Crime & Law and Order",
+        "location": "Sandeshkhali",
+        "severity": 10.0,
+        "volume": 55,
+        "status": "active",
+        "lifecycle": "stagnant"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_aeeb5a",
+        "issue": "Crime & Law and Order",
+        "activeDays": 45,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_ea3f53",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 7,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Traffic Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.1
+      },
+      {
+        "id": "e_f282bd",
+        "issue": "Traffic & Road Safety",
+        "department": "Traffic Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 61,
+      "pressure": 61,
+      "capacity": 39,
+      "status": "high"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 13,
+      "pressure": 13,
+      "capacity": 87,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 52.1,
+        "trend": "Stable",
+        "change": 0
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 0,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 1.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Traffic & Road Safety"
+      ],
+      "noise_issues": [],
+      "contested_issues": []
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Mathabhanga",
+    "district": "Cooch_Behar",
+    "total_signals": 15,
+    "generated_at": "2026-01-19T19:05:24+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.22,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-14 04:00 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-31",
+        "sentiment": 46.6,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 38.2,
+        "rollingAverage": 42.4
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 60.6,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 56.0,
+        "rollingAverage": 50.4
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 44.4,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 49.5,
+        "rollingAverage": 49.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.51,
+        "confidence": 0.02
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.75,
+        "confidence": 0.07
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.71,
+        "confidence": 0.908
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

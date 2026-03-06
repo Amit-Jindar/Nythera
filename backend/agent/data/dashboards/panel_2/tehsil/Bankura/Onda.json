@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Bankura",
+    "name": "Onda",
+    "total_signals": 172,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_c312dc",
+        "issue": "Public Transport Issues",
+        "location": "Onda",
+        "severity": 6.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b3cb88",
+        "issue": "Crime & Law and Order",
+        "location": "Onda",
+        "severity": 9.8,
+        "volume": 85,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_126a2d",
+        "issue": "Healthcare Access & Services",
+        "location": "Onda",
+        "severity": 9.4,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b909b0",
+        "issue": "Corruption & Bribery",
+        "location": "Onda",
+        "severity": 10.0,
+        "volume": 16,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_06145f",
+        "issue": "Sanitation & Waste Management",
+        "location": "Onda",
+        "severity": 7.8,
+        "volume": 25,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_453d80",
+        "issue": "Women Safety & Crimes",
+        "location": "Onda",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_0f1e5b",
+        "issue": "Education System Issues",
+        "location": "Onda",
+        "severity": 6.0,
+        "volume": 38,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_0f1e5b",
+        "issue": "Education System Issues",
+        "activeDays": 299,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_b3cb88",
+        "issue": "Crime & Law and Order",
+        "activeDays": 183,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_06145f",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_b909b0",
+        "issue": "Corruption & Bribery",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_126a2d",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 15,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_453d80",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_c312dc",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      }
+    ]
+  }
+}

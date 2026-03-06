@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Hooghly",
+    "total_signals": 36,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_b7c678",
+        "issue": "Education System Issues",
+        "location": "Hooghly",
+        "severity": 6.1,
+        "volume": 4,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_f321f9",
+        "issue": "Corruption & Bribery",
+        "location": "Hooghly",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_22a42e",
+        "issue": "Environmental Degradation",
+        "location": "Hooghly",
+        "severity": 6.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_5a1c42",
+        "issue": "Women Safety & Crimes",
+        "location": "Hooghly",
+        "severity": 10.0,
+        "volume": 16,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_6857bb",
+        "issue": "Crime & Law and Order",
+        "location": "Hooghly",
+        "severity": 10.0,
+        "volume": 14,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_6857bb",
+        "issue": "Crime & Law and Order",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_5a1c42",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 62,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_b7c678",
+        "issue": "Education System Issues",
+        "activeDays": 2,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_f321f9",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_22a42e",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

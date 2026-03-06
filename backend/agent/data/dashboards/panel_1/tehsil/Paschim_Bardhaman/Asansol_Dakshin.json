@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Asansol_Dakshin",
+    "district": "Paschim_Bardhaman",
+    "total_signals": 8,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 40.0,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-30 04:24 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-29",
+        "sentiment": 43.1,
+        "rollingAverage": 43.1
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 36.9,
+        "rollingAverage": 40.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.44,
+        "confidence": 0.018
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.31,
+        "confidence": 0.092
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.2,
+        "confidence": 0.888
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

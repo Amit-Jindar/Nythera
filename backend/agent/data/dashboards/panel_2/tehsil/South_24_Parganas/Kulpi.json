@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Kulpi",
+    "total_signals": 66,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_833f17",
+        "issue": "Traffic & Road Safety",
+        "location": "Kulpi",
+        "severity": 7.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_7238a1",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Kulpi",
+        "severity": 6.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_72a389",
+        "issue": "Corruption & Bribery",
+        "location": "Kulpi",
+        "severity": 10.0,
+        "volume": 16,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6081f9",
+        "issue": "Crime & Law and Order",
+        "location": "Kulpi",
+        "severity": 9.9,
+        "volume": 27,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d4906e",
+        "issue": "Education System Issues",
+        "location": "Kulpi",
+        "severity": 5.9,
+        "volume": 12,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_432f40",
+        "issue": "Healthcare Access & Services",
+        "location": "Kulpi",
+        "severity": 9.6,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8565fa",
+        "issue": "Sanitation & Waste Management",
+        "location": "Kulpi",
+        "severity": 7.9,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_6081f9",
+        "issue": "Crime & Law and Order",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_8565fa",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 62,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_72a389",
+        "issue": "Corruption & Bribery",
+        "activeDays": 47,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_d4906e",
+        "issue": "Education System Issues",
+        "activeDays": 37,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_432f40",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 12,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_833f17",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_7238a1",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

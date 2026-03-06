@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Santipur",
+    "total_signals": 240,
+    "generated_at": "2026-01-19T19:16:47+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.62,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.38,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Farmer & Agriculture Issues",
+        "Governance & Administrative Failure",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": []
+    }
+  }
+}

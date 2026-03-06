@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Nadia",
+    "total_signals": 11,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 60.85,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-08 07:13 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-04",
+        "sentiment": 49.2,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 52.0,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 75.0,
+        "rollingAverage": 58.7
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 64.7,
+        "rollingAverage": 60.2
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 66.5,
+        "rollingAverage": 61.5
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 50.2,
+        "rollingAverage": 59.6
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 44.8,
+        "rollingAverage": 57.5
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 83.0,
+        "rollingAverage": 62.3
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 50.1,
+        "rollingAverage": 62.0
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 73.0,
+        "rollingAverage": 61.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.6,
+        "confidence": 0.064
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.39,
+        "confidence": 0.056
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.62,
+        "confidence": 0.865
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.39,
+        "confidence": 0.015
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_1807b7",
+        "issue": "Corruption & Bribery",
+        "location": "Nadia",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1db5fe",
+        "issue": "Crime & Law and Order",
+        "location": "Nadia",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d6efb0",
+        "issue": "Healthcare Access & Services",
+        "location": "Nadia",
+        "severity": 9.7,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d6efb0",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 26,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_1db5fe",
+        "issue": "Crime & Law and Order",
+        "activeDays": 19,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_1807b7",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Health Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.07
+      },
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 11,
+      "pressure": 11,
+      "capacity": 89,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 96.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 89.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 66.7,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 75.7,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.33,
+      "medium_credibility_ratio": 0.33,
+      "low_credibility_ratio": 0.33,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery"
+      ],
+      "contested_issues": [
+        "Healthcare Access & Services"
+      ]
+    }
+  }
+}

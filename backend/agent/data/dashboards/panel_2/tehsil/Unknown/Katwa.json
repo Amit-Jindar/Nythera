@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Katwa",
+    "total_signals": 5,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_31ff71",
+        "issue": "Crime & Law and Order",
+        "location": "Katwa",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c6ca28",
+        "issue": "Healthcare Access & Services",
+        "location": "Katwa",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_c6ca28",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 36,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_31ff71",
+        "issue": "Crime & Law and Order",
+        "activeDays": 24,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      }
+    ]
+  }
+}

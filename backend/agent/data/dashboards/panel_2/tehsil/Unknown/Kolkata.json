@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Kolkata",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_625ff8",
+        "issue": "Healthcare Access & Services",
+        "location": "Kolkata",
+        "severity": 9.8,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_f4d1c8",
+        "issue": "Crime & Law and Order",
+        "location": "Kolkata",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_750065",
+        "issue": "Corruption & Bribery",
+        "location": "Kolkata",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_625ff8",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_f4d1c8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 55,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_750065",
+        "issue": "Corruption & Bribery",
+        "activeDays": 52,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

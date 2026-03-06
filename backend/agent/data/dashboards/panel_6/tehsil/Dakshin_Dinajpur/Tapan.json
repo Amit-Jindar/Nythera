@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Dakshin_Dinajpur",
+    "name": "Tapan",
+    "total_signals": 28,
+    "generated_at": "2026-01-19T19:16:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.4,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.6,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Education System Issues"
+      ],
+      "noise_issues": [
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": []
+    }
+  }
+}

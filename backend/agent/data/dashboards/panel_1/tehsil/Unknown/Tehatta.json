@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Tehatta",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 52.8,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-08 03:40 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2026-01-08",
+        "sentiment": 52.8,
+        "rollingAverage": 52.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.13,
+        "confidence": 0.005
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.12,
+        "confidence": 0.045
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.39,
+        "confidence": 0.935
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.36,
+        "confidence": 0.014
+      }
+    ]
+  }
+}

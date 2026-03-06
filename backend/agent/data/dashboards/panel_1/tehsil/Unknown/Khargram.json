@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Khargram",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 61.1,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-10-26 01:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-26",
+        "sentiment": 61.1,
+        "rollingAverage": 61.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 15.86,
+        "confidence": 0.634
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.43,
+        "confidence": 0.017
+      },
+      {
+        "emotion": "Trust",
+        "value": 8.4,
+        "confidence": 0.336
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.31,
+        "confidence": 0.013
+      }
+    ]
+  }
+}

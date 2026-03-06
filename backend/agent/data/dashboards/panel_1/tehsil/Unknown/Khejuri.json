@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Khejuri",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 79.3,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-21 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-27",
+        "sentiment": 85.7,
+        "rollingAverage": 85.7
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 72.9,
+        "rollingAverage": 79.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 10.75,
+        "confidence": 0.43
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.69,
+        "confidence": 0.027
+      },
+      {
+        "emotion": "Trust",
+        "value": 13.38,
+        "confidence": 0.535
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.19,
+        "confidence": 0.007
+      }
+    ]
+  }
+}

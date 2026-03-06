@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Bankura",
+    "total_signals": 12,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_49b106",
+        "issue": "Crime & Law and Order",
+        "location": "Bankura",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fa2d75",
+        "issue": "Corruption & Bribery",
+        "location": "Bankura",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5e6c3d",
+        "issue": "Education System Issues",
+        "location": "Bankura",
+        "severity": 6.7,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_49b106",
+        "issue": "Crime & Law and Order",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_5e6c3d",
+        "issue": "Education System Issues",
+        "activeDays": 55,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_fa2d75",
+        "issue": "Corruption & Bribery",
+        "activeDays": 40,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

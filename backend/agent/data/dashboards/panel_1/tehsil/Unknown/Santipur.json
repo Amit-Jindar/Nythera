@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Santipur",
+    "district": "Unknown",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 66.13,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-09 01:17 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-17",
+        "sentiment": 66.0,
+        "rollingAverage": 66.0
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 62.5,
+        "rollingAverage": 64.2
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 69.9,
+        "rollingAverage": 66.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.9,
+        "confidence": 0.036
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.53,
+        "confidence": 0.341
+      },
+      {
+        "emotion": "Trust",
+        "value": 14.99,
+        "confidence": 0.6
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.57,
+        "confidence": 0.023
+      }
+    ]
+  }
+}

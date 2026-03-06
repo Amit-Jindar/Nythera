@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Domjur",
+    "district": "Unknown",
+    "total_signals": 5,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 79.2,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-30 05:59 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-11",
+        "sentiment": 80.6,
+        "rollingAverage": 80.6
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 78.3,
+        "rollingAverage": 79.4
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 82.9,
+        "rollingAverage": 80.6
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 75.0,
+        "rollingAverage": 79.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 6.96,
+        "confidence": 0.279
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.06,
+        "confidence": 0.123
+      },
+      {
+        "emotion": "Trust",
+        "value": 14.15,
+        "confidence": 0.566
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.82,
+        "confidence": 0.033
+      }
+    ]
+  }
+}

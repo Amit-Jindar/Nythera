@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Nandakumar",
+    "district": "Purba_Medinipur",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:24+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 40.95,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-24 11:12 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-15",
+        "sentiment": 42.0,
+        "rollingAverage": 42.0
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 39.9,
+        "rollingAverage": 41.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.25,
+        "confidence": 0.01
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.23,
+        "confidence": 0.009
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.5,
+        "confidence": 0.98
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.02,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

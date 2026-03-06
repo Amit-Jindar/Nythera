@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Malda",
+    "name": "Chanchal",
+    "total_signals": 46,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_87bddd",
+        "issue": "Education System Issues",
+        "location": "Chanchal",
+        "severity": 5.9,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_1987b3",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Chanchal",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_32759f",
+        "issue": "Crime & Law and Order",
+        "location": "Chanchal",
+        "severity": 9.9,
+        "volume": 29,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_384eca",
+        "issue": "Corruption & Bribery",
+        "location": "Chanchal",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_7c3d72",
+        "issue": "Sanitation & Waste Management",
+        "location": "Chanchal",
+        "severity": 7.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_eb08c7",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Chanchal",
+        "severity": 7.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_620d04",
+        "issue": "Healthcare Access & Services",
+        "location": "Chanchal",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_32759f",
+        "issue": "Crime & Law and Order",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_620d04",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_384eca",
+        "issue": "Corruption & Bribery",
+        "activeDays": 46,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_7c3d72",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 40,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_eb08c7",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 38,
+        "persistenceStatus": "stuck",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_87bddd",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_1987b3",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      }
+    ]
+  }
+}

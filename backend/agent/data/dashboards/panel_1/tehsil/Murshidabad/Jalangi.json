@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Jalangi",
+    "district": "Murshidabad",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 39.0,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-03 09:43 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-03",
+        "sentiment": 39.0,
+        "rollingAverage": 39.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.18,
+        "confidence": 0.007
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.38,
+        "confidence": 0.015
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.42,
+        "confidence": 0.977
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.02,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Rajarhat_New_Town",
+    "district": "Unknown",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 70.4,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-27 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-07",
+        "sentiment": 88.8,
+        "rollingAverage": 88.8
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 67.5,
+        "rollingAverage": 78.2
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 58.5,
+        "rollingAverage": 71.6
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 66.8,
+        "rollingAverage": 70.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.96,
+        "confidence": 0.118
+      },
+      {
+        "emotion": "Fear",
+        "value": 6.71,
+        "confidence": 0.268
+      },
+      {
+        "emotion": "Trust",
+        "value": 15.08,
+        "confidence": 0.603
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.25,
+        "confidence": 0.01
+      }
+    ]
+  }
+}

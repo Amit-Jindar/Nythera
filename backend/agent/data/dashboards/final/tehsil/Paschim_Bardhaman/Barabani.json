@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim Bardhaman",
+    "name": "Barabani",
+    "total_signals": 224,
+    "enriched_signals": 16,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.272775+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.03,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-19 12:03 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-27",
+        "sentiment": 48.2,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 51.0,
+        "rollingAverage": 49.6
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 44.9,
+        "rollingAverage": 48.0
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 40.1,
+        "rollingAverage": 46.0
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 76.8,
+        "rollingAverage": 52.2
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 40.5,
+        "rollingAverage": 50.2
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 42.8,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 50.8,
+        "rollingAverage": 49.6
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 47.0,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 42.2,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 55.0,
+        "rollingAverage": 50.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.67,
+        "confidence": 0.027
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.89,
+        "confidence": 0.076
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.34,
+        "confidence": 0.894
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.09,
+        "confidence": 0.004
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f5c3a1",
+        "issue": "Traffic & Road Safety",
+        "location": "Barabani",
+        "severity": 7.5,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_3f4fe6",
+        "issue": "Healthcare Access & Services",
+        "location": "Barabani",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b9210c",
+        "issue": "Education System Issues",
+        "location": "Barabani",
+        "severity": 6.2,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_69c421",
+        "issue": "Crime & Law and Order",
+        "location": "Barabani",
+        "severity": 9.9,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_391322",
+        "issue": "Corruption & Bribery",
+        "location": "Barabani",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_69c421",
+        "issue": "Crime & Law and Order",
+        "activeDays": 52,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_391322",
+        "issue": "Corruption & Bribery",
+        "activeDays": 25,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_b9210c",
+        "issue": "Education System Issues",
+        "activeDays": 2,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_f5c3a1",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_3f4fe6",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 10,
+      "pressure": 10,
+      "capacity": 90,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 97.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 96.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 95.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 93.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 67.2,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 79.5,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.2,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.8,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Traffic & Road Safety"
+      ],
+      "contested_issues": []
+    }
+  }
+}

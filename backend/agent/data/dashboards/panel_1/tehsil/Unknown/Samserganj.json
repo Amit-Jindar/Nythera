@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Samserganj",
+    "district": "Unknown",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 69.2,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-24 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-02",
+        "sentiment": 71.1,
+        "rollingAverage": 71.1
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 70.2,
+        "rollingAverage": 70.7
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 66.3,
+        "rollingAverage": 69.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.13,
+        "confidence": 0.125
+      },
+      {
+        "emotion": "Fear",
+        "value": 15.8,
+        "confidence": 0.632
+      },
+      {
+        "emotion": "Trust",
+        "value": 5.86,
+        "confidence": 0.235
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.21,
+        "confidence": 0.008
+      }
+    ]
+  }
+}

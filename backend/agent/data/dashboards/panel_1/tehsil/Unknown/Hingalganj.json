@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Hingalganj",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 81.5,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-10-25 01:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-25",
+        "sentiment": 81.5,
+        "rollingAverage": 81.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.4,
+        "confidence": 0.056
+      },
+      {
+        "emotion": "Fear",
+        "value": 22.55,
+        "confidence": 0.902
+      },
+      {
+        "emotion": "Trust",
+        "value": 0.9,
+        "confidence": 0.036
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.15,
+        "confidence": 0.006
+      }
+    ]
+  }
+}

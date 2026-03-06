@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Hingalganj",
+    "total_signals": 122,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_c7444b",
+        "issue": "Crime & Law and Order",
+        "location": "Hingalganj",
+        "severity": 9.9,
+        "volume": 64,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_52372e",
+        "issue": "Sanitation & Waste Management",
+        "location": "Hingalganj",
+        "severity": 7.8,
+        "volume": 27,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_0583c4",
+        "issue": "Traffic & Road Safety",
+        "location": "Hingalganj",
+        "severity": 7.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6dac71",
+        "issue": "Education System Issues",
+        "location": "Hingalganj",
+        "severity": 5.9,
+        "volume": 20,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b18474",
+        "issue": "Women Safety & Crimes",
+        "location": "Hingalganj",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9aaf1a",
+        "issue": "Corruption & Bribery",
+        "location": "Hingalganj",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_391cb2",
+        "issue": "Healthcare Access & Services",
+        "location": "Hingalganj",
+        "severity": 9.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_c7444b",
+        "issue": "Crime & Law and Order",
+        "activeDays": 61,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_6dac71",
+        "issue": "Education System Issues",
+        "activeDays": 57,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_9aaf1a",
+        "issue": "Corruption & Bribery",
+        "activeDays": 53,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_391cb2",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 32,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_52372e",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 24,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_b18474",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 22,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_0583c4",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

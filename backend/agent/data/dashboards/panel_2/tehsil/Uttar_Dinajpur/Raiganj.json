@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Uttar_Dinajpur",
+    "name": "Raiganj",
+    "total_signals": 66,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_9c25d2",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Raiganj",
+        "severity": 7.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_3075ea",
+        "issue": "Traffic & Road Safety",
+        "location": "Raiganj",
+        "severity": 8.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_284b19",
+        "issue": "Crime & Law and Order",
+        "location": "Raiganj",
+        "severity": 9.9,
+        "volume": 18,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_201a05",
+        "issue": "Education System Issues",
+        "location": "Raiganj",
+        "severity": 5.9,
+        "volume": 30,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c30a6f",
+        "issue": "Sanitation & Waste Management",
+        "location": "Raiganj",
+        "severity": 7.8,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_757e42",
+        "issue": "Healthcare Access & Services",
+        "location": "Raiganj",
+        "severity": 9.5,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_201a05",
+        "issue": "Education System Issues",
+        "activeDays": 76,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_757e42",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 63,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_c30a6f",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 60,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_284b19",
+        "issue": "Crime & Law and Order",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_9c25d2",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_3075ea",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

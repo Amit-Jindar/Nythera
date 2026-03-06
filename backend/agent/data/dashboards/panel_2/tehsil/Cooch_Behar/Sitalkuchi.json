@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Cooch_Behar",
+    "name": "Sitalkuchi",
+    "total_signals": 19,
+    "generated_at": "2026-01-19T19:07:13+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_3486de",
+        "issue": "Corruption & Bribery",
+        "location": "Sitalkuchi",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_51b586",
+        "issue": "Crime & Law and Order",
+        "location": "Sitalkuchi",
+        "severity": 9.9,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2de268",
+        "issue": "Sanitation & Waste Management",
+        "location": "Sitalkuchi",
+        "severity": 7.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_80811e",
+        "issue": "Education System Issues",
+        "location": "Sitalkuchi",
+        "severity": 6.1,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_51b586",
+        "issue": "Crime & Law and Order",
+        "activeDays": 55,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_80811e",
+        "issue": "Education System Issues",
+        "activeDays": 15,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_2de268",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 8,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_3486de",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Durgapur_Paschim",
+    "district": "Unknown",
+    "total_signals": 83,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 70.54,
+      "zone": "Stable",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-27 20:03 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-13",
+        "sentiment": 73.5,
+        "rollingAverage": 73.5
+      },
+      {
+        "date": "2025-10-14",
+        "sentiment": 67.4,
+        "rollingAverage": 70.5
+      },
+      {
+        "date": "2025-10-15",
+        "sentiment": 63.7,
+        "rollingAverage": 68.2
+      },
+      {
+        "date": "2025-10-16",
+        "sentiment": 62.5,
+        "rollingAverage": 66.8
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 85.8,
+        "rollingAverage": 70.6
+      },
+      {
+        "date": "2025-10-18",
+        "sentiment": 76.0,
+        "rollingAverage": 71.5
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 63.8,
+        "rollingAverage": 70.4
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 66.0,
+        "rollingAverage": 69.3
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 70.8,
+        "rollingAverage": 69.8
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 74.8,
+        "rollingAverage": 71.4
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 67.4,
+        "rollingAverage": 72.1
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 69.5,
+        "rollingAverage": 69.8
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 73.1,
+        "rollingAverage": 69.3
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 75.6,
+        "rollingAverage": 71.0
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 68.2,
+        "rollingAverage": 71.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.67,
+        "confidence": 0.147
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.33,
+        "confidence": 0.173
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.63,
+        "confidence": 0.665
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.37,
+        "confidence": 0.015
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "English_Bazar",
+    "district": "Malda",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:29+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 48.4,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-10-24 13:06 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-24",
+        "sentiment": 48.4,
+        "rollingAverage": 48.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.53,
+        "confidence": 0.021
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.52,
+        "confidence": 0.061
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.92,
+        "confidence": 0.917
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

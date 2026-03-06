@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba_Bardhaman",
+    "name": "Katwa",
+    "total_signals": 56,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_31ff71",
+        "issue": "Crime & Law and Order",
+        "location": "Katwa",
+        "severity": 9.9,
+        "volume": 29,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c6ca28",
+        "issue": "Healthcare Access & Services",
+        "location": "Katwa",
+        "severity": 9.4,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ebfc9f",
+        "issue": "Education System Issues",
+        "location": "Katwa",
+        "severity": 5.9,
+        "volume": 10,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_31a685",
+        "issue": "Corruption & Bribery",
+        "location": "Katwa",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c086e5",
+        "issue": "Sanitation & Waste Management",
+        "location": "Katwa",
+        "severity": 7.8,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_31ff71",
+        "issue": "Crime & Law and Order",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_c086e5",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_31a685",
+        "issue": "Corruption & Bribery",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_ebfc9f",
+        "issue": "Education System Issues",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_c6ca28",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 17,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

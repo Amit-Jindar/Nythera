@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Shyampur",
+    "total_signals": 10,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 66.77,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-10 19:04 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-18",
+        "sentiment": 68.5,
+        "rollingAverage": 68.5
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 82.1,
+        "rollingAverage": 75.3
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 55.7,
+        "rollingAverage": 68.8
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 37.4,
+        "rollingAverage": 60.9
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 79.7,
+        "rollingAverage": 64.7
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 77.2,
+        "rollingAverage": 66.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.83,
+        "confidence": 0.153
+      },
+      {
+        "emotion": "Fear",
+        "value": 10.54,
+        "confidence": 0.422
+      },
+      {
+        "emotion": "Trust",
+        "value": 10.32,
+        "confidence": 0.413
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.3,
+        "confidence": 0.012
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_49f5c8",
+        "issue": "Traffic & Road Safety",
+        "location": "Shyampur",
+        "severity": 8.1,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_3c1ea8",
+        "issue": "Crime & Law and Order",
+        "location": "Shyampur",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "stagnant"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3c1ea8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_49f5c8",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "Police + Traffic Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.07
+      },
+      {
+        "id": "e_f282bd",
+        "issue": "Traffic & Road Safety",
+        "department": "Traffic Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 10,
+      "pressure": 10,
+      "capacity": 90,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 91.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 66.0,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 73.8,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.5,
+      "medium_credibility_ratio": 0.5,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [],
+      "contested_issues": [
+        "Traffic & Road Safety"
+      ]
+    }
+  }
+}

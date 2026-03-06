@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Gosaba",
+    "total_signals": 249,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_971ffd",
+        "issue": "Crime & Law and Order",
+        "location": "Gosaba",
+        "severity": 9.9,
+        "volume": 135,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b7d84a",
+        "issue": "Public Transport Issues",
+        "location": "Gosaba",
+        "severity": 6.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_407538",
+        "issue": "Sanitation & Waste Management",
+        "location": "Gosaba",
+        "severity": 7.8,
+        "volume": 40,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d6f6f1",
+        "issue": "Corruption & Bribery",
+        "location": "Gosaba",
+        "severity": 10.0,
+        "volume": 33,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_289edd",
+        "issue": "Education System Issues",
+        "location": "Gosaba",
+        "severity": 5.9,
+        "volume": 28,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_133356",
+        "issue": "Healthcare Access & Services",
+        "location": "Gosaba",
+        "severity": 9.5,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_df7fde",
+        "issue": "Women Safety & Crimes",
+        "location": "Gosaba",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_971ffd",
+        "issue": "Crime & Law and Order",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_289edd",
+        "issue": "Education System Issues",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_d6f6f1",
+        "issue": "Corruption & Bribery",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_df7fde",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 60,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_407538",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 56,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_973515",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 30,
+        "persistenceStatus": "stuck",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_133356",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 29,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_b7d84a",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      }
+    ]
+  }
+}

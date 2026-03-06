@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba_Bardhaman",
+    "name": "Galsi",
+    "total_signals": 34,
+    "generated_at": "2026-01-19T19:16:46+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 1.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [],
+      "contested_issues": []
+    }
+  }
+}

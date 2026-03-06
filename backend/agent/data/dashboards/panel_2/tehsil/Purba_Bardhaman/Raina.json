@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba_Bardhaman",
+    "name": "Raina",
+    "total_signals": 446,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_e73587",
+        "issue": "Crime & Law and Order",
+        "location": "Raina",
+        "severity": 9.9,
+        "volume": 189,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f18f2d",
+        "issue": "Sanitation & Waste Management",
+        "location": "Raina",
+        "severity": 7.8,
+        "volume": 33,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5a2fd2",
+        "issue": "Education System Issues",
+        "location": "Raina",
+        "severity": 6.0,
+        "volume": 130,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3aaef9",
+        "issue": "Corruption & Bribery",
+        "location": "Raina",
+        "severity": 10.0,
+        "volume": 65,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ab8df2",
+        "issue": "Women Safety & Crimes",
+        "location": "Raina",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e9022e",
+        "issue": "Healthcare Access & Services",
+        "location": "Raina",
+        "severity": 9.4,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f13d4b",
+        "issue": "Traffic & Road Safety",
+        "location": "Raina",
+        "severity": 7.4,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3aaef9",
+        "issue": "Corruption & Bribery",
+        "activeDays": 350,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_e73587",
+        "issue": "Crime & Law and Order",
+        "activeDays": 326,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_e9022e",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 321,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_ae2990",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 284,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_5a2fd2",
+        "issue": "Education System Issues",
+        "activeDays": 273,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_f18f2d",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_f13d4b",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 52,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_ab8df2",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 35,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

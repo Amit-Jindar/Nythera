@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Beldanga",
+    "total_signals": 126,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_ff4870",
+        "issue": "Crime & Law and Order",
+        "location": "Beldanga",
+        "severity": 9.9,
+        "volume": 51,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fbcf08",
+        "issue": "Corruption & Bribery",
+        "location": "Beldanga",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b37ffe",
+        "issue": "Healthcare Access & Services",
+        "location": "Beldanga",
+        "severity": 9.4,
+        "volume": 43,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_92c621",
+        "issue": "Traffic & Road Safety",
+        "location": "Beldanga",
+        "severity": 8.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_493f14",
+        "issue": "Public Transport Issues",
+        "location": "Beldanga",
+        "severity": 7.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_474581",
+        "issue": "Education System Issues",
+        "location": "Beldanga",
+        "severity": 5.9,
+        "volume": 14,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_cb1d29",
+        "issue": "Sanitation & Waste Management",
+        "location": "Beldanga",
+        "severity": 7.8,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_b37ffe",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 41,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_cb1d29",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 23,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_ff4870",
+        "issue": "Crime & Law and Order",
+        "activeDays": 21,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_474581",
+        "issue": "Education System Issues",
+        "activeDays": 12,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_493f14",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_92c621",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_fbcf08",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

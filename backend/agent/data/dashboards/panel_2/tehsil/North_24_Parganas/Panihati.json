@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Panihati",
+    "total_signals": 66,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_17f57f",
+        "issue": "Education System Issues",
+        "location": "Panihati",
+        "severity": 5.8,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_871c6e",
+        "issue": "Sanitation & Waste Management",
+        "location": "Panihati",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6752c6",
+        "issue": "Healthcare Access & Services",
+        "location": "Panihati",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_108b53",
+        "issue": "Crime & Law and Order",
+        "location": "Panihati",
+        "severity": 9.9,
+        "volume": 56,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e35f5c",
+        "issue": "Environmental Degradation",
+        "location": "Panihati",
+        "severity": 5.8,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_108b53",
+        "issue": "Crime & Law and Order",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_871c6e",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 3,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_17f57f",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_6752c6",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_e35f5c",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

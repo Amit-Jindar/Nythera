@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Karimpur",
+    "district": "Nadia",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 47.8,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-29 15:09 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-15",
+        "sentiment": 46.1,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 49.5,
+        "rollingAverage": 47.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.39,
+        "confidence": 0.016
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.85,
+        "confidence": 0.034
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.7,
+        "confidence": 0.948
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.06,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

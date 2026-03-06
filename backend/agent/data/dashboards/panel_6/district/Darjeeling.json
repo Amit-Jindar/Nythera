@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Darjeeling",
+    "total_signals": 1215,
+    "generated_at": "2026-01-19T18:45:46+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.73,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.27,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Traffic & Road Safety",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Environmental Degradation",
+        "Governance & Administrative Failure",
+        "Water Supply Disruption"
+      ],
+      "contested_issues": []
+    }
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Bankura",
+    "total_signals": 12,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 78.5,
+      "zone": "Stable",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-02 14:26 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-29",
+        "sentiment": 71.7,
+        "rollingAverage": 71.7
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 78.9,
+        "rollingAverage": 75.3
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 86.5,
+        "rollingAverage": 79.0
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 86.2,
+        "rollingAverage": 80.8
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 68.8,
+        "rollingAverage": 78.4
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 67.5,
+        "rollingAverage": 76.6
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 76.4,
+        "rollingAverage": 76.6
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 85.8,
+        "rollingAverage": 78.6
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 87.6,
+        "rollingAverage": 79.8
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 75.6,
+        "rollingAverage": 78.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 5.41,
+        "confidence": 0.216
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.24,
+        "confidence": 0.289
+      },
+      {
+        "emotion": "Trust",
+        "value": 11.23,
+        "confidence": 0.449
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 1.12,
+        "confidence": 0.045
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_49b106",
+        "issue": "Crime & Law and Order",
+        "location": "Bankura",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fa2d75",
+        "issue": "Corruption & Bribery",
+        "location": "Bankura",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5e6c3d",
+        "issue": "Education System Issues",
+        "location": "Bankura",
+        "severity": 6.7,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_49b106",
+        "issue": "Crime & Law and Order",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_5e6c3d",
+        "issue": "Education System Issues",
+        "activeDays": 55,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_fa2d75",
+        "issue": "Corruption & Bribery",
+        "activeDays": 40,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Anti Corruption Bureau (ACB) + Police + Education Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 8,
+      "pressure": 8,
+      "capacity": 92,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 93.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 81.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 70.6,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 78.9,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 1.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [],
+      "noise_issues": [],
+      "contested_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues"
+      ]
+    }
+  }
+}

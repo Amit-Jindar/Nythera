@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Pandabeswar",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 66.5,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-04 09:01 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-23",
+        "sentiment": 55.2,
+        "rollingAverage": 55.2
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 77.8,
+        "rollingAverage": 66.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.0,
+        "confidence": 0.08
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.65,
+        "confidence": 0.186
+      },
+      {
+        "emotion": "Trust",
+        "value": 17.92,
+        "confidence": 0.717
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.43,
+        "confidence": 0.017
+      }
+    ]
+  }
+}

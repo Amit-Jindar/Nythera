@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Harirampur",
+    "district": "Dakshin_Dinajpur",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 51.0,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-25 08:48 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-19",
+        "sentiment": 44.4,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 57.6,
+        "rollingAverage": 51.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.94,
+        "confidence": 0.038
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.12,
+        "confidence": 0.125
+      },
+      {
+        "emotion": "Trust",
+        "value": 20.89,
+        "confidence": 0.836
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

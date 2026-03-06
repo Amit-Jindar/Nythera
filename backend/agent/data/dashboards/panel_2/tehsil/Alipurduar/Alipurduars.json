@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Alipurduar",
+    "name": "Alipurduars",
+    "total_signals": 98,
+    "generated_at": "2026-01-19T19:07:17+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_ef78b5",
+        "issue": "Crime & Law and Order",
+        "location": "Alipurduars",
+        "severity": 9.9,
+        "volume": 72,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_62660f",
+        "issue": "Education System Issues",
+        "location": "Alipurduars",
+        "severity": 5.9,
+        "volume": 6,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d534aa",
+        "issue": "Sanitation & Waste Management",
+        "location": "Alipurduars",
+        "severity": 7.8,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_48e0cd",
+        "issue": "Women Safety & Crimes",
+        "location": "Alipurduars",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_182ac7",
+        "issue": "Corruption & Bribery",
+        "location": "Alipurduars",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_eecd4a",
+        "issue": "Healthcare Access & Services",
+        "location": "Alipurduars",
+        "severity": 9.5,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_ef78b5",
+        "issue": "Crime & Law and Order",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_d534aa",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_eecd4a",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_48e0cd",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 29,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_62660f",
+        "issue": "Education System Issues",
+        "activeDays": 27,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_182ac7",
+        "issue": "Corruption & Bribery",
+        "activeDays": 21,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

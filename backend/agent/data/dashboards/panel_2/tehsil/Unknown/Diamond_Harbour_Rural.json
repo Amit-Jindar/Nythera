@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Diamond_Harbour_Rural",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_e3629a",
+        "issue": "Crime & Law and Order",
+        "location": "Diamond Harbour Rural",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_e3629a",
+        "issue": "Crime & Law and Order",
+        "activeDays": 33,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      }
+    ]
+  }
+}

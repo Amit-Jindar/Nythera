@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Onda",
+    "total_signals": 8,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_b3cb88",
+        "issue": "Crime & Law and Order",
+        "location": "Onda",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_126a2d",
+        "issue": "Healthcare Access & Services",
+        "location": "Onda",
+        "severity": 9.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_126a2d",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 33,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_b3cb88",
+        "issue": "Crime & Law and Order",
+        "activeDays": 4,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      }
+    ]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Uttar Dinajpur",
+    "name": "Islampur",
+    "total_signals": 499,
+    "enriched_signals": 56,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:17:19.493279+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 48.68,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-05 11:38 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-25",
+        "sentiment": 49.5,
+        "rollingAverage": 49.5
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 45.3,
+        "rollingAverage": 47.4
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 45.8,
+        "rollingAverage": 46.9
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 47.3,
+        "rollingAverage": 47.0
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 49.1,
+        "rollingAverage": 47.4
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 51.3,
+        "rollingAverage": 48.0
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 54.8,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 51.5,
+        "rollingAverage": 49.3
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 47.8,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 38.9,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 54.2,
+        "rollingAverage": 49.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.0,
+        "confidence": 0.04
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.43,
+        "confidence": 0.097
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.53,
+        "confidence": 0.861
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_236f95",
+        "issue": "Healthcare Access & Services",
+        "location": "Islampur",
+        "severity": 9.5,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_2fc3b9",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Islampur",
+        "severity": 8.1,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_bf113d",
+        "issue": "Crime & Law and Order",
+        "location": "Islampur",
+        "severity": 9.9,
+        "volume": 37,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_410b2e",
+        "issue": "Environmental Degradation",
+        "location": "Islampur",
+        "severity": 6.1,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e26920",
+        "issue": "Sanitation & Waste Management",
+        "location": "Islampur",
+        "severity": 7.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_df8327",
+        "issue": "Women Safety & Crimes",
+        "location": "Islampur",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b2b922",
+        "issue": "Education System Issues",
+        "location": "Islampur",
+        "severity": 5.8,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_df8327",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_bf113d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b2b922",
+        "issue": "Education System Issues",
+        "activeDays": 41,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_e26920",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 10,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_236f95",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_2fc3b9",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      },
+      {
+        "id": "p_410b2e",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Women Security Cell + Police + Health Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_34ade4",
+        "issue": "Women Safety & Crimes",
+        "department": "Women Security Cell",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 47,
+      "pressure": 47,
+      "capacity": 53,
+      "status": "medium"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 9,
+      "pressure": 9,
+      "capacity": 91,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_0ce2a8",
+      "department": "Public Works Department (PWD)",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_309201",
+      "department": "Environment Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_309201",
+        "department": "Environment Department",
+        "trustScore": 97.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_0ce2a8",
+        "department": "Public Works Department (PWD)",
+        "trustScore": 96.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 96.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 92.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 82.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 74.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 15.8,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.29,
+      "medium_credibility_ratio": 0.29,
+      "low_credibility_ratio": 0.43,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Healthcare Access & Services"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Environmental Degradation",
+        "Road & Infrastructure Issues"
+      ],
+      "contested_issues": [
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ]
+    }
+  }
+}

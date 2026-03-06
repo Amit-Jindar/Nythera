@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Natabari",
+    "district": "Cooch_Behar",
+    "total_signals": 12,
+    "generated_at": "2026-01-19T19:05:24+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 46.25,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-19 17:02 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-12",
+        "sentiment": 46.8,
+        "rollingAverage": 46.8
+      },
+      {
+        "date": "2025-10-15",
+        "sentiment": 51.5,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 46.8,
+        "rollingAverage": 48.4
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 38.3,
+        "rollingAverage": 45.8
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 44.8,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 49.3,
+        "rollingAverage": 46.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.67,
+        "confidence": 0.027
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.06,
+        "confidence": 0.162
+      },
+      {
+        "emotion": "Trust",
+        "value": 20.24,
+        "confidence": 0.809
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

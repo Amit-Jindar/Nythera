@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Barrackpore",
+    "total_signals": 84,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_31639c",
+        "issue": "Women Safety & Crimes",
+        "location": "Barrackpore",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a1ca2d",
+        "issue": "Environmental Degradation",
+        "location": "Barrackpore",
+        "severity": 6.0,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a9b407",
+        "issue": "Crime & Law and Order",
+        "location": "Barrackpore",
+        "severity": 9.9,
+        "volume": 44,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c8bf1f",
+        "issue": "Sanitation & Waste Management",
+        "location": "Barrackpore",
+        "severity": 7.8,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_be7215",
+        "issue": "Healthcare Access & Services",
+        "location": "Barrackpore",
+        "severity": 9.3,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ed3355",
+        "issue": "Education System Issues",
+        "location": "Barrackpore",
+        "severity": 6.0,
+        "volume": 13,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_4987af",
+        "issue": "Corruption & Bribery",
+        "location": "Barrackpore",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_4987af",
+        "issue": "Corruption & Bribery",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_a9b407",
+        "issue": "Crime & Law and Order",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_ed3355",
+        "issue": "Education System Issues",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_be7215",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 38,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_c8bf1f",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 24,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_a1ca2d",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_31639c",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

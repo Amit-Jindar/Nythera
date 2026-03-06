@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Purba_Medinipur",
+    "total_signals": 310,
+    "generated_at": "2026-01-19T18:35:10.748053+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_042a13",
+        "issue": "Corruption & Bribery",
+        "location": "Haldia",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_ed1030",
+        "issue": "Crime & Law and Order",
+        "location": "Nandigram",
+        "severity": 9.9,
+        "volume": 169,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e160fb",
+        "issue": "Women Safety & Crimes",
+        "location": "Nandigram",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_68cebc",
+        "issue": "Women Safety & Crimes",
+        "location": "Khejuri",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_7ac21b",
+        "issue": "Women Safety & Crimes",
+        "location": "Patashpur",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a47073",
+        "issue": "Healthcare Access & Services",
+        "location": "Tamluk",
+        "severity": 9.5,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_68479e",
+        "issue": "Public Transport Issues",
+        "location": "Khejuri",
+        "severity": 7.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_4ae574",
+        "issue": "Crime & Law and Order",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_7d63ee",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_ed1030",
+        "issue": "Crime & Law and Order",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_24f33e",
+        "issue": "Education System Issues",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_e58a68",
+        "issue": "Crime & Law and Order",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_a40ea2",
+        "issue": "Crime & Law and Order",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f14d75",
+        "issue": "Corruption & Bribery",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_1de357",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_a4b5af",
+        "issue": "Corruption & Bribery",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_a6ff08",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_a83f1c",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_e511ff",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Baharampur",
+    "total_signals": 465,
+    "enriched_signals": 45,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:42.303318+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 50.29,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-28 12:27 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-08",
+        "sentiment": 53.9,
+        "rollingAverage": 53.9
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 44.9,
+        "rollingAverage": 49.4
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 39.4,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 45.7,
+        "rollingAverage": 46.0
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 43.0,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 39.6,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 55.1,
+        "rollingAverage": 45.9
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 89.3,
+        "rollingAverage": 51.0
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 48.1,
+        "rollingAverage": 51.5
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 41.0,
+        "rollingAverage": 51.7
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 49.4,
+        "rollingAverage": 52.2
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 50.2,
+        "rollingAverage": 53.2
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 63.8,
+        "rollingAverage": 56.7
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 40.0,
+        "rollingAverage": 54.5
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 65.0,
+        "rollingAverage": 51.1
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 51.5,
+        "rollingAverage": 51.6
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 35.0,
+        "rollingAverage": 50.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.96,
+        "confidence": 0.039
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.7,
+        "confidence": 0.108
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.3,
+        "confidence": 0.852
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_4c654d",
+        "issue": "Women Safety & Crimes",
+        "location": "Baharampur",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_11160d",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Baharampur",
+        "severity": 6.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d5135d",
+        "issue": "Crime & Law and Order",
+        "location": "Baharampur",
+        "severity": 9.9,
+        "volume": 27,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_021c58",
+        "issue": "Corruption & Bribery",
+        "location": "Baharampur",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e12b5d",
+        "issue": "Healthcare Access & Services",
+        "location": "Baharampur",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_725d24",
+        "issue": "Sanitation & Waste Management",
+        "location": "Baharampur",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5a5250",
+        "issue": "Education System Issues",
+        "location": "Baharampur",
+        "severity": 5.8,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d5135d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_725d24",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 24,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_5a5250",
+        "issue": "Education System Issues",
+        "activeDays": 19,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_e12b5d",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 6,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_021c58",
+        "issue": "Corruption & Bribery",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_4c654d",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_11160d",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Women Security Cell + Police + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_34ade4",
+        "issue": "Women Safety & Crimes",
+        "department": "Women Security Cell",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 29,
+      "pressure": 29,
+      "capacity": 71,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 8,
+      "pressure": 8,
+      "capacity": 92,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 97.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 96.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 93.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 93.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 88.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 76.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 22.4,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.43,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.57,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Education System Issues",
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": []
+    }
+  }
+}

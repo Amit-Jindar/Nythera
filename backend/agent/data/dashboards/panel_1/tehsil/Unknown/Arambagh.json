@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Arambagh",
+    "district": "Unknown",
+    "total_signals": 8,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 59.17,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-08 22:37 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-02",
+        "sentiment": 48.7,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 40.4,
+        "rollingAverage": 44.5
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 83.9,
+        "rollingAverage": 57.7
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 49.7,
+        "rollingAverage": 55.7
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 52.4,
+        "rollingAverage": 55.0
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 79.9,
+        "rollingAverage": 59.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.3,
+        "confidence": 0.092
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.34,
+        "confidence": 0.094
+      },
+      {
+        "emotion": "Trust",
+        "value": 20.16,
+        "confidence": 0.807
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.2,
+        "confidence": 0.008
+      }
+    ]
+  }
+}

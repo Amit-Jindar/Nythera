@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South 24 Parganas",
+    "name": "Diamond Harbour",
+    "total_signals": 438,
+    "enriched_signals": 35,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.225952+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 53.18,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-01 14:37 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-17",
+        "sentiment": 36.3,
+        "rollingAverage": 36.3
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 41.6,
+        "rollingAverage": 39.0
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 53.9,
+        "rollingAverage": 43.9
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 44.3,
+        "rollingAverage": 44.0
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 40.6,
+        "rollingAverage": 43.3
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 42.8,
+        "rollingAverage": 43.2
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 42.1,
+        "rollingAverage": 43.1
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 73.9,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-11-15",
+        "sentiment": 84.3,
+        "rollingAverage": 54.6
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 46.6,
+        "rollingAverage": 53.5
+      },
+      {
+        "date": "2025-12-01",
+        "sentiment": 34.4,
+        "rollingAverage": 52.1
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 87.5,
+        "rollingAverage": 58.8
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 81.6,
+        "rollingAverage": 64.3
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 40.3,
+        "rollingAverage": 64.1
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 47.5,
+        "rollingAverage": 60.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.47,
+        "confidence": 0.019
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.49,
+        "confidence": 0.06
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.97,
+        "confidence": 0.919
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.06,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_19bc54",
+        "issue": "Education System Issues",
+        "location": "Diamond Harbour",
+        "severity": 6.0,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_78c333",
+        "issue": "Environmental Degradation",
+        "location": "Diamond Harbour",
+        "severity": 6.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b650eb",
+        "issue": "Crime & Law and Order",
+        "location": "Diamond Harbour",
+        "severity": 9.8,
+        "volume": 22,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_535a5a",
+        "issue": "Sanitation & Waste Management",
+        "location": "Diamond Harbour",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3afd93",
+        "issue": "Corruption & Bribery",
+        "location": "Diamond Harbour",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3afd93",
+        "issue": "Corruption & Bribery",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_b650eb",
+        "issue": "Crime & Law and Order",
+        "activeDays": 63,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_535a5a",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 32,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_78c333",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_19bc54",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Anti Corruption Bureau (ACB) + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 24,
+      "pressure": 24,
+      "capacity": 76,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_309201",
+      "department": "Environment Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_309201",
+        "department": "Environment Department",
+        "trustScore": 97.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 96.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 88.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 82.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 23.2,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 40.6,
+      "trend": "Stable",
+      "change": 0.0,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.6,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.4,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Education System Issues",
+        "Environmental Degradation"
+      ],
+      "contested_issues": []
+    }
+  }
+}

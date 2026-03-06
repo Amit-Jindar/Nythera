@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Kashipur-Belgachhia",
+    "total_signals": 24,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_44d858",
+        "issue": "Corruption & Bribery",
+        "location": "Kashipur-Belgachhia",
+        "severity": 10.0,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_2107ef",
+        "issue": "Sanitation & Waste Management",
+        "location": "Kashipur-Belgachhia",
+        "severity": 7.8,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_04a224",
+        "issue": "Education System Issues",
+        "location": "Kashipur-Belgachhia",
+        "severity": 5.8,
+        "volume": 7,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_d0093b",
+        "issue": "Healthcare Access & Services",
+        "location": "Kashipur-Belgachhia",
+        "severity": 9.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3be826",
+        "issue": "Traffic & Road Safety",
+        "location": "Kashipur-Belgachhia",
+        "severity": 7.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ec5e93",
+        "issue": "Crime & Law and Order",
+        "location": "Kashipur-Belgachhia",
+        "severity": 9.8,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_ec5e93",
+        "issue": "Crime & Law and Order",
+        "activeDays": 62,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_04a224",
+        "issue": "Education System Issues",
+        "activeDays": 2,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_44d858",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_2107ef",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_3be826",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_d0093b",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

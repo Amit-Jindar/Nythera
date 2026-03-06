@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Bangaon_Dakshin",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_7a931b",
+        "issue": "Education System Issues",
+        "location": "Bangaon Dakshin",
+        "severity": 5.8,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b851ba",
+        "issue": "Crime & Law and Order",
+        "location": "Bangaon Dakshin",
+        "severity": 9.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_59f2e8",
+        "issue": "Sanitation & Waste Management",
+        "location": "Bangaon Dakshin",
+        "severity": 8.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_59f2e8",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 43,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_b851ba",
+        "issue": "Crime & Law and Order",
+        "activeDays": 5,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_7a931b",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

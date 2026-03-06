@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim_Medinipur",
+    "name": "Medinipur",
+    "total_signals": 176,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_5d04b2",
+        "issue": "Crime & Law and Order",
+        "location": "Medinipur",
+        "severity": 9.9,
+        "volume": 115,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_dfeb5b",
+        "issue": "Traffic & Road Safety",
+        "location": "Medinipur",
+        "severity": 7.3,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2fa4e2",
+        "issue": "Women Safety & Crimes",
+        "location": "Medinipur",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f97bdf",
+        "issue": "Sanitation & Waste Management",
+        "location": "Medinipur",
+        "severity": 7.8,
+        "volume": 24,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_edc725",
+        "issue": "Corruption & Bribery",
+        "location": "Medinipur",
+        "severity": 10.0,
+        "volume": 16,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a7e8b2",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Medinipur",
+        "severity": 7.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ec9ce8",
+        "issue": "Healthcare Access & Services",
+        "location": "Medinipur",
+        "severity": 9.4,
+        "volume": 9,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_edc725",
+        "issue": "Corruption & Bribery",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_ec9ce8",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_5d04b2",
+        "issue": "Crime & Law and Order",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_ac9163",
+        "issue": "Education System Issues",
+        "activeDays": 76,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_f97bdf",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_a7e8b2",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 11,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_2fa4e2",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 4,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_dfeb5b",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

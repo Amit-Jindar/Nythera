@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Nadia",
+    "district": "Unknown",
+    "total_signals": 11,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 60.85,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-08 07:13 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-04",
+        "sentiment": 49.2,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 52.0,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 75.0,
+        "rollingAverage": 58.7
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 64.7,
+        "rollingAverage": 60.2
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 66.5,
+        "rollingAverage": 61.5
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 50.2,
+        "rollingAverage": 59.6
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 44.8,
+        "rollingAverage": 57.5
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 83.0,
+        "rollingAverage": 62.3
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 50.1,
+        "rollingAverage": 62.0
+      },
+      {
+        "date": "2026-01-08",
+        "sentiment": 73.0,
+        "rollingAverage": 61.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.6,
+        "confidence": 0.064
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.39,
+        "confidence": 0.056
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.62,
+        "confidence": 0.865
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.39,
+        "confidence": 0.015
+      }
+    ]
+  }
+}

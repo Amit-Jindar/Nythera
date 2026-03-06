@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Santipur",
+    "total_signals": 240,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_d80e34",
+        "issue": "Crime & Law and Order",
+        "location": "Santipur",
+        "severity": 9.9,
+        "volume": 156,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_04a824",
+        "issue": "Traffic & Road Safety",
+        "location": "Santipur",
+        "severity": 7.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c19e0a",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Santipur",
+        "severity": 6.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_5934bd",
+        "issue": "Sanitation & Waste Management",
+        "location": "Santipur",
+        "severity": 7.8,
+        "volume": 41,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_cd0080",
+        "issue": "Corruption & Bribery",
+        "location": "Santipur",
+        "severity": 10.0,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_abc726",
+        "issue": "Education System Issues",
+        "location": "Santipur",
+        "severity": 5.9,
+        "volume": 18,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d45a1b",
+        "issue": "Healthcare Access & Services",
+        "location": "Santipur",
+        "severity": 9.5,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d80e34",
+        "issue": "Crime & Law and Order",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_cd0080",
+        "issue": "Corruption & Bribery",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_5934bd",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_d45a1b",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_abc726",
+        "issue": "Education System Issues",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_cd019b",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 16,
+        "persistenceStatus": "recurring",
+        "department": "General Administration"
+      },
+      {
+        "id": "p_c19e0a",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_04a824",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

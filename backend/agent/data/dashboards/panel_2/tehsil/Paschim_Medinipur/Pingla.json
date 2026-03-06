@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim_Medinipur",
+    "name": "Pingla",
+    "total_signals": 15662,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_1994af",
+        "issue": "Crime & Law and Order",
+        "location": "Pingla",
+        "severity": 9.9,
+        "volume": 12675,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_37f7da",
+        "issue": "Sanitation & Waste Management",
+        "location": "Pingla",
+        "severity": 7.8,
+        "volume": 916,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_93cc2a",
+        "issue": "Corruption & Bribery",
+        "location": "Pingla",
+        "severity": 10.0,
+        "volume": 640,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_1d0f98",
+        "issue": "Education System Issues",
+        "location": "Pingla",
+        "severity": 6.0,
+        "volume": 854,
+        "status": "resolving",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_fb45f2",
+        "issue": "Healthcare Access & Services",
+        "location": "Pingla",
+        "severity": 9.3,
+        "volume": 286,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_c5f7de",
+        "issue": "Women Safety & Crimes",
+        "location": "Pingla",
+        "severity": 10.0,
+        "volume": 161,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_acb839",
+        "issue": "Electricity & Power Outage",
+        "location": "Pingla",
+        "severity": 8.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_1994af",
+        "issue": "Crime & Law and Order",
+        "activeDays": 267,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_1d0f98",
+        "issue": "Education System Issues",
+        "activeDays": 143,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_37f7da",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 94,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_93cc2a",
+        "issue": "Corruption & Bribery",
+        "activeDays": 94,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_fb45f2",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_120321",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_c5f7de",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 89,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_d74fd8",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Public Works Department (PWD)"
+      },
+      {
+        "id": "p_0e8cbb",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "General Administration"
+      },
+      {
+        "id": "p_3e4e13",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 74,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_7901a6",
+        "issue": "Water Supply Disruption",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Public Health Engineering / Water Department"
+      },
+      {
+        "id": "p_291485",
+        "issue": "Environmental Degradation",
+        "activeDays": 68,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

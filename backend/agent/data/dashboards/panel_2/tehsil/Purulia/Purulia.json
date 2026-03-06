@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purulia",
+    "name": "Purulia",
+    "total_signals": 64,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_da4e3b",
+        "issue": "Women Safety & Crimes",
+        "location": "Purulia",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_bb89d4",
+        "issue": "Crime & Law and Order",
+        "location": "Purulia",
+        "severity": 9.9,
+        "volume": 32,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9a57cf",
+        "issue": "Corruption & Bribery",
+        "location": "Purulia",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f9ed4d",
+        "issue": "Sanitation & Waste Management",
+        "location": "Purulia",
+        "severity": 7.8,
+        "volume": 12,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ce0371",
+        "issue": "Education System Issues",
+        "location": "Purulia",
+        "severity": 6.0,
+        "volume": 8,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_99f032",
+        "issue": "Environmental Degradation",
+        "location": "Purulia",
+        "severity": 5.8,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_31f867",
+        "issue": "Healthcare Access & Services",
+        "location": "Purulia",
+        "severity": 9.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_ce0371",
+        "issue": "Education System Issues",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_bb89d4",
+        "issue": "Crime & Law and Order",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f9ed4d",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_31f867",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 37,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_9a57cf",
+        "issue": "Corruption & Bribery",
+        "activeDays": 26,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_99f032",
+        "issue": "Environmental Degradation",
+        "activeDays": 22,
+        "persistenceStatus": "stuck",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_da4e3b",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

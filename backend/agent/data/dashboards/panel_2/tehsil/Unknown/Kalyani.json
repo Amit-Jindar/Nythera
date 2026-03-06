@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Kalyani",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_75f06f",
+        "issue": "Healthcare Access & Services",
+        "location": "Kalyani",
+        "severity": 9.5,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_278787",
+        "issue": "Crime & Law and Order",
+        "location": "Kalyani",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_278787",
+        "issue": "Crime & Law and Order",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_75f06f",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 20,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

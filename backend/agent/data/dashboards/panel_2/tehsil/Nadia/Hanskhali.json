@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Hanskhali",
+    "total_signals": 44,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_5e541b",
+        "issue": "Sanitation & Waste Management",
+        "location": "Hanskhali",
+        "severity": 7.8,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_370061",
+        "issue": "Crime & Law and Order",
+        "location": "Hanskhali",
+        "severity": 9.9,
+        "volume": 28,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3a1bbb",
+        "issue": "Women Safety & Crimes",
+        "location": "Hanskhali",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_370061",
+        "issue": "Crime & Law and Order",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_3a1bbb",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_5e541b",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      }
+    ]
+  }
+}

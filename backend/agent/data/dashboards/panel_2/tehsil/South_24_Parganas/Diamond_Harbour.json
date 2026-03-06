@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Diamond_Harbour",
+    "total_signals": 35,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_19bc54",
+        "issue": "Education System Issues",
+        "location": "Diamond Harbour",
+        "severity": 6.0,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_78c333",
+        "issue": "Environmental Degradation",
+        "location": "Diamond Harbour",
+        "severity": 6.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b650eb",
+        "issue": "Crime & Law and Order",
+        "location": "Diamond Harbour",
+        "severity": 9.8,
+        "volume": 22,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_535a5a",
+        "issue": "Sanitation & Waste Management",
+        "location": "Diamond Harbour",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3afd93",
+        "issue": "Corruption & Bribery",
+        "location": "Diamond Harbour",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3afd93",
+        "issue": "Corruption & Bribery",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_b650eb",
+        "issue": "Crime & Law and Order",
+        "activeDays": 63,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_535a5a",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 32,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_78c333",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_19bc54",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

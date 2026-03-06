@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Bidhannagar",
+    "total_signals": 48,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_906c79",
+        "issue": "Governance & Administrative Failure",
+        "location": "Bidhannagar",
+        "severity": 5.6,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_abdf0c",
+        "issue": "Crime & Law and Order",
+        "location": "Bidhannagar",
+        "severity": 10.0,
+        "volume": 37,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_576d08",
+        "issue": "Corruption & Bribery",
+        "location": "Bidhannagar",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_10977a",
+        "issue": "Healthcare Access & Services",
+        "location": "Bidhannagar",
+        "severity": 9.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a85732",
+        "issue": "Traffic & Road Safety",
+        "location": "Bidhannagar",
+        "severity": 7.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_abdf0c",
+        "issue": "Crime & Law and Order",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_a85732",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_576d08",
+        "issue": "Corruption & Bribery",
+        "activeDays": 43,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_10977a",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 29,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_906c79",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "General Administration"
+      }
+    ]
+  }
+}

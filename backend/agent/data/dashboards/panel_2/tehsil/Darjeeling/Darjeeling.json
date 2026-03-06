@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Darjeeling",
+    "name": "Darjeeling",
+    "total_signals": 421,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_c186b2",
+        "issue": "Women Safety & Crimes",
+        "location": "Darjeeling",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3858f2",
+        "issue": "Crime & Law and Order",
+        "location": "Darjeeling",
+        "severity": 9.9,
+        "volume": 299,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d3db28",
+        "issue": "Sanitation & Waste Management",
+        "location": "Darjeeling",
+        "severity": 7.8,
+        "volume": 33,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b10ecf",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Darjeeling",
+        "severity": 6.9,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_05b8bd",
+        "issue": "Corruption & Bribery",
+        "location": "Darjeeling",
+        "severity": 10.0,
+        "volume": 40,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8a0a08",
+        "issue": "Healthcare Access & Services",
+        "location": "Darjeeling",
+        "severity": 9.4,
+        "volume": 19,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_60e38f",
+        "issue": "Education System Issues",
+        "location": "Darjeeling",
+        "severity": 6.0,
+        "volume": 23,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_60e38f",
+        "issue": "Education System Issues",
+        "activeDays": 348,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_8a0a08",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 331,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_3858f2",
+        "issue": "Crime & Law and Order",
+        "activeDays": 330,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_05b8bd",
+        "issue": "Corruption & Bribery",
+        "activeDays": 301,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_090665",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 249,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_d3db28",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 76,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_b10ecf",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_c186b2",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  }
+}

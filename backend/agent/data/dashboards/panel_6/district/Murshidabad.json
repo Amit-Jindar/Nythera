@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Murshidabad",
+    "total_signals": 25392,
+    "generated_at": "2026-01-19T18:45:44+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 1.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Environmental Degradation",
+        "Farmer & Agriculture Issues",
+        "Governance & Administrative Failure",
+        "Healthcare Access & Services",
+        "Public Transport Issues",
+        "Road & Infrastructure Issues",
+        "Sanitation & Waste Management",
+        "Traffic & Road Safety",
+        "Water Supply Disruption",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [],
+      "contested_issues": []
+    }
+  }
+}

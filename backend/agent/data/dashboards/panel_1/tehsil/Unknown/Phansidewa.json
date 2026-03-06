@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Phansidewa",
+    "district": "Unknown",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 75.78,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-06 12:44 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-03",
+        "sentiment": 86.2,
+        "rollingAverage": 86.2
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 76.9,
+        "rollingAverage": 81.6
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 55.4,
+        "rollingAverage": 72.8
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 84.6,
+        "rollingAverage": 75.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 14.07,
+        "confidence": 0.563
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.51,
+        "confidence": 0.021
+      },
+      {
+        "emotion": "Trust",
+        "value": 10.21,
+        "confidence": 0.408
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.21,
+        "confidence": 0.008
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Debra",
+    "district": "Paschim_Medinipur",
+    "total_signals": 11,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 51.99,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-31 05:45 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-25",
+        "sentiment": 48.5,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 41.8,
+        "rollingAverage": 45.1
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 45.5,
+        "rollingAverage": 45.3
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 38.0,
+        "rollingAverage": 43.5
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 48.3,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 76.1,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 58.7,
+        "rollingAverage": 51.0
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 59.0,
+        "rollingAverage": 52.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.02,
+        "confidence": 0.041
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.61,
+        "confidence": 0.104
+      },
+      {
+        "emotion": "Trust",
+        "value": 20.85,
+        "confidence": 0.834
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.52,
+        "confidence": 0.021
+      }
+    ]
+  }
+}

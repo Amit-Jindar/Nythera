@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Sandeshkhali",
+    "total_signals": 774,
+    "generated_at": "2026-01-19T19:16:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.78,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.22,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Traffic & Road Safety",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Farmer & Agriculture Issues",
+        "Public Transport Issues"
+      ],
+      "contested_issues": []
+    }
+  }
+}

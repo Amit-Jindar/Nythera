@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Alipore",
+    "total_signals": 1428,
+    "enriched_signals": 231,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:22:10.137751+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 48.61,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-05 15:59 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-21",
+        "sentiment": 51.1,
+        "rollingAverage": 51.1
+      },
+      {
+        "date": "2025-10-22",
+        "sentiment": 50.6,
+        "rollingAverage": 50.9
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 47.2,
+        "rollingAverage": 49.6
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 47.9,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 54.8,
+        "rollingAverage": 50.3
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 55.8,
+        "rollingAverage": 51.2
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 36.9,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 50.8,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 47.5,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 49.6,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 46.8,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 40.6,
+        "rollingAverage": 46.9
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 54.3,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 54.1,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 58.7,
+        "rollingAverage": 50.2
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 50.4,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 47.2,
+        "rollingAverage": 50.3
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 53.1,
+        "rollingAverage": 51.2
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 45.4,
+        "rollingAverage": 51.9
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 46.7,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 40.9,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 52.9,
+        "rollingAverage": 48.1
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 42.7,
+        "rollingAverage": 47.0
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 40.7,
+        "rollingAverage": 46.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.85,
+        "confidence": 0.034
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.58,
+        "confidence": 0.063
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.53,
+        "confidence": 0.901
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_365049",
+        "issue": "Crime & Law and Order",
+        "location": "Alipore",
+        "severity": 9.9,
+        "volume": 185,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_263d92",
+        "issue": "Sanitation & Waste Management",
+        "location": "Alipore",
+        "severity": 7.8,
+        "volume": 19,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ac0dba",
+        "issue": "Education System Issues",
+        "location": "Alipore",
+        "severity": 5.9,
+        "volume": 14,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_4727cc",
+        "issue": "Women Safety & Crimes",
+        "location": "Alipore",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_de1a58",
+        "issue": "Corruption & Bribery",
+        "location": "Alipore",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_81f850",
+        "issue": "Healthcare Access & Services",
+        "location": "Alipore",
+        "severity": 9.4,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_263d92",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 76,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_365049",
+        "issue": "Crime & Law and Order",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_de1a58",
+        "issue": "Corruption & Bribery",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_4727cc",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_ac0dba",
+        "issue": "Education System Issues",
+        "activeDays": 71,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_81f850",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 28,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 3,
+      "zone": "Police + Anti Corruption Bureau (ACB) + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.07
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_34ade4",
+        "issue": "Women Safety & Crimes",
+        "department": "Women Security Cell",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.05
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 18,
+      "pressure": 18,
+      "capacity": 82,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 10,
+      "pressure": 10,
+      "capacity": 90,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 9,
+      "pressure": 9,
+      "capacity": 91,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 7,
+      "pressure": 7,
+      "capacity": 93,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 93.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 82.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 75.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 73.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 55.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 1.0,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.83,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.17,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": []
+    }
+  }
+}

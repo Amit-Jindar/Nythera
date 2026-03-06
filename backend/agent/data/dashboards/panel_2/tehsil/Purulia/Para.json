@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purulia",
+    "name": "Para",
+    "total_signals": 1138,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_5aece7",
+        "issue": "Crime & Law and Order",
+        "location": "Para",
+        "severity": 9.9,
+        "volume": 761,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_9c9ae1",
+        "issue": "Sanitation & Waste Management",
+        "location": "Para",
+        "severity": 7.8,
+        "volume": 150,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_11cb44",
+        "issue": "Corruption & Bribery",
+        "location": "Para",
+        "severity": 10.0,
+        "volume": 75,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d7e733",
+        "issue": "Traffic & Road Safety",
+        "location": "Para",
+        "severity": 7.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9e76d5",
+        "issue": "Education System Issues",
+        "location": "Para",
+        "severity": 5.9,
+        "volume": 79,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9eecd6",
+        "issue": "Healthcare Access & Services",
+        "location": "Para",
+        "severity": 9.4,
+        "volume": 41,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b1f706",
+        "issue": "Women Safety & Crimes",
+        "location": "Para",
+        "severity": 10.0,
+        "volume": 16,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_5aece7",
+        "issue": "Crime & Law and Order",
+        "activeDays": 246,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_9c9ae1",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_11cb44",
+        "issue": "Corruption & Bribery",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_9e76d5",
+        "issue": "Education System Issues",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_9eecd6",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_b1f706",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 77,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_08f2d1",
+        "issue": "Environmental Degradation",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_21db0c",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 54,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_c1bf46",
+        "issue": "Public Transport Issues",
+        "activeDays": 43,
+        "persistenceStatus": "stuck",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_d7e733",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      }
+    ]
+  }
+}

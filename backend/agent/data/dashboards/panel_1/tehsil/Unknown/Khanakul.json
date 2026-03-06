@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Khanakul",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 78.6,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-03 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-03",
+        "sentiment": 78.6,
+        "rollingAverage": 78.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 16.12,
+        "confidence": 0.645
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.86,
+        "confidence": 0.034
+      },
+      {
+        "emotion": "Trust",
+        "value": 7.71,
+        "confidence": 0.309
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.3,
+        "confidence": 0.012
+      }
+    ]
+  }
+}

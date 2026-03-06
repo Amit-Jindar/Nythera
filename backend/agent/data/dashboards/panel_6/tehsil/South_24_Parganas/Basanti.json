@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Basanti",
+    "total_signals": 241,
+    "generated_at": "2026-01-19T19:16:45+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.44,
+      "medium_credibility_ratio": 0.22,
+      "low_credibility_ratio": 0.33,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Environmental Degradation",
+        "Farmer & Agriculture Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Corruption & Bribery",
+        "Traffic & Road Safety"
+      ]
+    }
+  }
+}

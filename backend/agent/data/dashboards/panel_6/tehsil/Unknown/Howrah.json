@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Howrah",
+    "total_signals": 18,
+    "generated_at": "2026-01-19T19:16:46+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.5,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [],
+      "noise_issues": [
+        "Education System Issues",
+        "Farmer & Agriculture Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order",
+        "Healthcare Access & Services",
+        "Traffic & Road Safety"
+      ]
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "North_24_Parganas",
+    "total_signals": 3417,
+    "generated_at": "2026-01-19T18:35:10.844360+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_aeeb5a",
+        "issue": "Crime & Law and Order",
+        "location": "Sandeshkhali",
+        "severity": 9.9,
+        "volume": 629,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_55b307",
+        "issue": "Crime & Law and Order",
+        "location": "Minakhan",
+        "severity": 9.9,
+        "volume": 358,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_dbc73a",
+        "issue": "Crime & Law and Order",
+        "location": "Swarupnagar",
+        "severity": 9.9,
+        "volume": 214,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_cbc8ca",
+        "issue": "Sanitation & Waste Management",
+        "location": "Basirhat Dakshin",
+        "severity": 7.8,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_4f5a48",
+        "issue": "Traffic & Road Safety",
+        "location": "Rajarhat New Town",
+        "severity": 7.7,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_e89270",
+        "issue": "Crime & Law and Order",
+        "location": "Barasat",
+        "severity": 9.9,
+        "volume": 181,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d5b8b2",
+        "issue": "Crime & Law and Order",
+        "location": "Dum Dum",
+        "severity": 9.9,
+        "volume": 182,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_9e0a69",
+        "issue": "Crime & Law and Order",
+        "activeDays": 252,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_603928",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 120,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_d4e2c3",
+        "issue": "Corruption & Bribery",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_55b307",
+        "issue": "Crime & Law and Order",
+        "activeDays": 89,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_4987af",
+        "issue": "Corruption & Bribery",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_a9b407",
+        "issue": "Crime & Law and Order",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_ed3355",
+        "issue": "Education System Issues",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_dc3c94",
+        "issue": "Crime & Law and Order",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f8f993",
+        "issue": "Corruption & Bribery",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_d03778",
+        "issue": "Corruption & Bribery",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_aeeb5a",
+        "issue": "Crime & Law and Order",
+        "activeDays": 85,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_d0b0ea",
+        "issue": "Education System Issues",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

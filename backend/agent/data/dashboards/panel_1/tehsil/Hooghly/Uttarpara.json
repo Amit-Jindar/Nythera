@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Uttarpara",
+    "district": "Hooghly",
+    "total_signals": 23,
+    "generated_at": "2026-01-19T19:05:25+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.62,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-10 09:04 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-16",
+        "sentiment": 35.1,
+        "rollingAverage": 35.1
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 46.5,
+        "rollingAverage": 40.8
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 60.9,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 46.8,
+        "rollingAverage": 47.3
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 49.5,
+        "rollingAverage": 47.8
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 48.8,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 63.2,
+        "rollingAverage": 50.1
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 46.2,
+        "rollingAverage": 51.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.72,
+        "confidence": 0.069
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.91,
+        "confidence": 0.077
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.25,
+        "confidence": 0.85
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.11,
+        "confidence": 0.005
+      }
+    ]
+  }
+}

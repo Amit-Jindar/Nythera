@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Unknown",
+    "total_signals": 45462,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_aad5ac",
+        "issue": "Crime & Law and Order",
+        "location": "Unknown",
+        "severity": 9.9,
+        "volume": 24765,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_e0f048",
+        "issue": "Sanitation & Waste Management",
+        "location": "Unknown",
+        "severity": 7.8,
+        "volume": 8492,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_b2ffde",
+        "issue": "Corruption & Bribery",
+        "location": "Unknown",
+        "severity": 10.0,
+        "volume": 3884,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_233e86",
+        "issue": "Education System Issues",
+        "location": "Unknown",
+        "severity": 6.0,
+        "volume": 4351,
+        "status": "resolving",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_397c0b",
+        "issue": "Healthcare Access & Services",
+        "location": "Unknown",
+        "severity": 9.4,
+        "volume": 2084,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_5e9e2d",
+        "issue": "Women Safety & Crimes",
+        "location": "Unknown",
+        "severity": 10.0,
+        "volume": 986,
+        "status": "active",
+        "lifecycle": "stagnant"
+      },
+      {
+        "id": "h_1c9b3f",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Unknown",
+        "severity": 6.9,
+        "volume": 317,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_aad5ac",
+        "issue": "Crime & Law and Order",
+        "activeDays": 94,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_e0f048",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 94,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_233e86",
+        "issue": "Education System Issues",
+        "activeDays": 94,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_5e9e2d",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_b2ffde",
+        "issue": "Corruption & Bribery",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_9300dc",
+        "issue": "Environmental Degradation",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_397c0b",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 93,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_b549b7",
+        "issue": "Public Transport Issues",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_81e9d5",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_1c9b3f",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_27fac4",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "General Administration"
+      },
+      {
+        "id": "p_38acbe",
+        "issue": "Water Supply Disruption",
+        "activeDays": 81,
+        "persistenceStatus": "chronic",
+        "department": "Public Health Engineering / Water Department"
+      }
+    ]
+  }
+}

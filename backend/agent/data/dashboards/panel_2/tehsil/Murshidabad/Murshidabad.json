@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Murshidabad",
+    "name": "Murshidabad",
+    "total_signals": 1650,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_01369d",
+        "issue": "Crime & Law and Order",
+        "location": "Murshidabad",
+        "severity": 9.9,
+        "volume": 1030,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_697953",
+        "issue": "Sanitation & Waste Management",
+        "location": "Murshidabad",
+        "severity": 7.8,
+        "volume": 258,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d06b6e",
+        "issue": "Healthcare Access & Services",
+        "location": "Murshidabad",
+        "severity": 9.4,
+        "volume": 115,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_97e9f8",
+        "issue": "Water Supply Disruption",
+        "location": "Murshidabad",
+        "severity": 8.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fba9a1",
+        "issue": "Corruption & Bribery",
+        "location": "Murshidabad",
+        "severity": 10.0,
+        "volume": 73,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d6a6ca",
+        "issue": "Education System Issues",
+        "location": "Murshidabad",
+        "severity": 5.9,
+        "volume": 111,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3054b2",
+        "issue": "Public Transport Issues",
+        "location": "Murshidabad",
+        "severity": 6.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_01369d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_697953",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_d6a6ca",
+        "issue": "Education System Issues",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_fba9a1",
+        "issue": "Corruption & Bribery",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_d06b6e",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 80,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_c39a9e",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_6aa441",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 75,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_667d4b",
+        "issue": "Environmental Degradation",
+        "activeDays": 72,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_29b9be",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_c751d3",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 21,
+        "persistenceStatus": "stuck",
+        "department": "General Administration"
+      },
+      {
+        "id": "p_97e9f8",
+        "issue": "Water Supply Disruption",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Health Engineering / Water Department"
+      },
+      {
+        "id": "p_3054b2",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      }
+    ]
+  }
+}

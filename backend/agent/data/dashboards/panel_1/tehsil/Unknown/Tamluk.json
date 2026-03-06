@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Tamluk",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 79.5,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-10-19 01:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-19",
+        "sentiment": 79.5,
+        "rollingAverage": 79.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.13,
+        "confidence": 0.005
+      },
+      {
+        "emotion": "Fear",
+        "value": 11.28,
+        "confidence": 0.451
+      },
+      {
+        "emotion": "Trust",
+        "value": 13.14,
+        "confidence": 0.525
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.46,
+        "confidence": 0.018
+      }
+    ]
+  }
+}

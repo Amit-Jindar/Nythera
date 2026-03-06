@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Bidhannagar",
+    "total_signals": 48,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 71.44,
+      "zone": "Stable",
+      "trend": "deteriorating",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-06 04:05 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-22",
+        "sentiment": 90.1,
+        "rollingAverage": 90.1
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 82.6,
+        "rollingAverage": 86.3
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 77.8,
+        "rollingAverage": 83.5
+      },
+      {
+        "date": "2025-10-27",
+        "sentiment": 65.6,
+        "rollingAverage": 79.0
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 51.1,
+        "rollingAverage": 73.4
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 82.5,
+        "rollingAverage": 75.0
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 77.3,
+        "rollingAverage": 75.3
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 74.0,
+        "rollingAverage": 73.0
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 82.2,
+        "rollingAverage": 72.9
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 80.5,
+        "rollingAverage": 73.3
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 60.9,
+        "rollingAverage": 72.6
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 68.1,
+        "rollingAverage": 75.1
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 68.5,
+        "rollingAverage": 73.1
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 70.4,
+        "rollingAverage": 72.1
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 52.6,
+        "rollingAverage": 69.0
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 51.1,
+        "rollingAverage": 64.6
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 59.2,
+        "rollingAverage": 61.5
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 72.8,
+        "rollingAverage": 63.2
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 69.8,
+        "rollingAverage": 63.5
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 72.4,
+        "rollingAverage": 64.0
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 71.7,
+        "rollingAverage": 64.2
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 75.0,
+        "rollingAverage": 67.4
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 78.7,
+        "rollingAverage": 71.4
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 71.0,
+        "rollingAverage": 73.1
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 76.8,
+        "rollingAverage": 73.6
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 81.2,
+        "rollingAverage": 75.3
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 63.7,
+        "rollingAverage": 74.0
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 58.5,
+        "rollingAverage": 72.1
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 85.8,
+        "rollingAverage": 73.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.81,
+        "confidence": 0.112
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.18,
+        "confidence": 0.167
+      },
+      {
+        "emotion": "Trust",
+        "value": 17.71,
+        "confidence": 0.708
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.31,
+        "confidence": 0.012
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_906c79",
+        "issue": "Governance & Administrative Failure",
+        "location": "Bidhannagar",
+        "severity": 5.6,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_abdf0c",
+        "issue": "Crime & Law and Order",
+        "location": "Bidhannagar",
+        "severity": 10.0,
+        "volume": 37,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_576d08",
+        "issue": "Corruption & Bribery",
+        "location": "Bidhannagar",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_10977a",
+        "issue": "Healthcare Access & Services",
+        "location": "Bidhannagar",
+        "severity": 9.9,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a85732",
+        "issue": "Traffic & Road Safety",
+        "location": "Bidhannagar",
+        "severity": 7.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_abdf0c",
+        "issue": "Crime & Law and Order",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_a85732",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_576d08",
+        "issue": "Corruption & Bribery",
+        "activeDays": 43,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_10977a",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 29,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_906c79",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "General Administration"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Traffic Police + General Administration",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_f282bd",
+        "issue": "Traffic & Road Safety",
+        "department": "Traffic Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_7fa813",
+        "issue": "Governance & Administrative Failure",
+        "department": "General Administration",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 38,
+      "pressure": 38,
+      "capacity": 62,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 4,
+      "pressure": 4,
+      "capacity": 96,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_063650",
+      "department": "General Administration",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_063650",
+        "department": "General Administration",
+        "trustScore": 94.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 92.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 87.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 87.7,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 8.2,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.2,
+      "medium_credibility_ratio": 0.6,
+      "low_credibility_ratio": 0.2,
+      "verified_issues": [
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Healthcare Access & Services"
+      ],
+      "contested_issues": [
+        "Corruption & Bribery",
+        "Governance & Administrative Failure",
+        "Traffic & Road Safety"
+      ]
+    }
+  }
+}

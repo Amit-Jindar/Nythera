@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba Medinipur",
+    "name": "Nandakumar",
+    "total_signals": 49,
+    "enriched_signals": 2,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:27.770215+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 40.95,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-24 11:12 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-15",
+        "sentiment": 42.0,
+        "rollingAverage": 42.0
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 39.9,
+        "rollingAverage": 41.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.25,
+        "confidence": 0.01
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.23,
+        "confidence": 0.009
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.5,
+        "confidence": 0.98
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.02,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_dadabd",
+        "issue": "Crime & Law and Order",
+        "location": "Nandakumar",
+        "severity": 9.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_dadabd",
+        "issue": "Crime & Law and Order",
+        "activeDays": 39,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 0,
+      "zone": "General",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 94.1,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 94.1,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 1.0,
+      "verified_issues": [],
+      "noise_issues": [
+        "Crime & Law and Order"
+      ],
+      "contested_issues": []
+    }
+  }
+}

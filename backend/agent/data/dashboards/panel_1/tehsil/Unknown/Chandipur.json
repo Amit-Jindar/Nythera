@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Chandipur",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 86.2,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-31 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-31",
+        "sentiment": 86.2,
+        "rollingAverage": 86.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.12,
+        "confidence": 0.005
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.07,
+        "confidence": 0.003
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.8,
+        "confidence": 0.912
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 2.01,
+        "confidence": 0.081
+      }
+    ]
+  }
+}

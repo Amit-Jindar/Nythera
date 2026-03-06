@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Kolkata",
+    "name": "Beliaghata",
+    "total_signals": 14,
+    "generated_at": "2026-01-19T19:16:46+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.2,
+      "medium_credibility_ratio": 0.4,
+      "low_credibility_ratio": 0.4,
+      "verified_issues": [
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Crime & Law and Order",
+        "Farmer & Agriculture Issues"
+      ],
+      "contested_issues": [
+        "Corruption & Bribery",
+        "Education System Issues"
+      ]
+    }
+  }
+}

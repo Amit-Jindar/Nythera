@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Darjeeling",
+    "name": "Siliguri",
+    "total_signals": 535,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_50e54e",
+        "issue": "Crime & Law and Order",
+        "location": "Siliguri",
+        "severity": 9.9,
+        "volume": 360,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_bd4581",
+        "issue": "Water Supply Disruption",
+        "location": "Siliguri",
+        "severity": 8.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_797d0e",
+        "issue": "Environmental Degradation",
+        "location": "Siliguri",
+        "severity": 6.1,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_825dbd",
+        "issue": "Sanitation & Waste Management",
+        "location": "Siliguri",
+        "severity": 7.8,
+        "volume": 72,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d82b2a",
+        "issue": "Traffic & Road Safety",
+        "location": "Siliguri",
+        "severity": 7.2,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e04bac",
+        "issue": "Women Safety & Crimes",
+        "location": "Siliguri",
+        "severity": 10.0,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d477f9",
+        "issue": "Education System Issues",
+        "location": "Siliguri",
+        "severity": 6.0,
+        "volume": 38,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_50e54e",
+        "issue": "Crime & Law and Order",
+        "activeDays": 357,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_87ddcc",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 349,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_45a7c4",
+        "issue": "Corruption & Bribery",
+        "activeDays": 306,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_d477f9",
+        "issue": "Education System Issues",
+        "activeDays": 228,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_825dbd",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 145,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_ab8727",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 139,
+        "persistenceStatus": "chronic",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_e04bac",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 60,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_d82b2a",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_797d0e",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_bd4581",
+        "issue": "Water Supply Disruption",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Health Engineering / Water Department"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Canning_Purba",
+    "district": "South_24_Parganas",
+    "total_signals": 6,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 39.77,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-16 14:53 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-08",
+        "sentiment": 34.4,
+        "rollingAverage": 34.4
+      },
+      {
+        "date": "2025-11-10",
+        "sentiment": 50.1,
+        "rollingAverage": 42.2
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 34.8,
+        "rollingAverage": 39.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.3,
+        "confidence": 0.012
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.07,
+        "confidence": 0.043
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.59,
+        "confidence": 0.944
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

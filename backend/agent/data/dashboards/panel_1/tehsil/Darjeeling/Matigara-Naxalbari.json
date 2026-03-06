@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Matigara-Naxalbari",
+    "district": "Darjeeling",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 41.0,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-19 03:18 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-19",
+        "sentiment": 41.0,
+        "rollingAverage": 41.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.13,
+        "confidence": 0.005
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.52,
+        "confidence": 0.021
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.34,
+        "confidence": 0.973
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.01,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

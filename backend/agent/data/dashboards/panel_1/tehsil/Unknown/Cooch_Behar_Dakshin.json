@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Cooch_Behar_Dakshin",
+    "district": "Unknown",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 87.9,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-10-28 01:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-28",
+        "sentiment": 87.9,
+        "rollingAverage": 87.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 6.69,
+        "confidence": 0.268
+      },
+      {
+        "emotion": "Fear",
+        "value": 5.86,
+        "confidence": 0.234
+      },
+      {
+        "emotion": "Trust",
+        "value": 12.0,
+        "confidence": 0.48
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.46,
+        "confidence": 0.018
+      }
+    ]
+  }
+}

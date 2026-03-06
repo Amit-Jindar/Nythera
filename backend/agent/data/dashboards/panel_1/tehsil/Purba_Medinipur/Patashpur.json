@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Patashpur",
+    "district": "Purba_Medinipur",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:05:24+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 39.9,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-20 20:36 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-20",
+        "sentiment": 39.9,
+        "rollingAverage": 39.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.37,
+        "confidence": 0.135
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.86,
+        "confidence": 0.154
+      },
+      {
+        "emotion": "Trust",
+        "value": 17.68,
+        "confidence": 0.707
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.09,
+        "confidence": 0.004
+      }
+    ]
+  }
+}

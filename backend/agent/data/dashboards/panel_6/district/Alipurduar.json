@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Alipurduar",
+    "total_signals": 179,
+    "generated_at": "2026-01-19T18:45:44+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.83,
+      "medium_credibility_ratio": 0.17,
+      "low_credibility_ratio": 0.0,
+      "verified_issues": [
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [],
+      "contested_issues": [
+        "Corruption & Bribery"
+      ]
+    }
+  }
+}

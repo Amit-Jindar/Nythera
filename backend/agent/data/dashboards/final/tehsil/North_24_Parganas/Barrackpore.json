@@ -1,0 +1,484 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North 24 Parganas",
+    "name": "Barrackpore",
+    "total_signals": 704,
+    "enriched_signals": 84,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.689678+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.12,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-07 07:15 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-10",
+        "sentiment": 46.5,
+        "rollingAverage": 46.5
+      },
+      {
+        "date": "2025-10-11",
+        "sentiment": 47.1,
+        "rollingAverage": 46.8
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 48.4,
+        "rollingAverage": 47.3
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 44.5,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 42.6,
+        "rollingAverage": 45.8
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 40.6,
+        "rollingAverage": 45.0
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 43.0,
+        "rollingAverage": 44.7
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 48.3,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 50.4,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 39.7,
+        "rollingAverage": 44.2
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 76.5,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 74.2,
+        "rollingAverage": 53.2
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 36.9,
+        "rollingAverage": 52.7
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 47.6,
+        "rollingAverage": 53.4
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 65.7,
+        "rollingAverage": 55.9
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 51.9,
+        "rollingAverage": 56.1
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 36.8,
+        "rollingAverage": 55.7
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 38.7,
+        "rollingAverage": 50.3
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 41.4,
+        "rollingAverage": 45.6
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 43.1,
+        "rollingAverage": 46.5
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 70.0,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 55.8,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 40.0,
+        "rollingAverage": 46.5
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.13,
+        "confidence": 0.045
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.39,
+        "confidence": 0.096
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.44,
+        "confidence": 0.857
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_31639c",
+        "issue": "Women Safety & Crimes",
+        "location": "Barrackpore",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a1ca2d",
+        "issue": "Environmental Degradation",
+        "location": "Barrackpore",
+        "severity": 6.0,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_a9b407",
+        "issue": "Crime & Law and Order",
+        "location": "Barrackpore",
+        "severity": 9.9,
+        "volume": 44,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c8bf1f",
+        "issue": "Sanitation & Waste Management",
+        "location": "Barrackpore",
+        "severity": 7.8,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_be7215",
+        "issue": "Healthcare Access & Services",
+        "location": "Barrackpore",
+        "severity": 9.3,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ed3355",
+        "issue": "Education System Issues",
+        "location": "Barrackpore",
+        "severity": 6.0,
+        "volume": 13,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_4987af",
+        "issue": "Corruption & Bribery",
+        "location": "Barrackpore",
+        "severity": 10.0,
+        "volume": 7,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_4987af",
+        "issue": "Corruption & Bribery",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_a9b407",
+        "issue": "Crime & Law and Order",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_ed3355",
+        "issue": "Education System Issues",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_be7215",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 38,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_c8bf1f",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 24,
+        "persistenceStatus": "stuck",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_a1ca2d",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_31639c",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 2,
+      "zone": "Police + Anti Corruption Bureau (ACB) + Education Department",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.07
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.04
+      },
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.01
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 44,
+      "pressure": 44,
+      "capacity": 56,
+      "status": "medium"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 12,
+      "pressure": 12,
+      "capacity": 88,
+      "status": "nominal"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 9,
+      "pressure": 9,
+      "capacity": 91,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 9,
+      "pressure": 9,
+      "capacity": 91,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_309201",
+      "department": "Environment Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_309201",
+        "department": "Environment Department",
+        "trustScore": 98.2,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 96.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 85.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 77.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 73.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 71.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 24.1,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.71,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.29,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Healthcare Access & Services",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Environmental Degradation",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": []
+    }
+  }
+}

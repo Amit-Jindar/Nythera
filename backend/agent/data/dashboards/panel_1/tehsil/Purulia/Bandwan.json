@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Bandwan",
+    "district": "Purulia",
+    "total_signals": 15,
+    "generated_at": "2026-01-19T19:05:29+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 54.04,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-03 08:52 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-11",
+        "sentiment": 40.8,
+        "rollingAverage": 40.8
+      },
+      {
+        "date": "2025-10-12",
+        "sentiment": 90.2,
+        "rollingAverage": 65.5
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 40.4,
+        "rollingAverage": 57.1
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 65.2,
+        "rollingAverage": 59.1
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 52.3,
+        "rollingAverage": 57.8
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 42.4,
+        "rollingAverage": 55.2
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 52.1,
+        "rollingAverage": 54.8
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 49.1,
+        "rollingAverage": 56.0
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 60.1,
+        "rollingAverage": 51.7
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 45.2,
+        "rollingAverage": 52.3
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 46.5,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 48.5,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 42.2,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 81.6,
+        "rollingAverage": 53.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.82,
+        "confidence": 0.033
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.65,
+        "confidence": 0.106
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.48,
+        "confidence": 0.859
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "West_Bengal",
+    "total_signals": 9,
+    "generated_at": "2026-01-19T19:16:46+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.2,
+      "low_credibility_ratio": 0.8,
+      "verified_issues": [],
+      "noise_issues": [
+        "Corruption & Bribery",
+        "Governance & Administrative Failure",
+        "Healthcare Access & Services",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order"
+      ]
+    }
+  }
+}

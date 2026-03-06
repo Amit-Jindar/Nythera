@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Malda",
+    "district": "Unknown",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 73.12,
+      "zone": "Stable",
+      "trend": "deteriorating",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-09 13:37 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-15",
+        "sentiment": 75.9,
+        "rollingAverage": 75.9
+      },
+      {
+        "date": "2025-10-16",
+        "sentiment": 68.8,
+        "rollingAverage": 72.3
+      },
+      {
+        "date": "2025-10-20",
+        "sentiment": 56.9,
+        "rollingAverage": 67.2
+      },
+      {
+        "date": "2025-10-29",
+        "sentiment": 85.0,
+        "rollingAverage": 71.7
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 70.3,
+        "rollingAverage": 71.4
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 48.0,
+        "rollingAverage": 67.5
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 61.4,
+        "rollingAverage": 66.6
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 79.3,
+        "rollingAverage": 67.1
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 82.8,
+        "rollingAverage": 69.1
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 85.6,
+        "rollingAverage": 73.2
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 79.5,
+        "rollingAverage": 72.4
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 72.7,
+        "rollingAverage": 72.8
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 70.3,
+        "rollingAverage": 75.9
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 87.0,
+        "rollingAverage": 79.6
+      },
+      {
+        "date": "2026-01-09",
+        "sentiment": 73.3,
+        "rollingAverage": 78.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 4.31,
+        "confidence": 0.172
+      },
+      {
+        "emotion": "Fear",
+        "value": 4.96,
+        "confidence": 0.198
+      },
+      {
+        "emotion": "Trust",
+        "value": 15.17,
+        "confidence": 0.607
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.56,
+        "confidence": 0.022
+      }
+    ]
+  }
+}

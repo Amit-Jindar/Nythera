@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Rejinagar",
+    "district": "Murshidabad",
+    "total_signals": 79,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 44.33,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-22 08:22 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-02",
+        "sentiment": 65.7,
+        "rollingAverage": 65.7
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 44.2,
+        "rollingAverage": 55.0
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 46.2,
+        "rollingAverage": 52.0
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 39.0,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 39.1,
+        "rollingAverage": 46.8
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 36.3,
+        "rollingAverage": 45.1
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 35.2,
+        "rollingAverage": 43.7
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 49.9,
+        "rollingAverage": 41.4
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 43.4,
+        "rollingAverage": 41.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.91,
+        "confidence": 0.036
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.44,
+        "confidence": 0.058
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.54,
+        "confidence": 0.902
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.11,
+        "confidence": 0.005
+      }
+    ]
+  }
+}

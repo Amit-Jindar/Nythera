@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Tarakeswar",
+    "district": "Unknown",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 73.07,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-10 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-06",
+        "sentiment": 66.1,
+        "rollingAverage": 66.1
+      },
+      {
+        "date": "2025-11-09",
+        "sentiment": 80.0,
+        "rollingAverage": 73.0
+      },
+      {
+        "date": "2025-11-10",
+        "sentiment": 73.1,
+        "rollingAverage": 73.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.69,
+        "confidence": 0.107
+      },
+      {
+        "emotion": "Fear",
+        "value": 9.1,
+        "confidence": 0.364
+      },
+      {
+        "emotion": "Trust",
+        "value": 11.15,
+        "confidence": 0.446
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 2.06,
+        "confidence": 0.083
+      }
+    ]
+  }
+}

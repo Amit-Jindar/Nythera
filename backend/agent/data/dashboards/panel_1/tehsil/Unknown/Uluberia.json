@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Uluberia",
+    "district": "Unknown",
+    "total_signals": 27,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 81.3,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-26 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-21",
+        "sentiment": 73.3,
+        "rollingAverage": 73.3
+      },
+      {
+        "date": "2025-10-22",
+        "sentiment": 79.8,
+        "rollingAverage": 76.5
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 77.2,
+        "rollingAverage": 76.8
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 82.6,
+        "rollingAverage": 78.2
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 86.4,
+        "rollingAverage": 79.9
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 88.5,
+        "rollingAverage": 81.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 6.93,
+        "confidence": 0.277
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.59,
+        "confidence": 0.344
+      },
+      {
+        "emotion": "Trust",
+        "value": 9.01,
+        "confidence": 0.36
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.48,
+        "confidence": 0.019
+      }
+    ]
+  }
+}

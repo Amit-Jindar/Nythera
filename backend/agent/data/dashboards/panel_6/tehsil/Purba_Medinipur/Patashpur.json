@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba_Medinipur",
+    "name": "Patashpur",
+    "total_signals": 1,
+    "generated_at": "2026-01-19T19:16:44+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 1.0,
+      "verified_issues": [],
+      "noise_issues": [
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": []
+    }
+  }
+}

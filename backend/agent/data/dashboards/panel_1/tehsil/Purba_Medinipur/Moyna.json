@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Moyna",
+    "district": "Purba_Medinipur",
+    "total_signals": 29,
+    "generated_at": "2026-01-19T19:05:24+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 46.54,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-05 02:38 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-12",
+        "sentiment": 54.9,
+        "rollingAverage": 54.9
+      },
+      {
+        "date": "2025-10-14",
+        "sentiment": 48.1,
+        "rollingAverage": 51.5
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 35.2,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 39.5,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 38.9,
+        "rollingAverage": 43.3
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 38.6,
+        "rollingAverage": 42.5
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 45.3,
+        "rollingAverage": 42.9
+      },
+      {
+        "date": "2025-11-16",
+        "sentiment": 86.8,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 48.0,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 40.5,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 41.8,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-12-05",
+        "sentiment": 53.1,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 34.4,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 43.9,
+        "rollingAverage": 49.8
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 44.5,
+        "rollingAverage": 43.7
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 45.1,
+        "rollingAverage": 43.3
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 44.5,
+        "rollingAverage": 43.9
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 69.7,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 54.7,
+        "rollingAverage": 48.1
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 44.0,
+        "rollingAverage": 49.5
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 41.8,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 35.7,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 41.5,
+        "rollingAverage": 47.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.95,
+        "confidence": 0.038
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.99,
+        "confidence": 0.079
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.03,
+        "confidence": 0.881
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

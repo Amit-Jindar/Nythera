@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Manikchak",
+    "district": "Malda",
+    "total_signals": 12,
+    "generated_at": "2026-01-19T19:05:29+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.07,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-06 12:56 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-15",
+        "sentiment": 54.1,
+        "rollingAverage": 54.1
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 49.1,
+        "rollingAverage": 51.6
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 44.0,
+        "rollingAverage": 49.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.54,
+        "confidence": 0.022
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.95,
+        "confidence": 0.078
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.46,
+        "confidence": 0.899
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

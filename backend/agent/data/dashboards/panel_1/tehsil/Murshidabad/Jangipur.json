@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Jangipur",
+    "district": "Murshidabad",
+    "total_signals": 33,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 55.26,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-31 07:31 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-02",
+        "sentiment": 50.8,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 78.9,
+        "rollingAverage": 64.8
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 40.4,
+        "rollingAverage": 56.7
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 58.7,
+        "rollingAverage": 57.2
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 43.8,
+        "rollingAverage": 54.5
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 71.5,
+        "rollingAverage": 57.4
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 44.7,
+        "rollingAverage": 55.5
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 52.0,
+        "rollingAverage": 55.7
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 78.3,
+        "rollingAverage": 55.6
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 39.8,
+        "rollingAverage": 55.5
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 49.0,
+        "rollingAverage": 54.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.62,
+        "confidence": 0.025
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.18,
+        "confidence": 0.087
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.16,
+        "confidence": 0.886
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

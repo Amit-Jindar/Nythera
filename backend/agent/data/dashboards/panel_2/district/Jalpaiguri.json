@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Jalpaiguri",
+    "total_signals": 1590,
+    "generated_at": "2026-01-19T18:35:09.460961+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_d1f0da",
+        "issue": "Crime & Law and Order",
+        "location": "Rajganj",
+        "severity": 9.9,
+        "volume": 908,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_848b94",
+        "issue": "Sanitation & Waste Management",
+        "location": "Mal",
+        "severity": 7.7,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_4466b6",
+        "issue": "Corruption & Bribery",
+        "location": "Rajganj",
+        "severity": 10.0,
+        "volume": 118,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d68151",
+        "issue": "Women Safety & Crimes",
+        "location": "Mal",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_e3c9a6",
+        "issue": "Crime & Law and Order",
+        "location": "Jalpaiguri",
+        "severity": 9.9,
+        "volume": 125,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c039a3",
+        "issue": "Sanitation & Waste Management",
+        "location": "Rajganj",
+        "severity": 7.9,
+        "volume": 124,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f07c06",
+        "issue": "Education System Issues",
+        "location": "Rajganj",
+        "severity": 6.0,
+        "volume": 139,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_aad5ac",
+        "issue": "Crime & Law and Order",
+        "activeDays": 321,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_d1f0da",
+        "issue": "Crime & Law and Order",
+        "activeDays": 104,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_c039a3",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_f9cfe6",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_a69ac7",
+        "issue": "Education System Issues",
+        "activeDays": 82,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_e3c9a6",
+        "issue": "Crime & Law and Order",
+        "activeDays": 79,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_f07c06",
+        "issue": "Education System Issues",
+        "activeDays": 77,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_6ad883",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 67,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_98553f",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_2800e8",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_4466b6",
+        "issue": "Corruption & Bribery",
+        "activeDays": 57,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_4c4baa",
+        "issue": "Crime & Law and Order",
+        "activeDays": 54,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  }
+}

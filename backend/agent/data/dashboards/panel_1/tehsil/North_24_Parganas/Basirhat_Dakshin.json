@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Basirhat_Dakshin",
+    "district": "North_24_Parganas",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 39.8,
+      "zone": "Stress",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-11-02 07:11 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-02",
+        "sentiment": 39.8,
+        "rollingAverage": 39.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.35,
+        "confidence": 0.014
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.99,
+        "confidence": 0.039
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.64,
+        "confidence": 0.946
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.02,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

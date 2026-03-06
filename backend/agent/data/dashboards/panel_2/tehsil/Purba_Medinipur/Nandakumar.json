@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Purba_Medinipur",
+    "name": "Nandakumar",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:07:13+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_dadabd",
+        "issue": "Crime & Law and Order",
+        "location": "Nandakumar",
+        "severity": 9.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_dadabd",
+        "issue": "Crime & Law and Order",
+        "activeDays": 39,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      }
+    ]
+  }
+}

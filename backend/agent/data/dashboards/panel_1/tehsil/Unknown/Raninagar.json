@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Raninagar",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 79.65,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-11 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-27",
+        "sentiment": 76.4,
+        "rollingAverage": 76.4
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 82.9,
+        "rollingAverage": 79.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.08,
+        "confidence": 0.003
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.43,
+        "confidence": 0.057
+      },
+      {
+        "emotion": "Trust",
+        "value": 23.37,
+        "confidence": 0.935
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.12,
+        "confidence": 0.005
+      }
+    ]
+  }
+}

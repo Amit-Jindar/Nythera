@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Khejuri",
+    "district": "Purba_Medinipur",
+    "total_signals": 16,
+    "generated_at": "2026-01-19T19:05:24+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 48.23,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-07 13:21 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-20",
+        "sentiment": 48.9,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 38.2,
+        "rollingAverage": 43.5
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 64.3,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 37.8,
+        "rollingAverage": 47.3
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 37.8,
+        "rollingAverage": 45.4
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 64.1,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-11-13",
+        "sentiment": 53.6,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 45.4,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 43.4,
+        "rollingAverage": 49.5
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 64.2,
+        "rollingAverage": 49.5
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 52.1,
+        "rollingAverage": 51.5
+      },
+      {
+        "date": "2025-12-03",
+        "sentiment": 43.0,
+        "rollingAverage": 52.3
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 40.3,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 52.0,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 38.4,
+        "rollingAverage": 47.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.95,
+        "confidence": 0.038
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.56,
+        "confidence": 0.142
+      },
+      {
+        "emotion": "Trust",
+        "value": 20.46,
+        "confidence": 0.818
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

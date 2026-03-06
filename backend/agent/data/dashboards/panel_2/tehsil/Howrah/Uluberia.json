@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Howrah",
+    "name": "Uluberia",
+    "total_signals": 66,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_3eac10",
+        "issue": "Sanitation & Waste Management",
+        "location": "Uluberia",
+        "severity": 7.9,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_32da49",
+        "issue": "Crime & Law and Order",
+        "location": "Uluberia",
+        "severity": 9.9,
+        "volume": 40,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_040ed3",
+        "issue": "Education System Issues",
+        "location": "Uluberia",
+        "severity": 5.9,
+        "volume": 6,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_73f166",
+        "issue": "Women Safety & Crimes",
+        "location": "Uluberia",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8bd34a",
+        "issue": "Healthcare Access & Services",
+        "location": "Uluberia",
+        "severity": 9.3,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_29ed50",
+        "issue": "Corruption & Bribery",
+        "location": "Uluberia",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_32da49",
+        "issue": "Crime & Law and Order",
+        "activeDays": 49,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_29ed50",
+        "issue": "Corruption & Bribery",
+        "activeDays": 49,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_8bd34a",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 35,
+        "persistenceStatus": "stuck",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_73f166",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 13,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_040ed3",
+        "issue": "Education System Issues",
+        "activeDays": 7,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_3eac10",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      }
+    ]
+  }
+}

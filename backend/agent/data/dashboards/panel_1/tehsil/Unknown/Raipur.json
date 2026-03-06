@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Raipur",
+    "district": "Unknown",
+    "total_signals": 12,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 63.34,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-06 06:53 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-30",
+        "sentiment": 53.5,
+        "rollingAverage": 53.5
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 68.4,
+        "rollingAverage": 61.0
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 76.4,
+        "rollingAverage": 66.1
+      },
+      {
+        "date": "2025-12-16",
+        "sentiment": 47.5,
+        "rollingAverage": 61.5
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 72.6,
+        "rollingAverage": 63.7
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 52.0,
+        "rollingAverage": 61.7
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 90.3,
+        "rollingAverage": 65.8
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 85.6,
+        "rollingAverage": 70.4
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 44.3,
+        "rollingAverage": 67.0
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 52.6,
+        "rollingAverage": 63.6
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 53.5,
+        "rollingAverage": 64.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.81,
+        "confidence": 0.072
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.82,
+        "confidence": 0.113
+      },
+      {
+        "emotion": "Trust",
+        "value": 20.09,
+        "confidence": 0.804
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.28,
+        "confidence": 0.011
+      }
+    ]
+  }
+}

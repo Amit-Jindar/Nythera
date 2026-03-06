@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Hanskhali",
+    "total_signals": 17,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_3a1bbb",
+        "issue": "Women Safety & Crimes",
+        "location": "Hanskhali",
+        "severity": 10.0,
+        "volume": 13,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_370061",
+        "issue": "Crime & Law and Order",
+        "location": "Hanskhali",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_f39b8b",
+        "issue": "Corruption & Bribery",
+        "location": "Hanskhali",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_3a1bbb",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 2,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_370061",
+        "issue": "Crime & Law and Order",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Police"
+      },
+      {
+        "id": "p_f39b8b",
+        "issue": "Corruption & Bribery",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      }
+    ]
+  }
+}

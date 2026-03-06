@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Haringhata",
+    "district": "Nadia",
+    "total_signals": 15,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 44.94,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-04 18:37 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-27",
+        "sentiment": 44.5,
+        "rollingAverage": 44.5
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 44.6,
+        "rollingAverage": 44.5
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 49.3,
+        "rollingAverage": 46.1
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 36.8,
+        "rollingAverage": 43.8
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 43.3,
+        "rollingAverage": 43.7
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 59.1,
+        "rollingAverage": 46.3
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 37.0,
+        "rollingAverage": 44.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.84,
+        "confidence": 0.074
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.77,
+        "confidence": 0.071
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.34,
+        "confidence": 0.854
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

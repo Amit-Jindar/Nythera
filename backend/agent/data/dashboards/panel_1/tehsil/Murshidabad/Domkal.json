@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Domkal",
+    "district": "Murshidabad",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:26+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 44.4,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-08 07:10 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2026-01-08",
+        "sentiment": 44.4,
+        "rollingAverage": 44.4
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 2.59,
+        "confidence": 0.104
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.55,
+        "confidence": 0.062
+      },
+      {
+        "emotion": "Trust",
+        "value": 20.81,
+        "confidence": 0.832
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

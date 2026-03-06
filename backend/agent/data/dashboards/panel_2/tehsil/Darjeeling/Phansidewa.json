@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Darjeeling",
+    "name": "Phansidewa",
+    "total_signals": 93,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_9f62ad",
+        "issue": "Crime & Law and Order",
+        "location": "Phansidewa",
+        "severity": 9.9,
+        "volume": 82,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2a1fba",
+        "issue": "Education System Issues",
+        "location": "Phansidewa",
+        "severity": 5.9,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2daeb1",
+        "issue": "Corruption & Bribery",
+        "location": "Phansidewa",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_451526",
+        "issue": "Women Safety & Crimes",
+        "location": "Phansidewa",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_9f62ad",
+        "issue": "Crime & Law and Order",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_451526",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_2daeb1",
+        "issue": "Corruption & Bribery",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_2a1fba",
+        "issue": "Education System Issues",
+        "activeDays": 12,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

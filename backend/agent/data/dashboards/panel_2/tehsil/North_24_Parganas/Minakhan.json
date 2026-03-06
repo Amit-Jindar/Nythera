@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Minakhan",
+    "total_signals": 408,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_55b307",
+        "issue": "Crime & Law and Order",
+        "location": "Minakhan",
+        "severity": 9.9,
+        "volume": 358,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ee19f7",
+        "issue": "Traffic & Road Safety",
+        "location": "Minakhan",
+        "severity": 7.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1a2a71",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Minakhan",
+        "severity": 6.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_41026d",
+        "issue": "Corruption & Bribery",
+        "location": "Minakhan",
+        "severity": 10.0,
+        "volume": 21,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_eee2b2",
+        "issue": "Women Safety & Crimes",
+        "location": "Minakhan",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_98783a",
+        "issue": "Sanitation & Waste Management",
+        "location": "Minakhan",
+        "severity": 7.8,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8f6402",
+        "issue": "Healthcare Access & Services",
+        "location": "Minakhan",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_55b307",
+        "issue": "Crime & Law and Order",
+        "activeDays": 89,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_88faf5",
+        "issue": "Education System Issues",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_41026d",
+        "issue": "Corruption & Bribery",
+        "activeDays": 69,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_98783a",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_8f6402",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_eee2b2",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 7,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_ee19f7",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_1a2a71",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  }
+}

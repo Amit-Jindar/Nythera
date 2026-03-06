@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Dinhata",
+    "district": "Unknown",
+    "total_signals": 5,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 74.2,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-07 09:18 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-30",
+        "sentiment": 84.0,
+        "rollingAverage": 84.0
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 78.0,
+        "rollingAverage": 81.0
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 75.4,
+        "rollingAverage": 79.1
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 82.0,
+        "rollingAverage": 79.8
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 51.6,
+        "rollingAverage": 74.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.56,
+        "confidence": 0.062
+      },
+      {
+        "emotion": "Fear",
+        "value": 15.1,
+        "confidence": 0.604
+      },
+      {
+        "emotion": "Trust",
+        "value": 8.11,
+        "confidence": 0.325
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.22,
+        "confidence": 0.009
+      }
+    ]
+  }
+}

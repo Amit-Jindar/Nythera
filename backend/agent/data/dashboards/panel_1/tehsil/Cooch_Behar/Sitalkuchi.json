@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Sitalkuchi",
+    "district": "Cooch_Behar",
+    "total_signals": 19,
+    "generated_at": "2026-01-19T19:05:24+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 45.59,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-10 14:29 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-16",
+        "sentiment": 48.8,
+        "rollingAverage": 48.8
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 37.8,
+        "rollingAverage": 43.3
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 39.3,
+        "rollingAverage": 42.0
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 46.7,
+        "rollingAverage": 43.1
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 49.4,
+        "rollingAverage": 44.4
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 41.1,
+        "rollingAverage": 43.9
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 45.7,
+        "rollingAverage": 44.1
+      },
+      {
+        "date": "2025-11-15",
+        "sentiment": 38.3,
+        "rollingAverage": 42.6
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 58.1,
+        "rollingAverage": 45.5
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 50.7,
+        "rollingAverage": 47.1
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.58,
+        "confidence": 0.023
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.68,
+        "confidence": 0.067
+      },
+      {
+        "emotion": "Trust",
+        "value": 22.71,
+        "confidence": 0.908
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

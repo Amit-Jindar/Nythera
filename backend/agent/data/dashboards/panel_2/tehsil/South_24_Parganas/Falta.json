@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Falta",
+    "total_signals": 44,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_f6d1f3",
+        "issue": "Sanitation & Waste Management",
+        "location": "Falta",
+        "severity": 7.8,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_42e1d4",
+        "issue": "Healthcare Access & Services",
+        "location": "Falta",
+        "severity": 9.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_fe1a1e",
+        "issue": "Crime & Law and Order",
+        "location": "Falta",
+        "severity": 9.9,
+        "volume": 28,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b78833",
+        "issue": "Corruption & Bribery",
+        "location": "Falta",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_057065",
+        "issue": "Education System Issues",
+        "location": "Falta",
+        "severity": 5.9,
+        "volume": 8,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_fe1a1e",
+        "issue": "Crime & Law and Order",
+        "activeDays": 77,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_057065",
+        "issue": "Education System Issues",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_b78833",
+        "issue": "Corruption & Bribery",
+        "activeDays": 15,
+        "persistenceStatus": "recurring",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_f6d1f3",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_42e1d4",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      }
+    ]
+  }
+}

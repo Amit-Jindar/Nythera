@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Howrah",
+    "total_signals": 18,
+    "panels_present": 6,
+    "generated_at": "2026-01-19T19:19:41+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 74.51,
+      "zone": "Stable",
+      "trend": "improving",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-29 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-22",
+        "sentiment": 69.1,
+        "rollingAverage": 69.1
+      },
+      {
+        "date": "2025-10-23",
+        "sentiment": 71.1,
+        "rollingAverage": 70.1
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 67.4,
+        "rollingAverage": 69.2
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 67.8,
+        "rollingAverage": 68.8
+      },
+      {
+        "date": "2025-11-05",
+        "sentiment": 61.8,
+        "rollingAverage": 67.4
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 72.8,
+        "rollingAverage": 68.3
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 82.3,
+        "rollingAverage": 70.3
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 87.4,
+        "rollingAverage": 72.9
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 74.7,
+        "rollingAverage": 73.5
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 83.6,
+        "rollingAverage": 75.8
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 58.8,
+        "rollingAverage": 74.5
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 60.1,
+        "rollingAverage": 74.2
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 84.9,
+        "rollingAverage": 76.0
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 94.7,
+        "rollingAverage": 77.7
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 81.2,
+        "rollingAverage": 76.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 4.98,
+        "confidence": 0.199
+      },
+      {
+        "emotion": "Fear",
+        "value": 8.38,
+        "confidence": 0.335
+      },
+      {
+        "emotion": "Trust",
+        "value": 10.42,
+        "confidence": 0.417
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 1.22,
+        "confidence": 0.049
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_1c3451",
+        "issue": "Education System Issues",
+        "location": "Howrah",
+        "severity": 6.7,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_fcf749",
+        "issue": "Women Safety & Crimes",
+        "location": "Howrah",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_765492",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Howrah",
+        "severity": 7.2,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c90afa",
+        "issue": "Crime & Law and Order",
+        "location": "Howrah",
+        "severity": 10.0,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_088829",
+        "issue": "Healthcare Access & Services",
+        "location": "Howrah",
+        "severity": 9.9,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8bce1d",
+        "issue": "Traffic & Road Safety",
+        "location": "Howrah",
+        "severity": 7.9,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_c90afa",
+        "issue": "Crime & Law and Order",
+        "activeDays": 63,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_088829",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 55,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_8bce1d",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 54,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_fcf749",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_1c3451",
+        "issue": "Education System Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_765492",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Health Department + Police + Traffic Police",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_65d72b",
+        "issue": "Healthcare Access & Services",
+        "department": "Health Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_f282bd",
+        "issue": "Traffic & Road Safety",
+        "department": "Traffic Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 8,
+      "pressure": 8,
+      "capacity": 92,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 98.1,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 95.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 94.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 86.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 72.4,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 69.8,
+        "trend": "Improving",
+        "change": 3
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 79.1,
+      "trend": "Improving",
+      "change": 2.4,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.0,
+      "medium_credibility_ratio": 0.5,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [],
+      "noise_issues": [
+        "Education System Issues",
+        "Farmer & Agriculture Issues",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order",
+        "Healthcare Access & Services",
+        "Traffic & Road Safety"
+      ]
+    }
+  }
+}

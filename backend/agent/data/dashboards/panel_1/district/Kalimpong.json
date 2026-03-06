@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Kalimpong",
+    "total_signals": 63,
+    "generated_at": "2026-01-19T18:32:02.532992+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 49.67,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-28 14:53 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-05-17",
+        "sentiment": 37.5,
+        "rollingAverage": 37.5
+      },
+      {
+        "date": "2025-09-15",
+        "sentiment": 46.1,
+        "rollingAverage": 41.8
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 40.7,
+        "rollingAverage": 41.4
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 72.4,
+        "rollingAverage": 49.2
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 48.3,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 57.7,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 45.0,
+        "rollingAverage": 49.7
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.15,
+        "confidence": 0.046
+      },
+      {
+        "emotion": "Fear",
+        "value": 1.85,
+        "confidence": 0.074
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.96,
+        "confidence": 0.878
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

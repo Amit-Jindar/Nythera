@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Unknown",
+    "district": "Jalpaiguri",
+    "total_signals": 10,
+    "generated_at": "2026-01-19T19:05:29+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 74.83,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-18 09:15 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-01-31",
+        "sentiment": 78.6,
+        "rollingAverage": 78.6
+      },
+      {
+        "date": "2025-02-03",
+        "sentiment": 85.9,
+        "rollingAverage": 82.2
+      },
+      {
+        "date": "2025-07-22",
+        "sentiment": 88.9,
+        "rollingAverage": 84.5
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 49.6,
+        "rollingAverage": 75.8
+      },
+      {
+        "date": "2025-12-17",
+        "sentiment": 79.8,
+        "rollingAverage": 76.6
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 66.2,
+        "rollingAverage": 74.8
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.06,
+        "confidence": 0.002
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.14,
+        "confidence": 0.006
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.75,
+        "confidence": 0.99
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.05,
+        "confidence": 0.002
+      }
+    ]
+  }
+}

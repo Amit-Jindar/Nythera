@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Kurseong",
+    "district": "Unknown",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 61.03,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-24 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-08",
+        "sentiment": 72.2,
+        "rollingAverage": 72.2
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 52.5,
+        "rollingAverage": 62.4
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 58.4,
+        "rollingAverage": 61.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.22,
+        "confidence": 0.009
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.81,
+        "confidence": 0.312
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.82,
+        "confidence": 0.673
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.14,
+        "confidence": 0.006
+      }
+    ]
+  }
+}

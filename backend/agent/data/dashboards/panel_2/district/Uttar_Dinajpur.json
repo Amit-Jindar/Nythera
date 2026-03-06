@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Uttar_Dinajpur",
+    "total_signals": 582,
+    "generated_at": "2026-01-19T18:35:10.228939+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_236f95",
+        "issue": "Healthcare Access & Services",
+        "location": "Islampur",
+        "severity": 9.5,
+        "volume": 8,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_caca53",
+        "issue": "Crime & Law and Order",
+        "location": "Chopra",
+        "severity": 9.9,
+        "volume": 388,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9c25d2",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Raiganj",
+        "severity": 7.2,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_7fbb81",
+        "issue": "Crime & Law and Order",
+        "location": "Itahar",
+        "severity": 9.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2fc3b9",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Islampur",
+        "severity": 8.1,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3075ea",
+        "issue": "Traffic & Road Safety",
+        "location": "Raiganj",
+        "severity": 8.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f4b402",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Chopra",
+        "severity": 7.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_caca53",
+        "issue": "Crime & Law and Order",
+        "activeDays": 90,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_1ccc1c",
+        "issue": "Education System Issues",
+        "activeDays": 89,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_201a05",
+        "issue": "Education System Issues",
+        "activeDays": 76,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_df8327",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 70,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_a97124",
+        "issue": "Environmental Degradation",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Environment Department"
+      },
+      {
+        "id": "p_9f0667",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 64,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_757e42",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 63,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_c82146",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 60,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_2e8db2",
+        "issue": "Corruption & Bribery",
+        "activeDays": 60,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_c30a6f",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 60,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_284b19",
+        "issue": "Crime & Law and Order",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_bf113d",
+        "issue": "Crime & Law and Order",
+        "activeDays": 58,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Arambagh",
+    "district": "Hooghly",
+    "total_signals": 30,
+    "generated_at": "2026-01-19T19:05:25+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 48.61,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-28 14:23 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-15",
+        "sentiment": 70.0,
+        "rollingAverage": 70.0
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 39.6,
+        "rollingAverage": 54.8
+      },
+      {
+        "date": "2025-10-18",
+        "sentiment": 55.7,
+        "rollingAverage": 55.1
+      },
+      {
+        "date": "2025-10-20",
+        "sentiment": 34.1,
+        "rollingAverage": 49.9
+      },
+      {
+        "date": "2025-10-24",
+        "sentiment": 47.5,
+        "rollingAverage": 49.4
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 46.4,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 78.9,
+        "rollingAverage": 53.2
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 46.3,
+        "rollingAverage": 49.8
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 49.3,
+        "rollingAverage": 51.2
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 40.9,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 52.1,
+        "rollingAverage": 51.6
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 36.9,
+        "rollingAverage": 50.1
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 36.4,
+        "rollingAverage": 48.7
+      },
+      {
+        "date": "2025-12-15",
+        "sentiment": 47.4,
+        "rollingAverage": 44.2
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 58.5,
+        "rollingAverage": 45.9
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 37.7,
+        "rollingAverage": 44.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.69,
+        "confidence": 0.028
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.52,
+        "confidence": 0.101
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.76,
+        "confidence": 0.87
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.03,
+        "confidence": 0.001
+      }
+    ]
+  }
+}

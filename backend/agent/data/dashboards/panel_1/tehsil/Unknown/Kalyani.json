@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Kalyani",
+    "district": "Unknown",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 53.96,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "MEDIUM",
+      "last_updated": "2025-12-31 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-27",
+        "sentiment": 60.6,
+        "rollingAverage": 60.6
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 50.3,
+        "rollingAverage": 55.5
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 77.5,
+        "rollingAverage": 62.8
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 50.0,
+        "rollingAverage": 59.6
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 42.9,
+        "rollingAverage": 56.3
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 51.0,
+        "rollingAverage": 55.4
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 45.4,
+        "rollingAverage": 54.0
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.14,
+        "confidence": 0.006
+      },
+      {
+        "emotion": "Fear",
+        "value": 0.33,
+        "confidence": 0.013
+      },
+      {
+        "emotion": "Trust",
+        "value": 24.17,
+        "confidence": 0.967
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.35,
+        "confidence": 0.014
+      }
+    ]
+  }
+}

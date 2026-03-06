@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Unknown",
+    "name": "Dum_Dum",
+    "total_signals": 19,
+    "generated_at": "2026-01-19T19:16:46+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.2,
+      "medium_credibility_ratio": 0.6,
+      "low_credibility_ratio": 0.2,
+      "verified_issues": [
+        "Corruption & Bribery"
+      ],
+      "noise_issues": [
+        "Education System Issues"
+      ],
+      "contested_issues": [
+        "Crime & Law and Order",
+        "Healthcare Access & Services",
+        "Women Safety & Crimes"
+      ]
+    }
+  }
+}

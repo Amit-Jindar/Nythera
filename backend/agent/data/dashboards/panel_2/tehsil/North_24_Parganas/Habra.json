@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Habra",
+    "total_signals": 26,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_595f7a",
+        "issue": "Sanitation & Waste Management",
+        "location": "Habra",
+        "severity": 7.7,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_7afba5",
+        "issue": "Crime & Law and Order",
+        "location": "Habra",
+        "severity": 9.9,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9ce777",
+        "issue": "Corruption & Bribery",
+        "location": "Habra",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c73e2e",
+        "issue": "Education System Issues",
+        "location": "Habra",
+        "severity": 5.8,
+        "volume": 5,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_7afba5",
+        "issue": "Crime & Law and Order",
+        "activeDays": 74,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_c73e2e",
+        "issue": "Education System Issues",
+        "activeDays": 36,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_9ce777",
+        "issue": "Corruption & Bribery",
+        "activeDays": 23,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_595f7a",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Municipal Corporation"
+      }
+    ]
+  }
+}

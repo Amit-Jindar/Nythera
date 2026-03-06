@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "South_24_Parganas",
+    "name": "Basanti",
+    "total_signals": 241,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_2b7626",
+        "issue": "Crime & Law and Order",
+        "location": "Basanti",
+        "severity": 9.9,
+        "volume": 190,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_beb036",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Basanti",
+        "severity": 7.1,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6b6969",
+        "issue": "Environmental Degradation",
+        "location": "Basanti",
+        "severity": 5.8,
+        "volume": 1,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_6f0ed7",
+        "issue": "Sanitation & Waste Management",
+        "location": "Basanti",
+        "severity": 7.8,
+        "volume": 30,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d946a0",
+        "issue": "Women Safety & Crimes",
+        "location": "Basanti",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_eeeb3a",
+        "issue": "Corruption & Bribery",
+        "location": "Basanti",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_659c3c",
+        "issue": "Healthcare Access & Services",
+        "location": "Basanti",
+        "severity": 9.3,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_2b7626",
+        "issue": "Crime & Law and Order",
+        "activeDays": 88,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_6f0ed7",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 56,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_659c3c",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 51,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_aa9038",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 50,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_88cd42",
+        "issue": "Education System Issues",
+        "activeDays": 45,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_eeeb3a",
+        "issue": "Corruption & Bribery",
+        "activeDays": 39,
+        "persistenceStatus": "stuck",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_d946a0",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 12,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_beb036",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      },
+      {
+        "id": "p_6b6969",
+        "issue": "Environmental Degradation",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Environment Department"
+      }
+    ]
+  }
+}

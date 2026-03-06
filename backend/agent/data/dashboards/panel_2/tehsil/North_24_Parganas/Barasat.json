@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North_24_Parganas",
+    "name": "Barasat",
+    "total_signals": 245,
+    "generated_at": "2026-01-19T19:07:15+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_e89270",
+        "issue": "Crime & Law and Order",
+        "location": "Barasat",
+        "severity": 9.9,
+        "volume": 181,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_cdd855",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Barasat",
+        "severity": 7.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_b8424d",
+        "issue": "Healthcare Access & Services",
+        "location": "Barasat",
+        "severity": 9.4,
+        "volume": 21,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_02c1f6",
+        "issue": "Sanitation & Waste Management",
+        "location": "Barasat",
+        "severity": 7.8,
+        "volume": 16,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_d51b5d",
+        "issue": "Corruption & Bribery",
+        "location": "Barasat",
+        "severity": 10.0,
+        "volume": 10,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_699dfa",
+        "issue": "Women Safety & Crimes",
+        "location": "Barasat",
+        "severity": 10.0,
+        "volume": 3,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f849a6",
+        "issue": "Traffic & Road Safety",
+        "location": "Barasat",
+        "severity": 7.2,
+        "volume": 6,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_d0b0ea",
+        "issue": "Education System Issues",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_e89270",
+        "issue": "Crime & Law and Order",
+        "activeDays": 83,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_02c1f6",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_d51b5d",
+        "issue": "Corruption & Bribery",
+        "activeDays": 66,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_f849a6",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 56,
+        "persistenceStatus": "chronic",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_b8424d",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 52,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_699dfa",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 21,
+        "persistenceStatus": "stuck",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_cdd855",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      }
+    ]
+  }
+}

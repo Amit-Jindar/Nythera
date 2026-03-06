@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Darjeeling",
+    "name": "Phansidewa",
+    "total_signals": 450,
+    "enriched_signals": 93,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T17:11:25.311258+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 51.87,
+      "zone": "Concern",
+      "trend": "improving",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-07 17:32 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-13",
+        "sentiment": 48.4,
+        "rollingAverage": 48.4
+      },
+      {
+        "date": "2025-10-14",
+        "sentiment": 76.6,
+        "rollingAverage": 62.5
+      },
+      {
+        "date": "2025-10-16",
+        "sentiment": 58.3,
+        "rollingAverage": 61.1
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 54.1,
+        "rollingAverage": 59.3
+      },
+      {
+        "date": "2025-10-20",
+        "sentiment": 66.1,
+        "rollingAverage": 60.7
+      },
+      {
+        "date": "2025-10-25",
+        "sentiment": 50.4,
+        "rollingAverage": 59.0
+      },
+      {
+        "date": "2025-10-26",
+        "sentiment": 62.3,
+        "rollingAverage": 59.5
+      },
+      {
+        "date": "2025-11-07",
+        "sentiment": 42.3,
+        "rollingAverage": 58.6
+      },
+      {
+        "date": "2025-11-11",
+        "sentiment": 56.8,
+        "rollingAverage": 55.8
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 43.7,
+        "rollingAverage": 53.7
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 42.4,
+        "rollingAverage": 52.0
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 50.1,
+        "rollingAverage": 49.7
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 65.1,
+        "rollingAverage": 51.8
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 51.2,
+        "rollingAverage": 50.2
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 51.7,
+        "rollingAverage": 51.6
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 44.5,
+        "rollingAverage": 49.8
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 47.2,
+        "rollingAverage": 50.3
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 52.5,
+        "rollingAverage": 51.8
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 43.5,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2025-11-30",
+        "sentiment": 67.6,
+        "rollingAverage": 51.2
+      },
+      {
+        "date": "2025-12-08",
+        "sentiment": 55.4,
+        "rollingAverage": 51.8
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 46.5,
+        "rollingAverage": 51.0
+      },
+      {
+        "date": "2025-12-11",
+        "sentiment": 44.7,
+        "rollingAverage": 51.1
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 47.2,
+        "rollingAverage": 51.1
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 51.9,
+        "rollingAverage": 51.0
+      },
+      {
+        "date": "2025-12-14",
+        "sentiment": 40.3,
+        "rollingAverage": 50.5
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 40.4,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-12-19",
+        "sentiment": 55.1,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 53.3,
+        "rollingAverage": 47.6
+      },
+      {
+        "date": "2025-12-21",
+        "sentiment": 57.9,
+        "rollingAverage": 49.4
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 40.7,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 46.2,
+        "rollingAverage": 47.7
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 50.0,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 45.5,
+        "rollingAverage": 49.8
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 61.0,
+        "rollingAverage": 50.7
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 49.2,
+        "rollingAverage": 50.1
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 52.2,
+        "rollingAverage": 49.3
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 48.0,
+        "rollingAverage": 50.3
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 57.7,
+        "rollingAverage": 51.9
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 56.9,
+        "rollingAverage": 52.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.81,
+        "confidence": 0.032
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.98,
+        "confidence": 0.119
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.18,
+        "confidence": 0.847
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.001
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_9f62ad",
+        "issue": "Crime & Law and Order",
+        "location": "Phansidewa",
+        "severity": 9.9,
+        "volume": 82,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2a1fba",
+        "issue": "Education System Issues",
+        "location": "Phansidewa",
+        "severity": 5.9,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_2daeb1",
+        "issue": "Corruption & Bribery",
+        "location": "Phansidewa",
+        "severity": 10.0,
+        "volume": 5,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_451526",
+        "issue": "Women Safety & Crimes",
+        "location": "Phansidewa",
+        "severity": 10.0,
+        "volume": 4,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_9f62ad",
+        "issue": "Crime & Law and Order",
+        "activeDays": 86,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_451526",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 65,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_2daeb1",
+        "issue": "Corruption & Bribery",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_2a1fba",
+        "issue": "Education System Issues",
+        "activeDays": 12,
+        "persistenceStatus": "recurring",
+        "department": "Education Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 1,
+      "zone": "Police + Women Security Cell + Anti Corruption Bureau (ACB)",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.08
+      },
+      {
+        "id": "e_34ade4",
+        "issue": "Women Safety & Crimes",
+        "department": "Women Security Cell",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.02
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 81,
+      "pressure": 81,
+      "capacity": 19,
+      "status": "critical"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 5,
+      "pressure": 5,
+      "capacity": 95,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 96.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 83.8,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 81.3,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 0,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.5,
+      "medium_credibility_ratio": 0.25,
+      "low_credibility_ratio": 0.25,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order"
+      ],
+      "noise_issues": [
+        "Education System Issues"
+      ],
+      "contested_issues": [
+        "Women Safety & Crimes"
+      ]
+    }
+  }
+}

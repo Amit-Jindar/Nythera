@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Paschim_Medinipur",
+    "district": "Unknown",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 64.3,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-10 19:56 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-31",
+        "sentiment": 78.1,
+        "rollingAverage": 78.1
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 38.0,
+        "rollingAverage": 58.0
+      },
+      {
+        "date": "2026-01-10",
+        "sentiment": 76.8,
+        "rollingAverage": 64.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.56,
+        "confidence": 0.022
+      },
+      {
+        "emotion": "Fear",
+        "value": 12.7,
+        "confidence": 0.508
+      },
+      {
+        "emotion": "Trust",
+        "value": 11.62,
+        "confidence": 0.465
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.12,
+        "confidence": 0.005
+      }
+    ]
+  }
+}

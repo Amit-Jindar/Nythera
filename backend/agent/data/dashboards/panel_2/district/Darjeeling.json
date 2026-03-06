@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "level": "district",
+    "name": "Darjeeling",
+    "total_signals": 1215,
+    "generated_at": "2026-01-19T18:35:11.867239+00:00"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_c186b2",
+        "issue": "Women Safety & Crimes",
+        "location": "Darjeeling",
+        "severity": 10.0,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_50e54e",
+        "issue": "Crime & Law and Order",
+        "location": "Siliguri",
+        "severity": 9.9,
+        "volume": 360,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9f62ad",
+        "issue": "Crime & Law and Order",
+        "location": "Phansidewa",
+        "severity": 9.9,
+        "volume": 82,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_3858f2",
+        "issue": "Crime & Law and Order",
+        "location": "Darjeeling",
+        "severity": 9.9,
+        "volume": 299,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_bd4581",
+        "issue": "Water Supply Disruption",
+        "location": "Siliguri",
+        "severity": 8.7,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_90691c",
+        "issue": "Sanitation & Waste Management",
+        "location": "Matigara-Naxalbari",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_81e9d5",
+        "issue": "Traffic & Road Safety",
+        "location": "Unknown",
+        "severity": 7.4,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_50e54e",
+        "issue": "Crime & Law and Order",
+        "activeDays": 357,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_87ddcc",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 349,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_60e38f",
+        "issue": "Education System Issues",
+        "activeDays": 348,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_aad5ac",
+        "issue": "Crime & Law and Order",
+        "activeDays": 344,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_8a0a08",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 331,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_3858f2",
+        "issue": "Crime & Law and Order",
+        "activeDays": 330,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_b2ffde",
+        "issue": "Corruption & Bribery",
+        "activeDays": 324,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_397c0b",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 314,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_45a7c4",
+        "issue": "Corruption & Bribery",
+        "activeDays": 306,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_05b8bd",
+        "issue": "Corruption & Bribery",
+        "activeDays": 301,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_233e86",
+        "issue": "Education System Issues",
+        "activeDays": 271,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_27fac4",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 261,
+        "persistenceStatus": "chronic",
+        "department": "General Administration"
+      }
+    ]
+  }
+}

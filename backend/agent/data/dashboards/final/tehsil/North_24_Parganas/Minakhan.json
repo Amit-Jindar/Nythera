@@ -1,0 +1,664 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "North 24 Parganas",
+    "name": "Minakhan",
+    "total_signals": 3440,
+    "enriched_signals": 408,
+    "panels_present": 6,
+    "generated_at": "2026-01-20T16:55:43.356834+00:00"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 48.76,
+      "zone": "Concern",
+      "trend": "deteriorating",
+      "risk_level": "MEDIUM",
+      "last_updated": "2026-01-07 10:13 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-10",
+        "sentiment": 51.5,
+        "rollingAverage": 51.5
+      },
+      {
+        "date": "2025-10-11",
+        "sentiment": 46.8,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2025-10-13",
+        "sentiment": 41.4,
+        "rollingAverage": 46.6
+      },
+      {
+        "date": "2025-10-17",
+        "sentiment": 41.0,
+        "rollingAverage": 45.2
+      },
+      {
+        "date": "2025-10-18",
+        "sentiment": 38.6,
+        "rollingAverage": 43.9
+      },
+      {
+        "date": "2025-10-21",
+        "sentiment": 37.3,
+        "rollingAverage": 42.8
+      },
+      {
+        "date": "2025-10-22",
+        "sentiment": 51.5,
+        "rollingAverage": 44.0
+      },
+      {
+        "date": "2025-10-28",
+        "sentiment": 35.3,
+        "rollingAverage": 41.7
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 50.0,
+        "rollingAverage": 42.2
+      },
+      {
+        "date": "2025-10-31",
+        "sentiment": 39.2,
+        "rollingAverage": 41.8
+      },
+      {
+        "date": "2025-11-01",
+        "sentiment": 53.4,
+        "rollingAverage": 43.6
+      },
+      {
+        "date": "2025-11-02",
+        "sentiment": 65.8,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-11-03",
+        "sentiment": 41.9,
+        "rollingAverage": 48.2
+      },
+      {
+        "date": "2025-11-04",
+        "sentiment": 36.7,
+        "rollingAverage": 46.0
+      },
+      {
+        "date": "2025-11-06",
+        "sentiment": 45.7,
+        "rollingAverage": 47.5
+      },
+      {
+        "date": "2025-11-08",
+        "sentiment": 57.6,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-11-12",
+        "sentiment": 42.1,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-11-17",
+        "sentiment": 53.4,
+        "rollingAverage": 49.0
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 53.0,
+        "rollingAverage": 47.2
+      },
+      {
+        "date": "2025-11-19",
+        "sentiment": 51.1,
+        "rollingAverage": 48.5
+      },
+      {
+        "date": "2025-11-20",
+        "sentiment": 54.9,
+        "rollingAverage": 51.1
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 55.3,
+        "rollingAverage": 52.5
+      },
+      {
+        "date": "2025-11-22",
+        "sentiment": 55.2,
+        "rollingAverage": 52.1
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 51.2,
+        "rollingAverage": 53.4
+      },
+      {
+        "date": "2025-11-24",
+        "sentiment": 52.4,
+        "rollingAverage": 53.3
+      },
+      {
+        "date": "2025-11-25",
+        "sentiment": 61.6,
+        "rollingAverage": 54.5
+      },
+      {
+        "date": "2025-11-26",
+        "sentiment": 49.4,
+        "rollingAverage": 54.3
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 52.0,
+        "rollingAverage": 53.9
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 46.6,
+        "rollingAverage": 52.6
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 44.8,
+        "rollingAverage": 51.1
+      },
+      {
+        "date": "2025-12-02",
+        "sentiment": 39.7,
+        "rollingAverage": 49.5
+      },
+      {
+        "date": "2025-12-04",
+        "sentiment": 46.0,
+        "rollingAverage": 48.6
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 45.8,
+        "rollingAverage": 46.3
+      },
+      {
+        "date": "2025-12-07",
+        "sentiment": 45.4,
+        "rollingAverage": 45.8
+      },
+      {
+        "date": "2025-12-09",
+        "sentiment": 46.2,
+        "rollingAverage": 44.9
+      },
+      {
+        "date": "2025-12-10",
+        "sentiment": 58.8,
+        "rollingAverage": 46.7
+      },
+      {
+        "date": "2025-12-13",
+        "sentiment": 53.1,
+        "rollingAverage": 47.9
+      },
+      {
+        "date": "2025-12-18",
+        "sentiment": 39.6,
+        "rollingAverage": 47.8
+      },
+      {
+        "date": "2025-12-20",
+        "sentiment": 73.3,
+        "rollingAverage": 51.7
+      },
+      {
+        "date": "2025-12-22",
+        "sentiment": 39.2,
+        "rollingAverage": 50.8
+      },
+      {
+        "date": "2025-12-23",
+        "sentiment": 44.8,
+        "rollingAverage": 50.7
+      },
+      {
+        "date": "2025-12-24",
+        "sentiment": 47.4,
+        "rollingAverage": 50.9
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 53.6,
+        "rollingAverage": 50.1
+      },
+      {
+        "date": "2025-12-26",
+        "sentiment": 56.0,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2025-12-27",
+        "sentiment": 62.6,
+        "rollingAverage": 53.8
+      },
+      {
+        "date": "2025-12-28",
+        "sentiment": 38.6,
+        "rollingAverage": 48.9
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 54.2,
+        "rollingAverage": 51.0
+      },
+      {
+        "date": "2025-12-30",
+        "sentiment": 45.1,
+        "rollingAverage": 51.1
+      },
+      {
+        "date": "2025-12-31",
+        "sentiment": 40.1,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2026-01-01",
+        "sentiment": 46.9,
+        "rollingAverage": 49.1
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 51.3,
+        "rollingAverage": 48.4
+      },
+      {
+        "date": "2026-01-03",
+        "sentiment": 53.5,
+        "rollingAverage": 47.1
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 70.9,
+        "rollingAverage": 51.7
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 46.2,
+        "rollingAverage": 50.6
+      },
+      {
+        "date": "2026-01-06",
+        "sentiment": 40.9,
+        "rollingAverage": 50.0
+      },
+      {
+        "date": "2026-01-07",
+        "sentiment": 34.7,
+        "rollingAverage": 49.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.06,
+        "confidence": 0.042
+      },
+      {
+        "emotion": "Fear",
+        "value": 2.6,
+        "confidence": 0.104
+      },
+      {
+        "emotion": "Trust",
+        "value": 21.3,
+        "confidence": 0.852
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.04,
+        "confidence": 0.002
+      }
+    ]
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_55b307",
+        "issue": "Crime & Law and Order",
+        "location": "Minakhan",
+        "severity": 9.9,
+        "volume": 358,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_ee19f7",
+        "issue": "Traffic & Road Safety",
+        "location": "Minakhan",
+        "severity": 7.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_1a2a71",
+        "issue": "Farmer & Agriculture Issues",
+        "location": "Minakhan",
+        "severity": 6.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_41026d",
+        "issue": "Corruption & Bribery",
+        "location": "Minakhan",
+        "severity": 10.0,
+        "volume": 21,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_eee2b2",
+        "issue": "Women Safety & Crimes",
+        "location": "Minakhan",
+        "severity": 10.0,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_98783a",
+        "issue": "Sanitation & Waste Management",
+        "location": "Minakhan",
+        "severity": 7.8,
+        "volume": 15,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8f6402",
+        "issue": "Healthcare Access & Services",
+        "location": "Minakhan",
+        "severity": 9.3,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_55b307",
+        "issue": "Crime & Law and Order",
+        "activeDays": 89,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_88faf5",
+        "issue": "Education System Issues",
+        "activeDays": 78,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_41026d",
+        "issue": "Corruption & Bribery",
+        "activeDays": 69,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_98783a",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 59,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_8f6402",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 18,
+        "persistenceStatus": "recurring",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_eee2b2",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 7,
+        "persistenceStatus": "recurring",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_ee19f7",
+        "issue": "Traffic & Road Safety",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Traffic Police"
+      },
+      {
+        "id": "p_1a2a71",
+        "issue": "Farmer & Agriculture Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Agriculture Department"
+      }
+    ]
+  },
+  "PANEL_3": {
+    "CRITICAL_ALERT": {
+      "risk_percent": 2,
+      "zone": "Police + Anti Corruption Bureau (ACB) + Municipal Corporation",
+      "message": "Situation under observation"
+    },
+    "ESCALATION_RISK": [
+      {
+        "id": "e_d1dcc1",
+        "issue": "Crime & Law and Order",
+        "department": "Police",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.09
+      },
+      {
+        "id": "e_563c92",
+        "issue": "Corruption & Bribery",
+        "department": "Anti Corruption Bureau (ACB)",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.06
+      },
+      {
+        "id": "e_282d85",
+        "issue": "Sanitation & Waste Management",
+        "department": "Municipal Corporation",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      },
+      {
+        "id": "e_b21e87",
+        "issue": "Education System Issues",
+        "department": "Education Department",
+        "severity": "medium",
+        "riskFactor": "stagnant issue with rising pressure",
+        "escalationRatio": 0.03
+      }
+    ],
+    "UNREST_TRIGGERS": []
+  },
+  "PANEL_4": [
+    {
+      "id": "d_5dac73",
+      "department": "Police",
+      "overloadScore": 100,
+      "pressure": 100,
+      "capacity": 0,
+      "status": "critical"
+    },
+    {
+      "id": "d_816cb6",
+      "department": "Anti Corruption Bureau (ACB)",
+      "overloadScore": 25,
+      "pressure": 25,
+      "capacity": 75,
+      "status": "nominal"
+    },
+    {
+      "id": "d_65ceee",
+      "department": "Municipal Corporation",
+      "overloadScore": 15,
+      "pressure": 15,
+      "capacity": 85,
+      "status": "nominal"
+    },
+    {
+      "id": "d_b80c7a",
+      "department": "Education Department",
+      "overloadScore": 6,
+      "pressure": 6,
+      "capacity": 94,
+      "status": "nominal"
+    },
+    {
+      "id": "d_32e6fd",
+      "department": "Women Security Cell",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_742919",
+      "department": "Health Department",
+      "overloadScore": 3,
+      "pressure": 3,
+      "capacity": 97,
+      "status": "nominal"
+    },
+    {
+      "id": "d_73e51d",
+      "department": "Traffic Police",
+      "overloadScore": 2,
+      "pressure": 2,
+      "capacity": 98,
+      "status": "nominal"
+    },
+    {
+      "id": "d_963751",
+      "department": "Agriculture Department",
+      "overloadScore": 1,
+      "pressure": 1,
+      "capacity": 99,
+      "status": "nominal"
+    }
+  ],
+  "PANEL_5": {
+    "DEPARTMENT_TRUST": [
+      {
+        "id": "dt_963751",
+        "department": "Agriculture Department",
+        "trustScore": 97.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_73e51d",
+        "department": "Traffic Police",
+        "trustScore": 96.5,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_742919",
+        "department": "Health Department",
+        "trustScore": 93.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_32e6fd",
+        "department": "Women Security Cell",
+        "trustScore": 91.0,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_b80c7a",
+        "department": "Education Department",
+        "trustScore": 83.9,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_65ceee",
+        "department": "Municipal Corporation",
+        "trustScore": 61.6,
+        "trend": "Improving",
+        "change": 3
+      },
+      {
+        "id": "dt_816cb6",
+        "department": "Anti Corruption Bureau (ACB)",
+        "trustScore": 14.1,
+        "trend": "Declining",
+        "change": -6
+      },
+      {
+        "id": "dt_5dac73",
+        "department": "Police",
+        "trustScore": 0,
+        "trend": "Declining",
+        "change": -6
+      }
+    ],
+    "PUBLIC_TRUST": {
+      "score": 0,
+      "trend": "Declining",
+      "change": -4.8,
+      "drivers": [
+        {
+          "factor": "High severity incidents",
+          "impact": -5,
+          "description": "High severity incidents"
+        },
+        {
+          "factor": "Low credibility signals",
+          "impact": -4,
+          "description": "Unverified or conflicting reports"
+        },
+        {
+          "factor": "Rapid issue escalation",
+          "impact": -6,
+          "description": "Sudden surge in unresolved issues"
+        },
+        {
+          "factor": "Departmental overload",
+          "impact": -5,
+          "description": "Administrative capacity under stress"
+        }
+      ]
+    }
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.5,
+      "medium_credibility_ratio": 0.0,
+      "low_credibility_ratio": 0.5,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Sanitation & Waste Management"
+      ],
+      "noise_issues": [
+        "Farmer & Agriculture Issues",
+        "Healthcare Access & Services",
+        "Traffic & Road Safety",
+        "Women Safety & Crimes"
+      ],
+      "contested_issues": []
+    }
+  }
+}

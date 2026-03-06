@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Howrah",
+    "name": "Amta",
+    "total_signals": 234,
+    "generated_at": "2026-01-19T19:07:14+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_57f7bf",
+        "issue": "Governance & Administrative Failure",
+        "location": "Amta",
+        "severity": 5.7,
+        "volume": 3,
+        "status": "resolving",
+        "lifecycle": "emerging"
+      },
+      {
+        "id": "h_5d3400",
+        "issue": "Crime & Law and Order",
+        "location": "Amta",
+        "severity": 9.8,
+        "volume": 140,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_f1e216",
+        "issue": "Road & Infrastructure Issues",
+        "location": "Amta",
+        "severity": 7.8,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_e0f90d",
+        "issue": "Public Transport Issues",
+        "location": "Amta",
+        "severity": 6.9,
+        "volume": 1,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_23a1a1",
+        "issue": "Sanitation & Waste Management",
+        "location": "Amta",
+        "severity": 7.8,
+        "volume": 38,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_8e07fc",
+        "issue": "Healthcare Access & Services",
+        "location": "Amta",
+        "severity": 9.4,
+        "volume": 17,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_9650bb",
+        "issue": "Women Safety & Crimes",
+        "location": "Amta",
+        "severity": 10.0,
+        "volume": 11,
+        "status": "active",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_483159",
+        "issue": "Corruption & Bribery",
+        "activeDays": 212,
+        "persistenceStatus": "chronic",
+        "department": "Anti Corruption Bureau (ACB)"
+      },
+      {
+        "id": "p_5d3400",
+        "issue": "Crime & Law and Order",
+        "activeDays": 92,
+        "persistenceStatus": "chronic",
+        "department": "Police"
+      },
+      {
+        "id": "p_8e07fc",
+        "issue": "Healthcare Access & Services",
+        "activeDays": 91,
+        "persistenceStatus": "chronic",
+        "department": "Health Department"
+      },
+      {
+        "id": "p_9650bb",
+        "issue": "Women Safety & Crimes",
+        "activeDays": 87,
+        "persistenceStatus": "chronic",
+        "department": "Women Security Cell"
+      },
+      {
+        "id": "p_963a63",
+        "issue": "Education System Issues",
+        "activeDays": 84,
+        "persistenceStatus": "chronic",
+        "department": "Education Department"
+      },
+      {
+        "id": "p_23a1a1",
+        "issue": "Sanitation & Waste Management",
+        "activeDays": 73,
+        "persistenceStatus": "chronic",
+        "department": "Municipal Corporation"
+      },
+      {
+        "id": "p_57f7bf",
+        "issue": "Governance & Administrative Failure",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "General Administration"
+      },
+      {
+        "id": "p_e0f90d",
+        "issue": "Public Transport Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Transport Department"
+      },
+      {
+        "id": "p_f1e216",
+        "issue": "Road & Infrastructure Issues",
+        "activeDays": 1,
+        "persistenceStatus": "recurring",
+        "department": "Public Works Department (PWD)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Paschim_Medinipur",
+    "name": "Pingla",
+    "total_signals": 15662,
+    "generated_at": "2026-01-19T19:16:47+00:00Z"
+  },
+  "PANEL_6": {
+    "SIGNAL_CREDIBILITY": {
+      "high_credibility_ratio": 0.86,
+      "medium_credibility_ratio": 0.07,
+      "low_credibility_ratio": 0.07,
+      "verified_issues": [
+        "Corruption & Bribery",
+        "Crime & Law and Order",
+        "Education System Issues",
+        "Environmental Degradation",
+        "Farmer & Agriculture Issues",
+        "Governance & Administrative Failure",
+        "Healthcare Access & Services",
+        "Public Transport Issues",
+        "Road & Infrastructure Issues",
+        "Sanitation & Waste Management",
+        "Traffic & Road Safety",
+        "Women Safety & Crimes"
+      ],
+      "noise_issues": [
+        "Electricity & Power Outage"
+      ],
+      "contested_issues": [
+        "Water Supply Disruption"
+      ]
+    }
+  }
+}

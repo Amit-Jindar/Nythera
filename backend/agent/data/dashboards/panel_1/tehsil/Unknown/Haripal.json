@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Haripal",
+    "district": "Unknown",
+    "total_signals": 3,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 71.3,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-11-28 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-20",
+        "sentiment": 84.1,
+        "rollingAverage": 84.1
+      },
+      {
+        "date": "2025-11-27",
+        "sentiment": 75.7,
+        "rollingAverage": 79.9
+      },
+      {
+        "date": "2025-11-28",
+        "sentiment": 54.1,
+        "rollingAverage": 71.3
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 3.58,
+        "confidence": 0.143
+      },
+      {
+        "emotion": "Fear",
+        "value": 3.64,
+        "confidence": 0.145
+      },
+      {
+        "emotion": "Trust",
+        "value": 17.52,
+        "confidence": 0.701
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.26,
+        "confidence": 0.01
+      }
+    ]
+  }
+}

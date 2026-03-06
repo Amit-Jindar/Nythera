@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "English_Bazar",
+    "district": "Unknown",
+    "total_signals": 11,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 72.81,
+      "zone": "Stable",
+      "trend": "deteriorating",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-29 13:12 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-10-22",
+        "sentiment": 63.1,
+        "rollingAverage": 63.1
+      },
+      {
+        "date": "2025-10-30",
+        "sentiment": 87.5,
+        "rollingAverage": 75.3
+      },
+      {
+        "date": "2025-11-14",
+        "sentiment": 83.6,
+        "rollingAverage": 78.1
+      },
+      {
+        "date": "2025-11-18",
+        "sentiment": 49.9,
+        "rollingAverage": 71.0
+      },
+      {
+        "date": "2025-11-21",
+        "sentiment": 77.2,
+        "rollingAverage": 72.3
+      },
+      {
+        "date": "2025-11-23",
+        "sentiment": 78.8,
+        "rollingAverage": 73.3
+      },
+      {
+        "date": "2025-11-29",
+        "sentiment": 78.1,
+        "rollingAverage": 74.0
+      },
+      {
+        "date": "2025-12-06",
+        "sentiment": 46.9,
+        "rollingAverage": 71.7
+      },
+      {
+        "date": "2025-12-12",
+        "sentiment": 77.5,
+        "rollingAverage": 70.3
+      },
+      {
+        "date": "2025-12-29",
+        "sentiment": 85.5,
+        "rollingAverage": 70.6
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 0.74,
+        "confidence": 0.03
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.37,
+        "confidence": 0.295
+      },
+      {
+        "emotion": "Trust",
+        "value": 16.66,
+        "confidence": 0.667
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.22,
+        "confidence": 0.009
+      }
+    ]
+  }
+}

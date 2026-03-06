@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Ranaghat",
+    "district": "Unknown",
+    "total_signals": 2,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 62.95,
+      "zone": "Concern",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2025-12-25 02:30 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-12-20",
+        "sentiment": 81.1,
+        "rollingAverage": 81.1
+      },
+      {
+        "date": "2025-12-25",
+        "sentiment": 44.8,
+        "rollingAverage": 62.9
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 1.3,
+        "confidence": 0.052
+      },
+      {
+        "emotion": "Fear",
+        "value": 9.45,
+        "confidence": 0.378
+      },
+      {
+        "emotion": "Trust",
+        "value": 14.03,
+        "confidence": 0.561
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 0.22,
+        "confidence": 0.009
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "district": "Nadia",
+    "name": "Palashipara",
+    "total_signals": 4,
+    "generated_at": "2026-01-19T19:07:16+00:00Z"
+  },
+  "PANEL_2": {
+    "ISSUE_HOTSPOTS": [
+      {
+        "id": "h_139339",
+        "issue": "Crime & Law and Order",
+        "location": "Palashipara",
+        "severity": 9.8,
+        "volume": 2,
+        "status": "active",
+        "lifecycle": "resolving"
+      },
+      {
+        "id": "h_c1527b",
+        "issue": "Education System Issues",
+        "location": "Palashipara",
+        "severity": 5.9,
+        "volume": 2,
+        "status": "resolving",
+        "lifecycle": "resolving"
+      }
+    ],
+    "PERSISTENT_ISSUES": [
+      {
+        "id": "p_139339",
+        "issue": "Crime & Law and Order",
+        "activeDays": 40,
+        "persistenceStatus": "stuck",
+        "department": "Police"
+      },
+      {
+        "id": "p_c1527b",
+        "issue": "Education System Issues",
+        "activeDays": 37,
+        "persistenceStatus": "stuck",
+        "department": "Education Department"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "level": "tehsil",
+    "name": "Bishnupur_South",
+    "district": "Unknown",
+    "total_signals": 7,
+    "generated_at": "2026-01-19T19:05:28+00:00Z"
+  },
+  "PANEL_1": {
+    "MOOD_SNAPSHOT": {
+      "dsi_score": 79.17,
+      "zone": "Stable",
+      "trend": "stable",
+      "risk_level": "LOW",
+      "last_updated": "2026-01-05 22:36 UTC"
+    },
+    "SENTIMENT_TREND": [
+      {
+        "date": "2025-11-21",
+        "sentiment": 80.6,
+        "rollingAverage": 80.6
+      },
+      {
+        "date": "2026-01-02",
+        "sentiment": 64.9,
+        "rollingAverage": 72.8
+      },
+      {
+        "date": "2026-01-04",
+        "sentiment": 85.4,
+        "rollingAverage": 77.0
+      },
+      {
+        "date": "2026-01-05",
+        "sentiment": 85.8,
+        "rollingAverage": 79.2
+      }
+    ],
+    "EMOTION_SNAPSHOT": [
+      {
+        "emotion": "Anger",
+        "value": 4.58,
+        "confidence": 0.183
+      },
+      {
+        "emotion": "Fear",
+        "value": 7.47,
+        "confidence": 0.299
+      },
+      {
+        "emotion": "Trust",
+        "value": 10.15,
+        "confidence": 0.406
+      },
+      {
+        "emotion": "Curiosity",
+        "value": 2.8,
+        "confidence": 0.112
+      }
+    ]
+  }
+}
