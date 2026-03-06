@@ -4,7 +4,7 @@ import json
 
 router = APIRouter()
 
-BASE_DIR = Path("/home/genius/Public/agent/data/dashboards/final/state")
+BASE_DIR = Path(__file__).resolve().parents[2] / "data/dashboards/final/state"
 VALID_PANELS = {f"PANEL_{i}" for i in range(1, 7)}
 
 # -------------------------------------------------
